@@ -1,0 +1,1001 @@
+Name,Age,Gender,Country,State,City,Parent Occupation,Earning Class,Level of Student,Level of Course,Course Name,Assessment Score,Time spent Per Day,Material Level,IQ of Student
+Jacqueline Wilson,14,Male,Canada,Ontario,Toronto,Scientist,Low,Advanced,Basic,Geography,50.18,2.87,Medium,127
+William Wilson,18,Male,USA,New York,New York City,Scientist,Low,Beginner,Intermediate,Biology,58.44,1.72,Medium,89
+Sophia Davis,12,Female,Australia,New South Wales,Sydney,Doctor,Middle,Beginner,Advanced,Geography,93.74,0.51,Easy,104
+William Davis,16,Male,India,Maharashtra,Pune,Teacher,High,Beginner,Intermediate,Chemistry,54.78,1.53,Hard,99
+Stephanie Tapia,5,Male,USA,Texas,Houston,Engineer,High,Beginner,Intermediate,Biology,49.34,2.75,Hard,124
+Jacqueline Sanchez,13,Female,Canada,Quebec,Montreal,Scientist,Middle,Intermediate,Advanced,Programming,79.08,1.85,Easy,106
+William Miller,17,Female,UK,Scotland,Edinburgh,Teacher,High,Beginner,Basic,Mathematics,89.68,1.98,Easy,130
+Sophia Brown,10,Male,Australia,Victoria,Geelong,Business Owner,Low,Intermediate,Advanced,Biology,74.97,0.54,Hard,121
+Jacqueline Garcia,11,Female,Australia,Victoria,Geelong,Teacher,Low,Beginner,Basic,Economics,76.8,1.97,Easy,123
+Justin Sanchez,11,Male,Australia,New South Wales,Newcastle,Business Owner,Middle,Beginner,Intermediate,Coding for Kids,68.54,0.96,Hard,88
+Karen Garcia,7,Female,UK,England,Manchester,Doctor,Low,Beginner,Intermediate,History,44.01,1.19,Easy,138
+Jacqueline Andrews,5,Male,USA,Texas,Dallas,Doctor,High,Beginner,Advanced,Economics,73.44,2.18,Easy,92
+Emily Tapia,4,Female,USA,Texas,Dallas,Business Owner,Low,Beginner,Basic,Health Education,77.64,0.66,Medium,101
+Daniel Fox,13,Male,UK,England,Manchester,Teacher,Middle,Intermediate,Basic,Astronomy,98.87,2.7,Hard,91
+Daniel Andrews,6,Male,India,Maharashtra,Mumbai,Artist,Low,Advanced,Advanced,Geography,73.35,2.35,Easy,85
+Robert Wilson,6,Female,Australia,Victoria,Melbourne,Artist,Low,Beginner,Intermediate,Health Education,71.78,1.0,Easy,134
+Daniel Andrews,18,Female,Australia,New South Wales,Sydney,Scientist,Low,Advanced,Advanced,Logical Reasoning,47.72,0.72,Medium,132
+Justin Fox,11,Female,USA,New York,New York City,Doctor,Middle,Advanced,Basic,Mathematics,58.76,0.52,Medium,107
+Jacqueline Fox,17,Female,India,Karnataka,Mysore,Scientist,High,Intermediate,Advanced,Biology,94.93,2.73,Easy,114
+Sophia Tapia,12,Female,India,Karnataka,Bangalore,Scientist,High,Advanced,Advanced,Mathematics,74.52,0.98,Hard,99
+Justin Davis,8,Female,Australia,Victoria,Melbourne,Software Developer,Middle,Intermediate,Advanced,Mathematics,83.02,0.75,Easy,115
+William Garcia,7,Female,India,Karnataka,Mysore,Engineer,Low,Beginner,Basic,English,75.75,1.55,Medium,139
+Taylor Tucker,5,Male,UK,England,Manchester,Business Owner,Low,Advanced,Intermediate,Mathematics,89.93,2.7,Hard,104
+Justin Tucker,10,Male,UK,England,Manchester,Teacher,Middle,Advanced,Advanced,Physics,66.93,2.09,Hard,116
+Emily Brown,17,Prefer not to say,UK,England,London,Scientist,Middle,Advanced,Basic,Economics,90.24,2.83,Medium,134
+Taylor Davis,5,Female,UK,England,London,Engineer,Middle,Intermediate,Basic,Mathematics,70.16,1.05,Easy,120
+William Davis,12,Female,Australia,Victoria,Geelong,Software Developer,Middle,Intermediate,Basic,Economics,54.31,2.65,Hard,107
+Stephanie Wilson,12,Male,UK,England,Manchester,Business Owner,Middle,Beginner,Basic,Reading & Writing,51.35,0.66,Hard,89
+Robert Garcia,5,Female,Canada,Ontario,Toronto,Business Owner,Middle,Intermediate,Basic,Storytelling & Creative Writing,63.69,1.54,Medium,96
+Taylor Wilson,12,Male,USA,New York,Buffalo,Engineer,Middle,Advanced,Intermediate,Computer Science,96.74,2.9,Easy,93
+Daniel Miller,18,Male,India,Maharashtra,Mumbai,Engineer,Middle,Intermediate,Intermediate,History,86.12,1.11,Medium,123
+Daniel Miller,10,Female,UK,Scotland,Glasgow,Teacher,High,Intermediate,Advanced,Chemistry,76.7,1.11,Easy,103
+Emily Garcia,16,Male,India,Karnataka,Mysore,Artist,High,Intermediate,Intermediate,Health Education,51.69,2.77,Easy,131
+Taylor Andrews,5,Male,Australia,Victoria,Geelong,Scientist,Low,Intermediate,Advanced,Programming,87.42,2.88,Easy,88
+Taylor Wilson,13,Male,UK,England,Manchester,Doctor,High,Advanced,Basic,Economics,73.91,1.21,Medium,84
+Sophia Fox,15,Male,India,Maharashtra,Mumbai,Teacher,Low,Intermediate,Basic,Storytelling & Creative Writing,46.17,2.23,Medium,124
+Justin Tucker,17,Male,Canada,Ontario,Toronto,Software Developer,Low,Intermediate,Intermediate,Computer Science,97.04,0.58,Medium,140
+Jacqueline Sanchez,4,Female,USA,New York,Buffalo,Software Developer,Middle,Intermediate,Intermediate,Science,86.78,1.45,Hard,127
+Robert Davis,8,Female,Australia,Victoria,Geelong,Teacher,Low,Beginner,Advanced,Astronomy,83.22,1.61,Medium,88
+Stephanie Garcia,10,Male,USA,Texas,Dallas,Engineer,Middle,Advanced,Intermediate,Astronomy,75.12,1.8,Easy,89
+Justin Tucker,5,Female,Canada,Ontario,Toronto,Artist,Low,Advanced,Intermediate,History,50.21,2.12,Medium,121
+Robert Andrews,11,Female,Canada,Quebec,Quebec City,Artist,Low,Advanced,Basic,Economics,72.69,1.84,Medium,91
+Karen Garcia,15,Female,India,Maharashtra,Pune,Scientist,Low,Beginner,Intermediate,Geography,74.05,2.86,Easy,108
+Emily Wilson,14,Male,Canada,Ontario,Toronto,Scientist,Middle,Intermediate,Intermediate,Cyber Safety,77.61,1.98,Easy,134
+Karen Fox,6,Male,UK,Scotland,Glasgow,Teacher,Low,Intermediate,Advanced,Cyber Safety,96.74,2.45,Hard,120
+Sophia Tucker,6,Male,Australia,New South Wales,Sydney,Business Owner,Middle,Advanced,Advanced,Physics,46.64,1.33,Hard,137
+Stephanie Andrews,4,Female,Canada,Ontario,Toronto,Scientist,Middle,Beginner,Intermediate,Cyber Safety,75.14,2.89,Hard,122
+William Wilson,12,Female,Canada,Quebec,Quebec City,Artist,Middle,Intermediate,Intermediate,Computer Science,47.86,2.29,Hard,118
+William Brown,5,Female,Canada,Ontario,Toronto,Scientist,Middle,Beginner,Basic,Mathematics,61.91,0.54,Easy,96
+Karen Garcia,17,Male,Australia,Victoria,Melbourne,Doctor,Middle,Intermediate,Basic,Geography,40.92,2.32,Hard,99
+Taylor Garcia,5,Male,Australia,New South Wales,Sydney,Teacher,Low,Beginner,Advanced,Science,75.13,2.72,Hard,119
+Emily Brown,5,Male,USA,New York,Buffalo,Software Developer,Middle,Advanced,Advanced,English,52.06,1.97,Medium,119
+Stephanie Miller,10,Female,UK,Scotland,Edinburgh,Engineer,Middle,Advanced,Advanced,Computer Science,97.05,0.74,Medium,90
+Emily Tapia,4,Male,Australia,New South Wales,Sydney,Engineer,High,Beginner,Basic,Reading & Writing,65.02,1.11,Medium,88
+William Davis,4,Female,USA,Texas,Houston,Artist,Middle,Advanced,Advanced,Economics,87.17,1.22,Easy,105
+Taylor Tapia,15,Female,USA,New York,Buffalo,Scientist,Low,Advanced,Intermediate,Cyber Safety,54.79,2.01,Hard,134
+Sophia Brown,13,Female,India,Karnataka,Mysore,Teacher,Low,Advanced,Advanced,Critical Thinking,87.84,2.44,Hard,103
+Karen Davis,4,Female,Australia,Victoria,Melbourne,Doctor,High,Advanced,Basic,Civics,89.57,1.59,Medium,106
+Daniel Miller,4,Male,India,Karnataka,Bangalore,Teacher,High,Intermediate,Intermediate,Critical Thinking,40.42,0.66,Easy,95
+Taylor Wilson,11,Male,India,Karnataka,Bangalore,Scientist,Middle,Intermediate,Basic,Economics,93.89,2.48,Easy,133
+Daniel Andrews,18,Male,India,Karnataka,Mysore,Doctor,High,Beginner,Advanced,Storytelling & Creative Writing,42.24,2.42,Medium,86
+Justin Miller,4,Male,India,Maharashtra,Pune,Artist,High,Beginner,Basic,Computer Science,47.75,1.15,Medium,84
+Justin Tapia,12,Female,Canada,Quebec,Quebec City,Scientist,High,Intermediate,Intermediate,Civics,98.46,1.6,Hard,104
+Daniel Fox,8,Female,Australia,New South Wales,Newcastle,Teacher,Middle,Intermediate,Intermediate,Environmental Science,88.18,2.45,Easy,126
+Robert Tapia,18,Male,USA,New York,New York City,Artist,High,Beginner,Basic,History,63.97,2.8,Hard,97
+Robert Miller,4,Female,UK,England,Manchester,Software Developer,Low,Beginner,Intermediate,Reading & Writing,87.42,2.91,Easy,133
+Robert Sanchez,5,Prefer not to say,India,Maharashtra,Pune,Scientist,Middle,Intermediate,Intermediate,Civics,90.72,2.94,Easy,106
+Daniel Miller,16,Female,India,Maharashtra,Mumbai,Business Owner,High,Beginner,Intermediate,Coding for Kids,94.71,1.81,Medium,131
+Taylor Davis,15,Female,UK,England,Manchester,Business Owner,High,Beginner,Intermediate,Reading & Writing,44.93,1.71,Medium,80
+Robert Davis,8,Male,UK,Scotland,Glasgow,Business Owner,Low,Advanced,Advanced,Biology,64.33,1.37,Easy,108
+Daniel Wilson,10,Female,UK,Scotland,Glasgow,Business Owner,Middle,Intermediate,Advanced,Mathematics,73.11,0.59,Hard,131
+Sophia Miller,13,Female,UK,England,London,Engineer,Low,Intermediate,Advanced,Geography,48.09,1.4,Medium,104
+Taylor Miller,15,Male,USA,California,Los Angeles,Doctor,High,Advanced,Basic,Civics,49.94,2.26,Easy,91
+Taylor Andrews,5,Male,UK,Scotland,Edinburgh,Teacher,Middle,Intermediate,Intermediate,Civics,84.42,2.28,Easy,115
+Emily Andrews,8,Male,India,Karnataka,Bangalore,Doctor,Middle,Intermediate,Intermediate,Civics,48.59,2.32,Easy,137
+Taylor Brown,9,Male,Australia,Victoria,Melbourne,Business Owner,Low,Beginner,Intermediate,Civics,47.34,2.1,Easy,86
+Stephanie Tucker,8,Male,USA,New York,New York City,Artist,High,Beginner,Intermediate,Mathematics,47.01,2.57,Medium,140
+Karen Davis,16,Male,Australia,Victoria,Melbourne,Artist,Low,Intermediate,Basic,Critical Thinking,83.58,1.8,Easy,128
+Robert Wilson,8,Male,Australia,New South Wales,Newcastle,Business Owner,Low,Intermediate,Intermediate,Biology,62.36,1.65,Hard,104
+Stephanie Fox,6,Male,Australia,New South Wales,Newcastle,Software Developer,Low,Advanced,Advanced,Environmental Science,59.95,0.62,Hard,102
+Karen Fox,9,Male,India,Maharashtra,Pune,Doctor,High,Beginner,Basic,Astronomy,81.12,1.44,Easy,127
+William Garcia,11,Male,USA,Texas,Dallas,Teacher,Low,Beginner,Basic,Biology,68.91,2.28,Hard,94
+Emily Sanchez,13,Male,USA,Texas,Houston,Engineer,Middle,Intermediate,Advanced,Chemistry,89.09,0.98,Easy,96
+Jacqueline Wilson,12,Female,Canada,Quebec,Quebec City,Artist,High,Intermediate,Advanced,Economics,89.43,0.67,Medium,112
+Sophia Tapia,15,Prefer not to say,India,Karnataka,Bangalore,Engineer,High,Intermediate,Basic,Astronomy,63.01,2.27,Easy,115
+Jacqueline Brown,14,Male,Canada,Ontario,Ottawa,Teacher,Low,Beginner,Basic,Health Education,79.15,1.71,Hard,84
+Justin Andrews,12,Male,Canada,Ontario,Ottawa,Engineer,Low,Intermediate,Advanced,Cyber Safety,45.85,2.97,Medium,101
+Daniel Garcia,18,Prefer not to say,Australia,New South Wales,Newcastle,Scientist,High,Advanced,Intermediate,Physics,93.84,1.16,Easy,131
+William Sanchez,7,Male,UK,Scotland,Glasgow,Business Owner,High,Intermediate,Basic,Geography,52.9,0.65,Medium,138
+Sophia Miller,8,Female,UK,England,London,Software Developer,Low,Intermediate,Basic,Biology,42.18,2.84,Easy,127
+Jacqueline Davis,4,Male,India,Karnataka,Mysore,Engineer,Low,Beginner,Advanced,Astronomy,59.6,2.11,Easy,93
+Daniel Wilson,17,Male,India,Maharashtra,Mumbai,Teacher,Low,Advanced,Intermediate,Mathematics,83.15,1.72,Hard,122
+Emily Davis,4,Male,Australia,New South Wales,Sydney,Business Owner,Middle,Beginner,Basic,Logical Reasoning,59.02,2.97,Medium,129
+Robert Fox,14,Female,Canada,Ontario,Ottawa,Doctor,Middle,Advanced,Basic,Economics,98.34,1.43,Hard,94
+Sophia Brown,5,Female,UK,Scotland,Glasgow,Scientist,Middle,Advanced,Basic,Reading & Writing,88.23,2.66,Medium,99
+Karen Sanchez,10,Male,USA,California,San Francisco,Teacher,Middle,Beginner,Advanced,Geography,74.26,1.4,Easy,105
+Karen Brown,8,Male,Canada,Quebec,Montreal,Software Developer,High,Intermediate,Basic,Cyber Safety,98.85,1.61,Easy,135
+Sophia Wilson,8,Female,USA,California,San Francisco,Doctor,Low,Advanced,Basic,Environmental Science,69.61,2.62,Easy,90
+William Brown,18,Male,USA,Texas,Dallas,Doctor,Middle,Beginner,Basic,Logical Reasoning,63.65,0.5,Easy,80
+William Brown,8,Male,Australia,Victoria,Melbourne,Engineer,High,Advanced,Advanced,Coding for Kids,94.72,0.67,Easy,109
+Taylor Miller,15,Male,Australia,New South Wales,Newcastle,Business Owner,Low,Intermediate,Advanced,Chemistry,66.18,0.73,Easy,132
+William Davis,17,Female,USA,California,Los Angeles,Scientist,High,Advanced,Basic,Health Education,42.67,1.96,Hard,87
+Sophia Andrews,11,Male,UK,Scotland,Glasgow,Business Owner,Low,Beginner,Advanced,Programming,49.11,0.65,Medium,106
+Jacqueline Andrews,14,Female,USA,New York,Buffalo,Business Owner,Low,Intermediate,Advanced,Computer Science,86.42,2.3,Hard,94
+Stephanie Garcia,13,Male,Australia,New South Wales,Newcastle,Scientist,High,Advanced,Intermediate,Civics,52.35,0.68,Medium,110
+Daniel Garcia,11,Female,UK,Scotland,Glasgow,Scientist,High,Beginner,Basic,Geography,76.86,0.79,Medium,119
+Karen Brown,6,Female,Canada,Ontario,Ottawa,Engineer,High,Advanced,Basic,Astronomy,58.12,1.86,Medium,126
+Daniel Sanchez,8,Male,Australia,New South Wales,Newcastle,Business Owner,Middle,Advanced,Advanced,Geography,98.61,0.88,Hard,85
+Emily Tucker,12,Male,Canada,Quebec,Quebec City,Artist,Low,Beginner,Basic,Economics,59.66,2.99,Easy,131
+Jacqueline Wilson,11,Male,Canada,Ontario,Ottawa,Artist,Middle,Advanced,Intermediate,Civics,58.38,2.99,Easy,130
+Sophia Brown,12,Female,India,Maharashtra,Mumbai,Software Developer,Middle,Intermediate,Basic,Chemistry,53.5,2.95,Easy,83
+Stephanie Fox,18,Female,USA,California,Los Angeles,Engineer,Middle,Intermediate,Intermediate,Biology,63.07,2.24,Hard,121
+Stephanie Wilson,5,Female,India,Maharashtra,Mumbai,Teacher,Middle,Advanced,Basic,Cyber Safety,80.03,2.18,Medium,136
+Daniel Davis,15,Female,USA,Texas,Dallas,Doctor,Middle,Beginner,Advanced,Civics,46.4,1.62,Hard,139
+Stephanie Wilson,10,Male,UK,England,Manchester,Doctor,Low,Advanced,Advanced,Logical Reasoning,75.03,1.52,Hard,128
+Justin Miller,17,Male,UK,England,Manchester,Software Developer,High,Advanced,Basic,Logical Reasoning,43.02,2.69,Hard,101
+Sophia Fox,12,Male,Australia,New South Wales,Newcastle,Artist,High,Beginner,Basic,Critical Thinking,40.44,1.52,Hard,119
+Taylor Tucker,12,Male,Canada,Quebec,Montreal,Artist,High,Advanced,Advanced,Health Education,63.22,0.89,Hard,103
+Sophia Tapia,13,Female,Canada,Quebec,Montreal,Scientist,High,Intermediate,Intermediate,Reading & Writing,60.29,2.17,Easy,97
+Jacqueline Garcia,16,Male,Australia,Victoria,Melbourne,Business Owner,Middle,Beginner,Basic,Cyber Safety,76.39,1.68,Hard,125
+Jacqueline Tapia,12,Female,USA,California,Los Angeles,Artist,High,Advanced,Intermediate,Environmental Science,79.15,1.63,Easy,103
+William Andrews,5,Male,Australia,Victoria,Melbourne,Artist,High,Intermediate,Basic,Artificial Intelligence Basics,91.62,1.03,Easy,112
+Justin Tucker,14,Female,USA,New York,Buffalo,Doctor,High,Beginner,Basic,History,65.55,2.05,Easy,129
+Karen Brown,11,Male,India,Karnataka,Mysore,Doctor,High,Intermediate,Advanced,Mathematics,86.72,1.52,Easy,82
+Robert Fox,11,Male,Australia,New South Wales,Newcastle,Business Owner,Low,Intermediate,Advanced,Astronomy,62.17,2.16,Easy,114
+Jacqueline Wilson,11,Female,Canada,Ontario,Ottawa,Teacher,Middle,Intermediate,Intermediate,Environmental Science,94.42,2.57,Easy,100
+Robert Brown,7,Male,UK,England,Manchester,Scientist,High,Advanced,Basic,Cyber Safety,56.6,2.83,Hard,99
+William Tapia,17,Male,Australia,Victoria,Melbourne,Artist,Low,Beginner,Basic,History,91.51,1.53,Hard,118
+Stephanie Sanchez,5,Female,Canada,Quebec,Quebec City,Artist,Low,Beginner,Advanced,Logical Reasoning,84.71,2.46,Hard,136
+Robert Garcia,10,Male,India,Maharashtra,Pune,Engineer,Middle,Beginner,Advanced,Economics,70.39,0.8,Hard,87
+Karen Andrews,12,Male,Canada,Ontario,Ottawa,Business Owner,High,Advanced,Intermediate,Biology,87.54,0.72,Medium,122
+Stephanie Miller,9,Female,India,Maharashtra,Mumbai,Teacher,Low,Intermediate,Advanced,Physics,72.73,2.9,Hard,97
+Daniel Tapia,8,Male,USA,Texas,Houston,Software Developer,Low,Beginner,Advanced,Astronomy,52.35,2.42,Easy,109
+Justin Tapia,13,Female,Canada,Ontario,Toronto,Engineer,Low,Intermediate,Intermediate,English,95.91,1.76,Medium,81
+Karen Sanchez,17,Male,UK,Scotland,Edinburgh,Doctor,High,Advanced,Advanced,Critical Thinking,76.55,2.79,Medium,106
+Emily Wilson,7,Male,USA,Texas,Houston,Business Owner,Low,Advanced,Basic,Reading & Writing,59.99,1.84,Easy,86
+Stephanie Tucker,6,Male,UK,Scotland,Glasgow,Teacher,High,Intermediate,Basic,Geography,74.1,2.91,Hard,107
+Stephanie Tucker,18,Female,Australia,New South Wales,Newcastle,Scientist,Middle,Beginner,Basic,Reading & Writing,55.81,1.6,Hard,91
+Justin Andrews,11,Female,Canada,Quebec,Quebec City,Doctor,High,Advanced,Advanced,Reading & Writing,50.28,0.76,Medium,126
+Justin Garcia,6,Female,India,Maharashtra,Pune,Business Owner,Low,Advanced,Advanced,Physics,43.64,2.62,Easy,132
+Daniel Tucker,5,Female,Australia,New South Wales,Sydney,Artist,Middle,Advanced,Intermediate,Critical Thinking,73.94,2.83,Hard,94
+Emily Fox,5,Female,USA,New York,Buffalo,Engineer,Middle,Advanced,Intermediate,Mathematics,49.57,0.89,Hard,91
+Taylor Andrews,6,Female,Canada,Ontario,Toronto,Teacher,Low,Beginner,Advanced,Science,77.37,1.59,Medium,120
+Stephanie Fox,7,Male,Canada,Ontario,Ottawa,Engineer,High,Intermediate,Basic,Science,53.42,1.11,Hard,87
+Justin Miller,16,Female,USA,Texas,Houston,Business Owner,Low,Intermediate,Intermediate,Astronomy,76.9,1.16,Medium,106
+William Fox,15,Female,India,Karnataka,Bangalore,Engineer,Middle,Beginner,Basic,Cyber Safety,64.97,1.48,Medium,107
+Daniel Sanchez,16,Female,USA,Texas,Houston,Business Owner,High,Intermediate,Advanced,Chemistry,87.98,2.1,Hard,127
+Karen Tapia,7,Male,Australia,New South Wales,Newcastle,Scientist,Low,Intermediate,Advanced,Storytelling & Creative Writing,91.37,1.78,Hard,106
+Taylor Brown,6,Male,USA,Texas,Dallas,Doctor,Low,Advanced,Basic,Science,78.49,1.17,Easy,90
+Stephanie Tucker,5,Female,UK,England,London,Engineer,Low,Beginner,Advanced,Science,46.39,0.53,Easy,133
+Robert Davis,5,Male,UK,Scotland,Edinburgh,Scientist,High,Advanced,Intermediate,Civics,86.07,2.32,Medium,103
+Justin Brown,10,Female,UK,England,Manchester,Software Developer,Middle,Advanced,Intermediate,Mathematics,59.5,0.81,Hard,123
+Daniel Garcia,14,Female,India,Karnataka,Bangalore,Artist,Low,Advanced,Intermediate,History,59.08,2.23,Hard,91
+Emily Garcia,18,Female,India,Karnataka,Bangalore,Business Owner,Low,Beginner,Basic,Science,51.2,2.7,Hard,134
+Taylor Fox,12,Male,USA,California,San Francisco,Teacher,Middle,Beginner,Advanced,Reading & Writing,97.3,2.67,Medium,139
+Robert Brown,15,Male,India,Maharashtra,Pune,Doctor,Middle,Advanced,Basic,Artificial Intelligence Basics,53.8,0.56,Medium,98
+Sophia Brown,11,Male,India,Maharashtra,Mumbai,Doctor,High,Advanced,Basic,Mathematics,66.0,1.06,Hard,80
+Stephanie Brown,10,Male,Australia,New South Wales,Newcastle,Software Developer,Low,Beginner,Basic,Coding for Kids,47.9,2.82,Easy,127
+Jacqueline Sanchez,12,Male,Australia,Victoria,Melbourne,Teacher,High,Beginner,Basic,History,49.43,2.14,Medium,126
+Robert Garcia,9,Female,Australia,New South Wales,Newcastle,Engineer,Low,Intermediate,Intermediate,Health Education,98.56,0.69,Easy,130
+Robert Wilson,12,Female,USA,New York,New York City,Artist,High,Intermediate,Intermediate,Storytelling & Creative Writing,67.35,2.62,Medium,82
+Stephanie Andrews,9,Male,Canada,Ontario,Toronto,Doctor,High,Advanced,Advanced,Coding for Kids,51.19,1.53,Medium,139
+Sophia Fox,6,Male,Australia,Victoria,Melbourne,Business Owner,Middle,Advanced,Intermediate,Storytelling & Creative Writing,68.39,2.62,Easy,98
+Sophia Brown,11,Male,USA,Texas,Dallas,Artist,Low,Advanced,Advanced,Chemistry,60.07,1.99,Hard,103
+William Wilson,18,Female,Canada,Ontario,Ottawa,Engineer,Low,Intermediate,Basic,Programming,50.83,1.54,Easy,82
+Daniel Tucker,17,Male,UK,Scotland,Glasgow,Software Developer,Middle,Intermediate,Advanced,Computer Science,62.28,1.42,Easy,95
+William Davis,14,Female,USA,New York,New York City,Software Developer,High,Intermediate,Basic,English,64.1,2.92,Medium,94
+Taylor Andrews,16,Female,USA,California,Los Angeles,Artist,Low,Advanced,Intermediate,Mathematics,56.89,0.89,Hard,137
+Sophia Tucker,7,Male,Canada,Quebec,Quebec City,Artist,High,Advanced,Intermediate,Coding for Kids,40.74,0.62,Hard,107
+William Wilson,14,Male,UK,England,Manchester,Software Developer,High,Beginner,Basic,Chemistry,60.6,0.71,Easy,137
+Sophia Sanchez,13,Female,India,Karnataka,Mysore,Software Developer,High,Intermediate,Intermediate,Health Education,93.15,1.57,Medium,111
+Karen Andrews,16,Male,UK,England,Manchester,Teacher,High,Advanced,Basic,Programming,56.27,2.02,Hard,124
+William Wilson,10,Female,Canada,Ontario,Toronto,Artist,Middle,Beginner,Intermediate,English,88.64,1.58,Easy,84
+Justin Fox,4,Male,UK,Scotland,Edinburgh,Teacher,High,Advanced,Intermediate,Physics,97.86,0.82,Hard,93
+Karen Andrews,6,Female,Canada,Ontario,Toronto,Teacher,Middle,Advanced,Advanced,Environmental Science,88.95,0.67,Easy,89
+Taylor Garcia,12,Male,India,Maharashtra,Pune,Business Owner,Low,Beginner,Advanced,History,45.47,2.54,Medium,137
+Jacqueline Garcia,18,Female,Canada,Quebec,Quebec City,Doctor,High,Intermediate,Advanced,English,61.91,1.61,Easy,139
+William Andrews,6,Male,Canada,Ontario,Ottawa,Software Developer,Middle,Advanced,Advanced,Economics,67.65,1.62,Easy,103
+Sophia Tapia,18,Female,Australia,Victoria,Geelong,Engineer,Low,Advanced,Advanced,Health Education,60.0,2.08,Medium,138
+Jacqueline Tapia,17,Female,Australia,Victoria,Geelong,Business Owner,Middle,Beginner,Advanced,Reading & Writing,90.3,0.79,Easy,107
+William Miller,15,Male,Canada,Quebec,Montreal,Scientist,High,Advanced,Basic,Logical Reasoning,54.32,2.62,Hard,107
+Sophia Garcia,6,Male,UK,Scotland,Glasgow,Business Owner,Middle,Beginner,Advanced,Astronomy,98.01,2.7,Hard,80
+Justin Davis,10,Female,Australia,Victoria,Geelong,Artist,Low,Advanced,Advanced,Economics,86.82,0.6,Hard,107
+Taylor Brown,17,Female,USA,Texas,Dallas,Software Developer,Low,Beginner,Basic,Economics,85.22,0.56,Easy,85
+Justin Andrews,17,Male,Canada,Ontario,Ottawa,Doctor,Middle,Beginner,Intermediate,Biology,42.23,0.95,Hard,135
+Stephanie Miller,9,Male,USA,New York,New York City,Engineer,High,Beginner,Advanced,Storytelling & Creative Writing,78.7,0.58,Hard,120
+Emily Garcia,6,Female,Australia,Victoria,Geelong,Software Developer,Middle,Advanced,Advanced,Economics,94.47,0.72,Hard,131
+Karen Andrews,17,Prefer not to say,USA,Texas,Dallas,Engineer,Middle,Intermediate,Advanced,Science,56.05,0.73,Easy,97
+William Garcia,14,Male,USA,Texas,Dallas,Teacher,High,Intermediate,Advanced,Computer Science,58.22,1.24,Hard,96
+Sophia Tucker,13,Male,Australia,Victoria,Geelong,Software Developer,High,Intermediate,Advanced,Environmental Science,94.18,1.02,Easy,112
+Stephanie Andrews,8,Male,UK,England,Manchester,Doctor,High,Intermediate,Basic,Critical Thinking,92.88,1.83,Easy,140
+Stephanie Tapia,10,Male,UK,Scotland,Glasgow,Business Owner,High,Advanced,Basic,Reading & Writing,92.47,1.82,Easy,100
+Sophia Miller,16,Female,USA,Texas,Dallas,Teacher,Middle,Beginner,Advanced,Science,73.75,0.71,Hard,121
+Jacqueline Fox,16,Male,Canada,Ontario,Ottawa,Engineer,Low,Intermediate,Basic,Storytelling & Creative Writing,49.95,1.96,Medium,112
+Jacqueline Miller,14,Female,USA,California,San Francisco,Scientist,High,Beginner,Intermediate,Physics,64.3,2.21,Medium,93
+Daniel Davis,15,Female,Canada,Ontario,Toronto,Software Developer,Low,Intermediate,Basic,Biology,96.37,1.51,Hard,116
+Emily Tapia,11,Female,USA,New York,Buffalo,Artist,High,Advanced,Advanced,Coding for Kids,68.23,1.84,Easy,133
+Jacqueline Brown,5,Male,UK,England,Manchester,Teacher,Middle,Advanced,Basic,Mathematics,48.06,1.98,Easy,107
+William Miller,7,Prefer not to say,Australia,New South Wales,Newcastle,Software Developer,Middle,Beginner,Advanced,Chemistry,67.47,2.09,Medium,139
+Karen Garcia,16,Female,Canada,Ontario,Ottawa,Doctor,Low,Advanced,Advanced,Chemistry,65.93,2.98,Easy,110
+William Garcia,8,Male,USA,Texas,Dallas,Software Developer,Low,Intermediate,Intermediate,Civics,82.27,1.65,Medium,103
+Emily Garcia,6,Male,UK,England,London,Teacher,High,Intermediate,Advanced,Geography,95.39,2.75,Hard,128
+Daniel Brown,5,Prefer not to say,UK,Scotland,Edinburgh,Artist,Middle,Advanced,Basic,Storytelling & Creative Writing,82.02,2.37,Hard,129
+Emily Davis,8,Female,Australia,Victoria,Melbourne,Artist,Middle,Advanced,Intermediate,Health Education,41.7,1.14,Hard,129
+Sophia Tucker,4,Male,India,Maharashtra,Pune,Scientist,Middle,Advanced,Intermediate,Reading & Writing,54.81,1.86,Hard,126
+Taylor Wilson,18,Male,UK,Scotland,Edinburgh,Doctor,Low,Advanced,Advanced,Artificial Intelligence Basics,48.92,2.42,Easy,118
+Emily Sanchez,11,Male,Canada,Ontario,Ottawa,Teacher,Middle,Beginner,Basic,Logical Reasoning,72.43,0.79,Hard,105
+Jacqueline Davis,6,Female,UK,England,London,Scientist,Low,Intermediate,Advanced,Environmental Science,87.11,1.43,Medium,104
+William Fox,7,Male,USA,New York,Buffalo,Software Developer,Low,Intermediate,Basic,Health Education,91.45,2.72,Hard,108
+Jacqueline Tucker,15,Male,UK,England,London,Software Developer,Low,Advanced,Advanced,Biology,59.72,1.75,Medium,121
+Sophia Wilson,9,Male,USA,California,Los Angeles,Teacher,Low,Beginner,Intermediate,Cyber Safety,89.1,0.68,Medium,110
+Sophia Brown,18,Male,Australia,New South Wales,Sydney,Scientist,Middle,Advanced,Advanced,Health Education,90.52,1.98,Medium,137
+Jacqueline Tucker,18,Female,Canada,Ontario,Toronto,Scientist,Low,Intermediate,Basic,Economics,84.17,1.47,Easy,106
+Sophia Wilson,8,Female,Australia,Victoria,Geelong,Artist,High,Intermediate,Intermediate,Critical Thinking,69.06,2.32,Easy,81
+Justin Brown,10,Male,Canada,Quebec,Quebec City,Doctor,High,Advanced,Advanced,Critical Thinking,62.98,1.39,Medium,96
+Emily Miller,15,Male,UK,England,London,Artist,High,Beginner,Advanced,Health Education,84.64,2.74,Easy,82
+Jacqueline Garcia,5,Male,USA,Texas,Houston,Software Developer,Middle,Beginner,Intermediate,Logical Reasoning,59.2,2.94,Easy,129
+Taylor Wilson,12,Female,Australia,Victoria,Melbourne,Business Owner,Middle,Advanced,Basic,Critical Thinking,51.28,2.25,Easy,89
+Karen Tapia,6,Male,Australia,Victoria,Geelong,Software Developer,High,Intermediate,Intermediate,Critical Thinking,83.66,1.2,Easy,89
+Jacqueline Miller,12,Male,UK,Scotland,Glasgow,Artist,Low,Intermediate,Basic,Astronomy,92.12,2.3,Medium,127
+Stephanie Davis,16,Male,Australia,New South Wales,Sydney,Engineer,Middle,Beginner,Advanced,Economics,41.37,2.61,Hard,100
+William Davis,4,Female,USA,California,San Francisco,Teacher,High,Beginner,Advanced,Economics,97.75,1.49,Hard,80
+Justin Garcia,15,Female,Australia,New South Wales,Newcastle,Teacher,High,Advanced,Intermediate,Economics,82.23,2.22,Medium,85
+Daniel Miller,11,Male,Australia,New South Wales,Sydney,Software Developer,Middle,Beginner,Basic,English,92.55,1.73,Hard,137
+Jacqueline Davis,16,Female,India,Maharashtra,Pune,Doctor,Low,Advanced,Advanced,Coding for Kids,66.42,1.3,Hard,100
+William Brown,11,Female,UK,Scotland,Glasgow,Business Owner,Low,Beginner,Intermediate,Economics,80.38,2.83,Easy,114
+Stephanie Tucker,4,Male,India,Karnataka,Mysore,Scientist,High,Beginner,Advanced,Programming,87.3,1.49,Medium,95
+Taylor Wilson,11,Female,UK,Scotland,Edinburgh,Business Owner,Low,Advanced,Basic,Geography,64.63,1.83,Hard,104
+Justin Miller,15,Female,India,Karnataka,Mysore,Business Owner,High,Beginner,Intermediate,Computer Science,95.82,1.31,Easy,123
+Daniel Tucker,11,Male,USA,California,San Francisco,Software Developer,High,Beginner,Advanced,Coding for Kids,79.28,2.84,Hard,135
+Jacqueline Tucker,6,Male,Australia,Victoria,Geelong,Teacher,Low,Advanced,Basic,Programming,95.48,0.7,Easy,130
+Robert Sanchez,5,Female,Canada,Quebec,Quebec City,Artist,Low,Beginner,Intermediate,Reading & Writing,45.17,1.54,Hard,96
+Sophia Wilson,12,Male,Canada,Quebec,Quebec City,Engineer,Low,Advanced,Advanced,Chemistry,55.21,1.48,Hard,82
+Karen Andrews,8,Male,UK,Scotland,Edinburgh,Engineer,Low,Advanced,Intermediate,Programming,48.58,0.79,Easy,103
+Justin Davis,12,Male,Canada,Quebec,Montreal,Engineer,Middle,Advanced,Advanced,History,57.44,2.23,Hard,120
+Karen Sanchez,18,Female,USA,Texas,Dallas,Business Owner,Middle,Intermediate,Basic,Programming,40.58,1.38,Hard,83
+Robert Brown,6,Prefer not to say,Australia,New South Wales,Sydney,Software Developer,Low,Beginner,Advanced,Critical Thinking,79.33,2.79,Hard,116
+Jacqueline Wilson,18,Male,UK,England,Manchester,Teacher,High,Intermediate,Advanced,Programming,57.81,0.73,Hard,115
+Daniel Sanchez,11,Female,USA,New York,Buffalo,Artist,Low,Beginner,Intermediate,Astronomy,86.85,0.61,Easy,109
+Emily Fox,5,Female,UK,Scotland,Edinburgh,Doctor,Middle,Advanced,Intermediate,Cyber Safety,75.24,0.94,Easy,128
+Justin Davis,16,Male,UK,Scotland,Edinburgh,Scientist,Low,Intermediate,Basic,Programming,87.54,0.52,Medium,123
+Justin Andrews,14,Female,India,Karnataka,Mysore,Business Owner,Low,Advanced,Intermediate,Chemistry,65.2,0.67,Medium,85
+Emily Tapia,7,Female,USA,California,Los Angeles,Doctor,High,Intermediate,Basic,History,59.28,2.18,Easy,112
+Jacqueline Tapia,16,Female,USA,Texas,Dallas,Teacher,Low,Advanced,Intermediate,History,81.07,2.31,Hard,132
+Karen Sanchez,14,Male,Australia,Victoria,Melbourne,Software Developer,Middle,Advanced,Intermediate,Geography,77.14,0.59,Hard,100
+Robert Davis,6,Male,India,Karnataka,Bangalore,Teacher,Low,Beginner,Advanced,Geography,87.81,0.86,Medium,135
+Emily Fox,4,Male,USA,Texas,Dallas,Doctor,Low,Beginner,Advanced,Logical Reasoning,41.69,2.43,Easy,95
+Stephanie Garcia,9,Prefer not to say,Canada,Quebec,Montreal,Artist,Low,Advanced,Basic,Civics,66.94,2.3,Hard,105
+Taylor Miller,6,Female,Australia,New South Wales,Newcastle,Engineer,Middle,Advanced,Advanced,Environmental Science,47.25,2.21,Medium,134
+William Fox,9,Male,Australia,Victoria,Geelong,Teacher,High,Advanced,Intermediate,Programming,87.57,2.66,Easy,139
+Sophia Tapia,12,Female,India,Maharashtra,Mumbai,Doctor,Low,Intermediate,Basic,History,86.21,1.69,Hard,121
+Emily Andrews,15,Female,USA,New York,New York City,Scientist,High,Advanced,Basic,Reading & Writing,45.28,2.86,Hard,115
+Sophia Tucker,4,Male,India,Maharashtra,Pune,Software Developer,Low,Intermediate,Basic,Astronomy,85.3,0.69,Hard,120
+Karen Davis,7,Female,India,Maharashtra,Pune,Doctor,Middle,Advanced,Intermediate,Computer Science,67.37,2.6,Hard,96
+Karen Tucker,4,Female,UK,Scotland,Glasgow,Business Owner,Middle,Advanced,Basic,Chemistry,87.89,2.8,Easy,127
+Stephanie Garcia,18,Male,USA,California,San Francisco,Business Owner,Low,Advanced,Advanced,Civics,40.21,2.8,Medium,114
+Daniel Miller,16,Male,India,Maharashtra,Mumbai,Doctor,Low,Advanced,Basic,Biology,64.34,1.39,Medium,140
+Emily Fox,9,Male,India,Karnataka,Bangalore,Software Developer,Low,Advanced,Basic,Geography,59.52,0.82,Easy,124
+Karen Davis,18,Female,USA,Texas,Dallas,Teacher,Middle,Advanced,Advanced,Physics,48.49,1.75,Hard,100
+Daniel Tucker,9,Female,Canada,Ontario,Ottawa,Business Owner,High,Advanced,Basic,Geography,80.77,2.03,Medium,110
+Jacqueline Tucker,12,Female,Australia,New South Wales,Newcastle,Doctor,High,Beginner,Intermediate,Biology,42.8,1.05,Easy,91
+Robert Tapia,14,Male,Australia,Victoria,Geelong,Scientist,High,Intermediate,Intermediate,Coding for Kids,97.06,1.26,Easy,98
+Stephanie Fox,7,Male,Australia,New South Wales,Newcastle,Artist,High,Advanced,Intermediate,Civics,83.99,2.12,Easy,112
+Stephanie Tucker,11,Male,USA,California,Los Angeles,Business Owner,High,Advanced,Basic,Physics,85.37,1.27,Medium,81
+Taylor Brown,17,Male,Australia,Victoria,Melbourne,Doctor,Low,Beginner,Basic,Civics,64.74,2.2,Hard,107
+Justin Fox,18,Male,Australia,New South Wales,Sydney,Scientist,High,Intermediate,Advanced,Health Education,63.73,2.26,Medium,134
+Justin Andrews,16,Male,Canada,Ontario,Ottawa,Business Owner,Low,Advanced,Basic,Coding for Kids,91.92,2.71,Easy,85
+Sophia Fox,7,Male,Canada,Ontario,Ottawa,Engineer,High,Beginner,Advanced,Computer Science,92.54,2.19,Easy,115
+Jacqueline Tucker,10,Female,USA,Texas,Dallas,Engineer,Low,Intermediate,Basic,Storytelling & Creative Writing,80.7,2.61,Easy,139
+Taylor Fox,18,Male,India,Maharashtra,Mumbai,Teacher,Low,Beginner,Basic,Programming,65.15,0.99,Hard,127
+William Andrews,7,Female,India,Maharashtra,Pune,Teacher,High,Beginner,Intermediate,Computer Science,64.64,2.22,Medium,116
+Daniel Brown,11,Female,India,Maharashtra,Pune,Doctor,Middle,Advanced,Advanced,Civics,46.23,2.83,Medium,93
+Stephanie Davis,6,Male,UK,Scotland,Edinburgh,Doctor,Middle,Beginner,Basic,Astronomy,46.7,2.32,Medium,110
+Robert Tapia,10,Male,Australia,New South Wales,Newcastle,Business Owner,Low,Advanced,Basic,Chemistry,95.89,1.4,Medium,108
+William Fox,5,Male,UK,Scotland,Glasgow,Scientist,High,Intermediate,Basic,Health Education,63.34,2.22,Easy,137
+Stephanie Tapia,15,Male,USA,New York,New York City,Business Owner,Low,Beginner,Basic,Science,90.0,0.69,Hard,91
+Karen Garcia,13,Female,Canada,Ontario,Ottawa,Software Developer,High,Beginner,Advanced,Civics,73.57,0.93,Easy,86
+Emily Fox,14,Male,USA,California,Los Angeles,Engineer,Middle,Intermediate,Basic,Cyber Safety,41.23,2.42,Hard,124
+Sophia Garcia,12,Male,India,Karnataka,Bangalore,Doctor,High,Advanced,Advanced,Geography,53.02,0.94,Medium,124
+Stephanie Fox,6,Male,USA,Texas,Dallas,Doctor,Low,Intermediate,Advanced,Cyber Safety,49.17,2.05,Hard,136
+Jacqueline Fox,6,Female,UK,England,Manchester,Artist,Middle,Beginner,Intermediate,Chemistry,99.12,2.61,Easy,101
+Daniel Wilson,6,Female,USA,California,San Francisco,Scientist,Low,Advanced,Advanced,Biology,79.31,1.97,Easy,103
+Robert Tapia,10,Female,USA,New York,Buffalo,Software Developer,Low,Intermediate,Basic,Geography,46.75,1.31,Hard,123
+Daniel Wilson,15,Prefer not to say,India,Maharashtra,Pune,Teacher,Middle,Advanced,Intermediate,Coding for Kids,96.99,2.77,Easy,95
+Emily Fox,11,Female,India,Maharashtra,Mumbai,Doctor,High,Intermediate,Basic,Programming,95.72,2.19,Medium,128
+Daniel Davis,17,Male,Canada,Ontario,Toronto,Business Owner,High,Beginner,Advanced,Astronomy,42.48,2.43,Hard,110
+Karen Andrews,14,Male,Australia,New South Wales,Sydney,Software Developer,Low,Advanced,Basic,Biology,77.92,0.62,Medium,80
+Daniel Sanchez,12,Female,UK,England,Manchester,Teacher,Low,Intermediate,Basic,Computer Science,46.42,2.12,Hard,84
+Emily Tucker,7,Female,India,Karnataka,Mysore,Doctor,Low,Beginner,Intermediate,Artificial Intelligence Basics,79.51,2.93,Medium,104
+Jacqueline Tapia,17,Female,Australia,Victoria,Geelong,Artist,Middle,Advanced,Intermediate,Mathematics,85.26,2.64,Hard,132
+Stephanie Davis,15,Female,Australia,Victoria,Melbourne,Teacher,Low,Intermediate,Basic,Mathematics,70.09,1.94,Medium,128
+Sophia Andrews,8,Female,USA,Texas,Dallas,Engineer,Middle,Intermediate,Basic,Mathematics,45.66,1.57,Easy,114
+Emily Tucker,10,Male,UK,Scotland,Glasgow,Software Developer,High,Advanced,Intermediate,Physics,99.38,0.57,Hard,89
+William Fox,9,Female,Australia,Victoria,Melbourne,Scientist,Middle,Advanced,Basic,Programming,42.56,1.53,Medium,133
+Sophia Garcia,6,Female,Canada,Quebec,Quebec City,Engineer,High,Advanced,Basic,Civics,84.57,2.26,Easy,115
+Stephanie Garcia,13,Male,Australia,Victoria,Melbourne,Scientist,Middle,Beginner,Intermediate,Mathematics,58.3,1.78,Easy,87
+Daniel Andrews,16,Male,Australia,Victoria,Geelong,Teacher,High,Advanced,Intermediate,Storytelling & Creative Writing,67.45,1.44,Easy,104
+Daniel Garcia,6,Female,USA,Texas,Houston,Engineer,Middle,Beginner,Basic,Physics,49.18,1.1,Medium,111
+Emily Fox,17,Male,Australia,New South Wales,Sydney,Engineer,Middle,Intermediate,Intermediate,Computer Science,48.92,1.09,Medium,111
+Daniel Tapia,4,Female,Australia,New South Wales,Newcastle,Teacher,Middle,Intermediate,Basic,Economics,48.26,2.34,Hard,107
+William Brown,6,Female,Australia,Victoria,Melbourne,Doctor,High,Beginner,Intermediate,Critical Thinking,94.54,2.94,Easy,107
+Stephanie Tapia,10,Male,Australia,Victoria,Melbourne,Business Owner,Middle,Intermediate,Basic,Artificial Intelligence Basics,81.99,2.98,Easy,87
+Karen Tapia,17,Female,Canada,Quebec,Montreal,Software Developer,High,Intermediate,Advanced,Environmental Science,47.17,0.95,Hard,123
+William Tapia,9,Female,Australia,Victoria,Geelong,Doctor,Low,Beginner,Basic,Economics,73.16,1.44,Easy,115
+Emily Sanchez,7,Female,UK,England,London,Engineer,Low,Intermediate,Basic,Chemistry,41.62,2.33,Hard,113
+Jacqueline Fox,18,Female,Australia,New South Wales,Newcastle,Business Owner,High,Beginner,Basic,History,70.39,2.2,Easy,104
+Emily Fox,16,Female,Canada,Quebec,Montreal,Doctor,High,Beginner,Intermediate,Health Education,80.54,2.77,Easy,89
+Taylor Garcia,15,Male,India,Karnataka,Bangalore,Doctor,High,Intermediate,Basic,Logical Reasoning,63.26,2.59,Hard,101
+Stephanie Sanchez,7,Female,India,Karnataka,Bangalore,Doctor,Middle,Beginner,Advanced,Geography,86.7,2.04,Medium,124
+William Tapia,12,Male,USA,New York,New York City,Artist,High,Beginner,Advanced,Programming,74.5,0.56,Hard,93
+Robert Fox,8,Male,UK,England,Manchester,Doctor,Middle,Beginner,Basic,Economics,60.52,2.9,Medium,89
+Daniel Garcia,18,Female,USA,New York,Buffalo,Artist,High,Advanced,Advanced,Storytelling & Creative Writing,79.42,2.68,Hard,97
+Robert Garcia,18,Female,UK,Scotland,Glasgow,Engineer,Low,Advanced,Basic,Civics,60.42,0.84,Easy,138
+Taylor Miller,5,Male,India,Maharashtra,Mumbai,Scientist,Low,Advanced,Basic,Health Education,57.61,1.77,Medium,139
+Daniel Andrews,10,Female,USA,New York,New York City,Business Owner,Middle,Advanced,Advanced,Physics,66.87,2.09,Hard,139
+Justin Sanchez,10,Male,UK,England,Manchester,Business Owner,Middle,Beginner,Advanced,Artificial Intelligence Basics,66.34,2.87,Medium,134
+Emily Tapia,13,Male,Australia,Victoria,Geelong,Engineer,Middle,Intermediate,Advanced,Critical Thinking,85.76,2.11,Medium,111
+Sophia Garcia,13,Female,USA,New York,New York City,Software Developer,Low,Beginner,Intermediate,Astronomy,50.65,0.55,Easy,80
+Justin Miller,4,Female,USA,New York,New York City,Doctor,Low,Intermediate,Basic,Astronomy,70.55,0.75,Hard,80
+Sophia Brown,9,Female,Canada,Ontario,Toronto,Teacher,Low,Beginner,Intermediate,Health Education,64.52,2.6,Hard,122
+Emily Davis,10,Male,India,Karnataka,Bangalore,Business Owner,Middle,Advanced,Intermediate,Reading & Writing,88.16,1.53,Easy,135
+Jacqueline Wilson,18,Male,Australia,Victoria,Melbourne,Software Developer,Low,Advanced,Intermediate,Cyber Safety,54.85,2.41,Medium,131
+Emily Davis,15,Male,Canada,Quebec,Quebec City,Business Owner,Low,Intermediate,Intermediate,Science,60.53,2.12,Hard,120
+Justin Tapia,13,Female,India,Maharashtra,Pune,Engineer,Middle,Beginner,Basic,Health Education,64.48,2.29,Medium,124
+Karen Tapia,13,Female,UK,England,London,Software Developer,Low,Beginner,Intermediate,Cyber Safety,82.44,2.6,Hard,137
+Jacqueline Brown,7,Female,UK,Scotland,Edinburgh,Doctor,Middle,Advanced,Intermediate,Reading & Writing,49.11,2.98,Medium,130
+Robert Garcia,16,Male,Australia,Victoria,Geelong,Business Owner,High,Beginner,Basic,Biology,82.55,2.54,Medium,99
+William Fox,16,Female,USA,Texas,Houston,Engineer,High,Beginner,Advanced,Civics,60.12,1.42,Easy,102
+Jacqueline Garcia,6,Female,Australia,New South Wales,Sydney,Software Developer,High,Advanced,Basic,Storytelling & Creative Writing,59.51,1.06,Hard,91
+Stephanie Andrews,7,Male,UK,England,London,Engineer,Low,Intermediate,Intermediate,Astronomy,56.73,0.96,Easy,120
+William Tucker,14,Male,UK,England,London,Doctor,High,Beginner,Advanced,History,92.68,2.03,Hard,98
+William Tucker,10,Male,UK,England,London,Engineer,Middle,Intermediate,Advanced,Cyber Safety,57.16,1.81,Easy,129
+William Miller,18,Male,UK,England,Manchester,Teacher,High,Beginner,Basic,Artificial Intelligence Basics,80.89,0.63,Medium,128
+Jacqueline Tapia,4,Female,Australia,New South Wales,Sydney,Doctor,Middle,Intermediate,Advanced,Critical Thinking,92.45,1.29,Medium,130
+Sophia Wilson,9,Female,Australia,Victoria,Melbourne,Teacher,High,Beginner,Intermediate,Cyber Safety,95.54,1.95,Hard,108
+Stephanie Miller,12,Female,USA,Texas,Dallas,Scientist,Middle,Advanced,Intermediate,Biology,74.88,1.06,Medium,128
+Daniel Fox,16,Male,USA,Texas,Dallas,Artist,Low,Advanced,Intermediate,Mathematics,58.93,2.2,Easy,120
+Emily Wilson,4,Male,USA,New York,Buffalo,Software Developer,Middle,Advanced,Intermediate,Health Education,53.84,2.18,Hard,109
+Emily Miller,7,Female,Australia,New South Wales,Sydney,Doctor,Middle,Intermediate,Basic,Computer Science,92.89,1.37,Hard,100
+Daniel Davis,11,Female,India,Karnataka,Mysore,Business Owner,High,Advanced,Basic,Physics,68.29,1.12,Medium,91
+Karen Miller,12,Female,India,Karnataka,Mysore,Doctor,Middle,Intermediate,Advanced,Geography,85.72,2.74,Hard,87
+Daniel Miller,4,Male,India,Karnataka,Bangalore,Scientist,High,Beginner,Basic,Storytelling & Creative Writing,65.52,1.27,Easy,107
+William Davis,7,Male,USA,New York,New York City,Engineer,Low,Beginner,Intermediate,Storytelling & Creative Writing,87.38,2.53,Medium,86
+Taylor Davis,18,Male,Canada,Quebec,Montreal,Software Developer,High,Beginner,Intermediate,Chemistry,58.53,1.17,Easy,106
+Jacqueline Davis,12,Female,Australia,Victoria,Geelong,Doctor,High,Intermediate,Intermediate,Critical Thinking,66.88,1.06,Hard,133
+Sophia Tucker,14,Male,Australia,Victoria,Geelong,Software Developer,Middle,Advanced,Intermediate,Civics,81.3,1.28,Easy,110
+Stephanie Miller,5,Prefer not to say,Australia,Victoria,Geelong,Engineer,Low,Intermediate,Intermediate,Astronomy,98.13,2.16,Easy,89
+Robert Garcia,17,Male,India,Karnataka,Mysore,Scientist,Low,Advanced,Basic,Chemistry,82.74,1.05,Easy,110
+Robert Wilson,8,Male,Canada,Quebec,Montreal,Software Developer,Middle,Intermediate,Basic,Artificial Intelligence Basics,98.93,0.7,Easy,121
+Taylor Miller,14,Male,Australia,Victoria,Melbourne,Business Owner,Middle,Advanced,Basic,English,42.77,0.92,Hard,136
+Sophia Andrews,12,Male,Australia,New South Wales,Sydney,Doctor,High,Intermediate,Advanced,Storytelling & Creative Writing,83.15,2.91,Easy,84
+Justin Brown,10,Female,USA,California,Los Angeles,Artist,Middle,Beginner,Basic,Critical Thinking,75.16,1.38,Easy,126
+William Tucker,17,Male,India,Maharashtra,Pune,Software Developer,Middle,Intermediate,Basic,English,86.32,1.15,Medium,130
+William Tapia,5,Female,Australia,Victoria,Melbourne,Teacher,Low,Beginner,Basic,Critical Thinking,64.27,2.07,Easy,122
+Emily Andrews,4,Female,USA,Texas,Houston,Artist,Middle,Beginner,Basic,Programming,70.7,1.0,Easy,105
+Jacqueline Brown,4,Male,India,Karnataka,Mysore,Artist,High,Intermediate,Basic,Storytelling & Creative Writing,92.34,1.08,Medium,133
+Justin Miller,5,Male,USA,California,San Francisco,Scientist,Middle,Beginner,Advanced,Biology,50.5,2.03,Medium,101
+Emily Brown,17,Female,UK,Scotland,Edinburgh,Software Developer,High,Advanced,Advanced,Critical Thinking,49.01,0.98,Hard,135
+Stephanie Garcia,7,Female,India,Karnataka,Bangalore,Software Developer,Low,Intermediate,Advanced,Geography,94.68,1.82,Easy,103
+Karen Brown,15,Prefer not to say,India,Maharashtra,Pune,Doctor,Low,Intermediate,Advanced,Artificial Intelligence Basics,82.04,1.63,Easy,118
+Emily Sanchez,13,Female,Canada,Ontario,Ottawa,Software Developer,High,Beginner,Advanced,Chemistry,65.64,1.45,Hard,107
+Taylor Davis,7,Female,India,Karnataka,Bangalore,Teacher,Low,Intermediate,Intermediate,Health Education,99.08,2.17,Easy,120
+Daniel Wilson,17,Female,Australia,New South Wales,Sydney,Business Owner,High,Advanced,Intermediate,Astronomy,79.77,1.15,Easy,125
+Sophia Garcia,5,Male,UK,England,Manchester,Business Owner,Low,Intermediate,Basic,Reading & Writing,57.43,1.85,Hard,80
+Emily Brown,9,Male,Canada,Quebec,Quebec City,Artist,Low,Beginner,Basic,History,99.26,1.47,Medium,111
+Sophia Tucker,11,Male,USA,California,Los Angeles,Scientist,High,Intermediate,Basic,Environmental Science,79.88,1.49,Easy,119
+William Tucker,8,Male,UK,Scotland,Glasgow,Engineer,Low,Advanced,Intermediate,Civics,78.77,1.33,Hard,114
+Emily Sanchez,16,Female,UK,England,London,Artist,Middle,Intermediate,Advanced,Science,90.8,2.87,Easy,98
+Emily Garcia,18,Female,Australia,New South Wales,Newcastle,Doctor,Low,Beginner,Advanced,Programming,94.41,1.25,Hard,104
+Robert Miller,4,Male,USA,New York,New York City,Artist,High,Intermediate,Basic,Coding for Kids,43.32,2.59,Hard,122
+Justin Davis,6,Female,India,Karnataka,Bangalore,Artist,High,Beginner,Basic,Civics,73.17,0.62,Easy,136
+William Tucker,13,Female,USA,New York,New York City,Software Developer,Middle,Intermediate,Advanced,Astronomy,96.23,1.78,Easy,99
+Jacqueline Davis,16,Female,Australia,Victoria,Geelong,Engineer,Low,Intermediate,Advanced,Storytelling & Creative Writing,50.22,0.54,Hard,111
+Justin Sanchez,15,Female,UK,Scotland,Glasgow,Artist,Low,Intermediate,Advanced,History,83.58,2.21,Easy,123
+Jacqueline Miller,17,Male,India,Maharashtra,Pune,Software Developer,Middle,Beginner,Advanced,Cyber Safety,80.67,0.83,Hard,94
+Daniel Tapia,14,Prefer not to say,India,Maharashtra,Pune,Artist,High,Intermediate,Advanced,Cyber Safety,97.9,0.61,Medium,81
+Sophia Sanchez,15,Female,Australia,Victoria,Geelong,Doctor,High,Advanced,Basic,Civics,59.21,1.75,Easy,118
+Daniel Tapia,15,Female,UK,Scotland,Glasgow,Teacher,Middle,Beginner,Intermediate,Geography,58.13,1.92,Hard,103
+Daniel Miller,15,Male,USA,New York,Buffalo,Business Owner,Low,Beginner,Advanced,Environmental Science,44.63,0.78,Hard,140
+Taylor Andrews,8,Female,Canada,Ontario,Ottawa,Artist,Middle,Beginner,Advanced,Critical Thinking,48.53,1.79,Easy,98
+Daniel Davis,17,Prefer not to say,Canada,Quebec,Quebec City,Software Developer,Middle,Intermediate,Advanced,English,74.36,1.48,Medium,117
+Justin Miller,12,Female,USA,Texas,Dallas,Scientist,Low,Advanced,Advanced,Biology,81.79,0.91,Medium,101
+Sophia Tucker,12,Male,Australia,New South Wales,Sydney,Business Owner,Low,Advanced,Advanced,Health Education,84.3,1.33,Medium,134
+William Miller,8,Male,Canada,Ontario,Toronto,Business Owner,High,Intermediate,Advanced,Geography,61.01,1.55,Easy,129
+Sophia Tapia,15,Male,UK,England,London,Teacher,Low,Intermediate,Intermediate,Coding for Kids,47.41,0.95,Medium,134
+Daniel Tapia,13,Female,Canada,Quebec,Quebec City,Doctor,High,Intermediate,Advanced,Physics,75.97,2.66,Hard,96
+Karen Sanchez,13,Male,Australia,New South Wales,Sydney,Doctor,Low,Advanced,Basic,Physics,62.7,2.04,Medium,128
+Daniel Andrews,12,Male,India,Karnataka,Bangalore,Doctor,High,Intermediate,Basic,Environmental Science,48.21,1.78,Easy,106
+Sophia Miller,7,Female,Canada,Ontario,Toronto,Engineer,Low,Advanced,Basic,Artificial Intelligence Basics,68.1,2.37,Hard,111
+Taylor Fox,16,Female,UK,England,London,Software Developer,Low,Intermediate,Advanced,Geography,67.33,1.48,Easy,87
+Taylor Brown,15,Female,Canada,Ontario,Toronto,Software Developer,Low,Intermediate,Basic,History,92.23,0.54,Medium,93
+Stephanie Davis,8,Female,Canada,Ontario,Toronto,Teacher,Low,Intermediate,Basic,Coding for Kids,75.51,2.65,Easy,106
+Stephanie Sanchez,4,Male,UK,England,Manchester,Software Developer,Low,Advanced,Advanced,Science,61.97,2.24,Hard,97
+Taylor Garcia,8,Prefer not to say,USA,Texas,Houston,Scientist,High,Intermediate,Intermediate,Health Education,60.23,1.09,Medium,127
+Taylor Davis,14,Male,UK,England,Manchester,Doctor,Low,Beginner,Basic,Computer Science,56.93,2.21,Hard,116
+Justin Fox,12,Female,UK,Scotland,Edinburgh,Doctor,Low,Intermediate,Intermediate,Astronomy,79.78,2.52,Hard,99
+Justin Andrews,13,Male,Canada,Ontario,Toronto,Business Owner,Middle,Advanced,Basic,Physics,73.13,0.88,Easy,123
+Robert Andrews,18,Female,USA,California,Los Angeles,Scientist,High,Beginner,Intermediate,Economics,96.63,2.75,Hard,92
+Justin Davis,6,Male,India,Karnataka,Bangalore,Teacher,High,Advanced,Basic,Geography,66.8,2.2,Easy,97
+Sophia Tucker,16,Male,Australia,New South Wales,Sydney,Doctor,High,Intermediate,Basic,Geography,44.21,2.56,Easy,99
+Sophia Brown,5,Female,UK,Scotland,Edinburgh,Business Owner,Middle,Beginner,Basic,Computer Science,78.35,2.16,Hard,102
+Sophia Garcia,10,Female,UK,England,Manchester,Software Developer,Low,Beginner,Intermediate,Coding for Kids,81.25,2.12,Medium,140
+Justin Garcia,18,Male,Canada,Quebec,Quebec City,Artist,High,Advanced,Advanced,Science,85.5,2.09,Easy,89
+Emily Miller,5,Male,Australia,Victoria,Melbourne,Scientist,Middle,Beginner,Intermediate,English,86.89,1.89,Hard,94
+William Miller,14,Male,Australia,Victoria,Melbourne,Teacher,High,Advanced,Advanced,Reading & Writing,77.44,2.93,Medium,82
+Robert Sanchez,15,Female,UK,England,London,Business Owner,High,Advanced,Intermediate,Logical Reasoning,69.15,2.98,Hard,93
+Daniel Tucker,6,Female,India,Maharashtra,Pune,Software Developer,Middle,Beginner,Basic,Astronomy,75.79,1.71,Medium,130
+William Sanchez,7,Male,Canada,Ontario,Ottawa,Teacher,High,Advanced,Intermediate,Chemistry,56.62,1.24,Medium,108
+Taylor Miller,16,Male,Australia,Victoria,Geelong,Artist,Low,Advanced,Intermediate,Storytelling & Creative Writing,98.63,1.34,Hard,97
+Sophia Sanchez,15,Female,India,Maharashtra,Pune,Business Owner,Low,Beginner,Intermediate,Physics,96.88,2.47,Hard,123
+William Wilson,17,Prefer not to say,Canada,Ontario,Toronto,Teacher,Middle,Advanced,Advanced,Storytelling & Creative Writing,84.05,2.16,Hard,110
+William Sanchez,15,Female,India,Maharashtra,Mumbai,Artist,High,Beginner,Intermediate,English,75.67,1.1,Medium,124
+Stephanie Fox,4,Female,UK,Scotland,Glasgow,Doctor,Middle,Advanced,Basic,Coding for Kids,67.57,1.67,Easy,88
+Robert Sanchez,15,Female,Australia,New South Wales,Sydney,Teacher,Middle,Advanced,Basic,Programming,65.25,0.61,Easy,114
+Karen Tapia,7,Female,Australia,Victoria,Melbourne,Business Owner,Middle,Beginner,Basic,Computer Science,43.28,2.48,Medium,131
+Stephanie Tapia,4,Male,India,Karnataka,Mysore,Business Owner,Low,Advanced,Advanced,History,54.44,2.79,Medium,84
+Sophia Miller,8,Female,Australia,Victoria,Geelong,Scientist,Low,Advanced,Basic,Critical Thinking,69.78,1.95,Easy,111
+Jacqueline Sanchez,14,Male,UK,England,London,Scientist,Low,Beginner,Intermediate,Civics,82.46,2.48,Easy,99
+Stephanie Wilson,6,Male,UK,Scotland,Edinburgh,Teacher,Low,Intermediate,Intermediate,Coding for Kids,69.83,1.99,Easy,101
+Taylor Andrews,11,Female,Australia,New South Wales,Newcastle,Engineer,Middle,Advanced,Intermediate,Artificial Intelligence Basics,96.38,0.56,Easy,115
+Robert Garcia,9,Female,USA,Texas,Houston,Doctor,Low,Intermediate,Basic,Storytelling & Creative Writing,42.27,0.54,Hard,103
+Stephanie Davis,7,Female,USA,California,Los Angeles,Teacher,High,Beginner,Basic,Coding for Kids,66.67,2.88,Medium,103
+Karen Brown,8,Male,India,Maharashtra,Pune,Doctor,High,Beginner,Advanced,Physics,97.64,1.38,Medium,87
+Jacqueline Fox,11,Female,India,Maharashtra,Pune,Business Owner,Low,Intermediate,Basic,Mathematics,50.63,1.02,Medium,135
+Emily Brown,13,Female,Australia,Victoria,Geelong,Engineer,High,Beginner,Advanced,Mathematics,69.93,2.19,Easy,114
+Robert Sanchez,15,Male,Australia,New South Wales,Newcastle,Teacher,Low,Advanced,Advanced,Science,80.45,0.78,Easy,124
+Sophia Wilson,18,Male,Australia,Victoria,Geelong,Artist,Low,Intermediate,Intermediate,English,75.13,2.79,Medium,99
+Robert Sanchez,5,Male,USA,California,Los Angeles,Software Developer,Low,Advanced,Intermediate,Chemistry,57.01,2.76,Easy,115
+Stephanie Brown,13,Female,India,Maharashtra,Pune,Software Developer,Middle,Advanced,Basic,Science,81.97,1.15,Easy,104
+Stephanie Garcia,11,Female,Canada,Quebec,Quebec City,Software Developer,Low,Advanced,Basic,Science,92.37,2.01,Medium,125
+Karen Wilson,17,Male,UK,England,Manchester,Engineer,Low,Intermediate,Intermediate,Chemistry,45.97,2.3,Hard,104
+Karen Davis,9,Male,USA,New York,Buffalo,Business Owner,Low,Beginner,Intermediate,Coding for Kids,92.08,2.83,Easy,88
+Sophia Davis,16,Male,India,Maharashtra,Pune,Business Owner,High,Advanced,Basic,Geography,74.01,1.44,Easy,126
+Stephanie Sanchez,11,Male,UK,Scotland,Glasgow,Artist,High,Beginner,Basic,Environmental Science,48.18,2.12,Hard,121
+William Miller,9,Male,UK,England,London,Artist,Low,Advanced,Basic,Astronomy,91.97,2.29,Medium,130
+Stephanie Tucker,15,Male,USA,New York,Buffalo,Artist,High,Advanced,Intermediate,Geography,98.34,2.99,Hard,114
+Sophia Wilson,15,Female,Australia,New South Wales,Newcastle,Software Developer,Middle,Advanced,Advanced,Cyber Safety,94.27,1.55,Easy,105
+Justin Tapia,14,Female,USA,California,Los Angeles,Teacher,Low,Advanced,Advanced,Cyber Safety,80.08,2.51,Medium,130
+Jacqueline Andrews,7,Male,Australia,New South Wales,Newcastle,Doctor,Middle,Intermediate,Intermediate,Science,88.76,2.92,Medium,133
+Taylor Andrews,7,Male,UK,England,Manchester,Business Owner,Low,Beginner,Advanced,Astronomy,89.04,2.79,Hard,102
+Karen Garcia,4,Male,UK,England,Manchester,Business Owner,High,Beginner,Basic,Critical Thinking,71.95,2.58,Medium,85
+Sophia Miller,4,Male,Canada,Quebec,Montreal,Teacher,Middle,Beginner,Basic,History,40.22,2.36,Hard,129
+Jacqueline Brown,6,Female,Canada,Quebec,Quebec City,Engineer,High,Beginner,Intermediate,Science,79.6,2.1,Hard,103
+Taylor Fox,11,Male,USA,Texas,Houston,Business Owner,High,Advanced,Basic,Storytelling & Creative Writing,45.38,2.2,Easy,109
+Daniel Miller,15,Male,USA,California,San Francisco,Teacher,High,Intermediate,Basic,English,67.96,2.25,Hard,108
+Taylor Garcia,13,Male,India,Maharashtra,Mumbai,Software Developer,Low,Beginner,Basic,Economics,95.58,1.26,Easy,88
+Taylor Fox,5,Male,Australia,New South Wales,Sydney,Doctor,Middle,Intermediate,Advanced,Astronomy,51.89,1.54,Medium,138
+Robert Davis,4,Male,USA,New York,Buffalo,Teacher,Low,Beginner,Basic,Programming,41.2,0.78,Easy,134
+William Wilson,8,Male,Australia,Victoria,Geelong,Engineer,Low,Advanced,Advanced,History,85.33,0.61,Hard,102
+William Sanchez,16,Female,India,Maharashtra,Mumbai,Engineer,Middle,Beginner,Basic,Programming,48.78,1.79,Medium,84
+Daniel Wilson,10,Female,UK,Scotland,Glasgow,Engineer,Middle,Intermediate,Intermediate,Economics,81.54,1.33,Easy,94
+Jacqueline Miller,18,Male,UK,England,London,Business Owner,Middle,Advanced,Intermediate,Health Education,46.81,0.91,Medium,135
+Emily Tucker,6,Male,UK,England,London,Business Owner,Low,Intermediate,Basic,Physics,78.74,2.6,Hard,90
+Daniel Garcia,12,Female,Canada,Ontario,Toronto,Software Developer,Low,Beginner,Basic,Storytelling & Creative Writing,59.16,2.53,Easy,88
+Sophia Brown,16,Male,UK,Scotland,Edinburgh,Business Owner,Low,Beginner,Basic,Reading & Writing,93.56,2.76,Hard,81
+Daniel Sanchez,13,Male,UK,Scotland,Edinburgh,Business Owner,Middle,Advanced,Intermediate,Geography,60.28,2.14,Easy,123
+William Fox,16,Female,Australia,Victoria,Geelong,Scientist,Low,Beginner,Intermediate,History,60.31,2.84,Hard,115
+Sophia Tucker,10,Female,Australia,New South Wales,Sydney,Doctor,Low,Beginner,Basic,Environmental Science,51.1,1.54,Medium,113
+Emily Davis,9,Male,India,Maharashtra,Mumbai,Scientist,Low,Beginner,Intermediate,Programming,67.95,1.05,Medium,87
+Justin Sanchez,7,Female,India,Maharashtra,Mumbai,Doctor,Low,Intermediate,Basic,Geography,58.66,1.97,Hard,99
+Stephanie Andrews,11,Male,Australia,Victoria,Melbourne,Engineer,High,Beginner,Advanced,Storytelling & Creative Writing,62.28,0.58,Easy,123
+Karen Tapia,12,Female,Canada,Ontario,Toronto,Doctor,Middle,Advanced,Intermediate,Geography,72.33,2.0,Medium,121
+William Sanchez,10,Female,Canada,Quebec,Montreal,Artist,Middle,Beginner,Basic,English,92.79,0.58,Easy,101
+Robert Garcia,8,Female,USA,Texas,Dallas,Scientist,High,Intermediate,Basic,Critical Thinking,52.23,2.96,Hard,105
+Daniel Tapia,11,Female,Australia,New South Wales,Sydney,Engineer,Middle,Advanced,Advanced,Economics,65.38,2.4,Easy,119
+Emily Davis,12,Male,Australia,Victoria,Geelong,Artist,Low,Advanced,Advanced,Critical Thinking,66.91,1.8,Hard,131
+Taylor Davis,9,Male,USA,New York,Buffalo,Engineer,Middle,Intermediate,Advanced,Civics,77.9,2.25,Medium,97
+Sophia Andrews,15,Male,India,Karnataka,Bangalore,Business Owner,Middle,Beginner,Advanced,Artificial Intelligence Basics,71.46,2.09,Medium,103
+Stephanie Andrews,4,Female,Australia,New South Wales,Sydney,Artist,Middle,Advanced,Basic,Astronomy,59.58,2.49,Hard,93
+Daniel Tucker,12,Female,India,Maharashtra,Pune,Business Owner,Low,Advanced,Advanced,History,65.58,1.82,Hard,124
+William Tapia,17,Male,India,Karnataka,Mysore,Software Developer,High,Intermediate,Basic,Logical Reasoning,69.69,1.15,Easy,134
+William Fox,5,Female,Australia,New South Wales,Sydney,Business Owner,High,Intermediate,Advanced,Science,99.37,2.57,Medium,101
+Emily Davis,9,Female,India,Karnataka,Bangalore,Engineer,High,Advanced,Basic,Economics,90.57,0.66,Easy,99
+Emily Miller,5,Female,UK,England,London,Business Owner,Middle,Beginner,Basic,Physics,78.96,1.22,Hard,133
+Justin Tucker,15,Female,UK,Scotland,Edinburgh,Software Developer,Low,Advanced,Intermediate,Geography,72.67,2.02,Hard,133
+Daniel Fox,6,Male,UK,England,Manchester,Teacher,Low,Advanced,Advanced,Health Education,46.08,1.53,Medium,114
+William Brown,12,Male,UK,Scotland,Edinburgh,Software Developer,Middle,Intermediate,Intermediate,Health Education,91.15,2.2,Easy,109
+Sophia Miller,5,Male,UK,Scotland,Edinburgh,Scientist,Low,Advanced,Intermediate,Programming,90.14,1.33,Medium,93
+Robert Miller,14,Female,Canada,Ontario,Ottawa,Engineer,Middle,Advanced,Intermediate,Astronomy,62.25,1.1,Hard,104
+Jacqueline Andrews,18,Male,Canada,Quebec,Quebec City,Software Developer,Middle,Advanced,Advanced,Storytelling & Creative Writing,52.08,2.96,Medium,133
+Emily Miller,11,Male,India,Maharashtra,Mumbai,Artist,High,Beginner,Advanced,Logical Reasoning,91.68,2.61,Hard,83
+Robert Tucker,8,Male,Australia,Victoria,Melbourne,Scientist,Middle,Advanced,Intermediate,Mathematics,99.13,1.23,Medium,107
+Robert Sanchez,17,Male,UK,England,London,Scientist,Middle,Intermediate,Intermediate,Chemistry,48.58,1.54,Easy,122
+Karen Davis,6,Male,India,Maharashtra,Pune,Teacher,High,Intermediate,Intermediate,Geography,90.52,0.63,Easy,135
+Daniel Sanchez,15,Prefer not to say,UK,Scotland,Edinburgh,Doctor,Low,Intermediate,Intermediate,Astronomy,79.05,1.02,Hard,117
+Justin Sanchez,8,Male,Australia,New South Wales,Sydney,Teacher,High,Advanced,Basic,Logical Reasoning,79.44,1.59,Medium,130
+Karen Davis,17,Female,USA,New York,New York City,Business Owner,Middle,Intermediate,Advanced,Reading & Writing,82.12,0.86,Hard,109
+Jacqueline Brown,6,Female,India,Karnataka,Mysore,Software Developer,High,Intermediate,Intermediate,Logical Reasoning,58.41,1.81,Medium,123
+Karen Fox,13,Female,India,Maharashtra,Pune,Teacher,Middle,Advanced,Advanced,Geography,46.39,2.2,Medium,107
+Emily Sanchez,13,Prefer not to say,India,Karnataka,Mysore,Doctor,Middle,Beginner,Basic,Environmental Science,89.57,2.65,Medium,134
+Jacqueline Tapia,5,Male,Australia,Victoria,Geelong,Doctor,Middle,Intermediate,Advanced,Computer Science,40.25,1.36,Medium,131
+Taylor Andrews,11,Male,Australia,Victoria,Geelong,Business Owner,High,Intermediate,Intermediate,History,72.69,2.08,Easy,138
+Stephanie Tucker,12,Female,India,Maharashtra,Mumbai,Artist,High,Beginner,Intermediate,Programming,84.26,2.49,Easy,115
+Stephanie Andrews,16,Female,Australia,New South Wales,Sydney,Teacher,High,Beginner,Advanced,Geography,80.88,0.92,Easy,121
+Stephanie Brown,14,Female,India,Karnataka,Mysore,Doctor,High,Advanced,Intermediate,Environmental Science,55.92,0.99,Easy,110
+Karen Garcia,8,Female,USA,California,San Francisco,Engineer,Middle,Intermediate,Intermediate,Logical Reasoning,84.35,1.51,Medium,129
+Robert Miller,17,Female,India,Karnataka,Mysore,Software Developer,Low,Advanced,Intermediate,Artificial Intelligence Basics,86.81,2.69,Medium,114
+Justin Wilson,6,Female,UK,England,Manchester,Doctor,Middle,Advanced,Basic,Environmental Science,65.05,2.08,Hard,120
+Daniel Fox,12,Female,India,Maharashtra,Pune,Artist,Middle,Beginner,Advanced,Reading & Writing,55.1,1.55,Hard,109
+Sophia Brown,11,Male,India,Maharashtra,Mumbai,Engineer,High,Advanced,Advanced,Cyber Safety,92.48,0.79,Hard,92
+Daniel Sanchez,12,Male,UK,Scotland,Edinburgh,Artist,High,Intermediate,Intermediate,Science,85.31,1.28,Hard,119
+Sophia Tucker,17,Male,India,Karnataka,Bangalore,Doctor,Low,Intermediate,Intermediate,Civics,60.92,2.18,Easy,105
+Emily Miller,12,Male,India,Karnataka,Mysore,Teacher,High,Advanced,Basic,Geography,61.07,1.23,Medium,101
+Justin Miller,14,Male,USA,California,San Francisco,Business Owner,High,Advanced,Advanced,Cyber Safety,88.03,2.78,Easy,130
+Daniel Sanchez,8,Female,Australia,New South Wales,Newcastle,Software Developer,Middle,Advanced,Basic,Health Education,71.79,1.83,Medium,105
+Jacqueline Garcia,4,Male,Canada,Ontario,Ottawa,Business Owner,Middle,Advanced,Basic,Economics,99.79,1.85,Medium,109
+Sophia Tucker,10,Female,India,Karnataka,Mysore,Software Developer,High,Intermediate,Advanced,Computer Science,75.06,1.68,Medium,118
+William Wilson,12,Prefer not to say,UK,England,Manchester,Business Owner,Low,Advanced,Intermediate,Programming,57.39,0.67,Easy,103
+Stephanie Sanchez,9,Female,USA,California,Los Angeles,Software Developer,High,Intermediate,Advanced,Programming,56.0,0.86,Medium,135
+Sophia Tapia,12,Female,Australia,New South Wales,Newcastle,Software Developer,High,Advanced,Advanced,Civics,49.34,1.27,Easy,84
+Taylor Sanchez,10,Female,Australia,New South Wales,Sydney,Artist,High,Advanced,Basic,Reading & Writing,88.03,1.95,Hard,107
+Emily Garcia,15,Male,Canada,Quebec,Montreal,Engineer,High,Advanced,Intermediate,Logical Reasoning,59.1,1.54,Hard,111
+William Tucker,7,Female,Australia,New South Wales,Sydney,Engineer,High,Beginner,Advanced,Biology,89.52,0.67,Hard,96
+Jacqueline Garcia,17,Female,India,Karnataka,Bangalore,Business Owner,Low,Intermediate,Intermediate,Science,73.98,1.56,Hard,133
+Emily Wilson,7,Female,India,Karnataka,Bangalore,Scientist,Middle,Intermediate,Advanced,Cyber Safety,87.99,1.6,Hard,107
+Karen Miller,5,Female,Canada,Ontario,Toronto,Doctor,Low,Beginner,Advanced,Geography,75.81,1.44,Medium,119
+Robert Brown,13,Female,Australia,New South Wales,Sydney,Engineer,Low,Beginner,Intermediate,Physics,90.88,2.66,Hard,108
+Karen Sanchez,7,Male,India,Karnataka,Mysore,Artist,Low,Beginner,Basic,English,75.17,1.05,Medium,93
+Robert Fox,9,Female,Canada,Quebec,Quebec City,Artist,Low,Beginner,Basic,Logical Reasoning,40.94,1.16,Easy,119
+William Davis,17,Female,Canada,Quebec,Montreal,Artist,High,Advanced,Intermediate,Cyber Safety,73.07,1.32,Hard,117
+William Andrews,8,Prefer not to say,USA,New York,Buffalo,Business Owner,High,Advanced,Advanced,Logical Reasoning,56.96,1.49,Easy,98
+Jacqueline Tucker,14,Male,Australia,New South Wales,Sydney,Scientist,High,Advanced,Advanced,Coding for Kids,51.05,2.92,Hard,96
+Justin Tapia,12,Male,UK,Scotland,Glasgow,Doctor,Low,Advanced,Advanced,Physics,80.67,2.41,Medium,129
+Daniel Sanchez,9,Female,Australia,New South Wales,Sydney,Software Developer,High,Beginner,Basic,Civics,66.14,2.67,Medium,121
+Stephanie Davis,13,Female,UK,England,Manchester,Scientist,Low,Advanced,Basic,Critical Thinking,73.32,2.21,Hard,128
+William Fox,12,Male,Canada,Quebec,Quebec City,Artist,Middle,Beginner,Intermediate,Mathematics,75.21,2.75,Hard,122
+Stephanie Tapia,13,Male,Canada,Ontario,Ottawa,Business Owner,Low,Advanced,Advanced,Coding for Kids,62.5,0.83,Medium,126
+William Sanchez,8,Male,India,Maharashtra,Pune,Scientist,High,Beginner,Basic,Artificial Intelligence Basics,40.64,2.92,Hard,125
+Daniel Andrews,7,Female,USA,New York,Buffalo,Engineer,Middle,Intermediate,Basic,Mathematics,82.41,2.22,Easy,113
+Taylor Wilson,11,Male,Canada,Ontario,Toronto,Engineer,Middle,Beginner,Advanced,Economics,52.29,2.77,Medium,132
+Taylor Davis,16,Female,India,Maharashtra,Pune,Scientist,Low,Intermediate,Advanced,History,67.51,2.43,Easy,134
+William Miller,11,Female,USA,Texas,Houston,Engineer,Low,Intermediate,Intermediate,Geography,52.11,2.2,Medium,127
+Taylor Wilson,10,Female,Australia,New South Wales,Sydney,Business Owner,High,Advanced,Advanced,Cyber Safety,88.42,1.42,Medium,127
+Stephanie Sanchez,14,Female,Canada,Quebec,Montreal,Doctor,Low,Advanced,Basic,Chemistry,54.6,0.85,Medium,94
+Karen Miller,14,Female,Australia,Victoria,Melbourne,Engineer,Middle,Beginner,Advanced,Cyber Safety,57.15,1.68,Hard,128
+Taylor Davis,16,Male,USA,New York,Buffalo,Teacher,Middle,Beginner,Basic,Mathematics,60.97,2.6,Medium,98
+Emily Davis,18,Female,UK,Scotland,Edinburgh,Scientist,High,Beginner,Intermediate,Mathematics,43.34,1.88,Medium,109
+Jacqueline Brown,9,Male,Australia,Victoria,Geelong,Engineer,Middle,Advanced,Basic,Artificial Intelligence Basics,86.41,0.73,Hard,118
+Sophia Brown,16,Male,USA,New York,New York City,Software Developer,Low,Advanced,Advanced,Coding for Kids,45.76,1.11,Easy,113
+Taylor Tapia,5,Male,India,Karnataka,Bangalore,Engineer,Low,Intermediate,Basic,Science,48.31,1.97,Easy,126
+Robert Brown,15,Prefer not to say,Australia,Victoria,Melbourne,Teacher,Low,Beginner,Basic,Reading & Writing,62.84,1.69,Hard,107
+Taylor Garcia,7,Female,Australia,New South Wales,Newcastle,Business Owner,High,Beginner,Basic,Storytelling & Creative Writing,57.28,1.78,Hard,108
+William Sanchez,7,Female,UK,Scotland,Edinburgh,Software Developer,High,Beginner,Basic,Biology,62.16,2.92,Easy,82
+William Miller,8,Female,Canada,Ontario,Toronto,Business Owner,Low,Intermediate,Intermediate,Science,59.4,1.05,Easy,123
+Stephanie Garcia,13,Male,Australia,Victoria,Geelong,Scientist,High,Advanced,Intermediate,Geography,42.52,2.43,Easy,101
+Robert Sanchez,11,Female,India,Karnataka,Mysore,Business Owner,High,Beginner,Advanced,Artificial Intelligence Basics,82.35,0.77,Medium,128
+Robert Davis,15,Male,India,Karnataka,Mysore,Doctor,Low,Beginner,Intermediate,Health Education,63.72,1.6,Medium,135
+Jacqueline Tapia,5,Male,Canada,Quebec,Quebec City,Software Developer,Low,Intermediate,Basic,Physics,78.21,1.37,Hard,121
+Justin Andrews,9,Female,Canada,Quebec,Quebec City,Scientist,Low,Beginner,Advanced,Logical Reasoning,94.94,1.12,Hard,127
+Daniel Andrews,8,Male,USA,New York,Buffalo,Artist,Middle,Advanced,Advanced,Storytelling & Creative Writing,94.75,1.39,Easy,89
+Karen Fox,4,Female,Canada,Quebec,Quebec City,Software Developer,Middle,Intermediate,Basic,Astronomy,74.8,2.56,Easy,112
+Jacqueline Tapia,12,Female,Canada,Quebec,Quebec City,Business Owner,High,Beginner,Basic,Health Education,77.95,1.31,Easy,122
+Sophia Miller,18,Female,India,Karnataka,Bangalore,Engineer,Low,Advanced,Advanced,Coding for Kids,92.61,0.73,Medium,114
+Daniel Andrews,13,Female,UK,England,London,Doctor,High,Intermediate,Intermediate,Economics,49.92,2.85,Easy,132
+Jacqueline Garcia,12,Male,Canada,Ontario,Ottawa,Business Owner,High,Advanced,Basic,Biology,45.15,1.31,Hard,126
+Daniel Miller,14,Female,Canada,Quebec,Quebec City,Artist,High,Advanced,Intermediate,Logical Reasoning,44.84,2.45,Medium,114
+Stephanie Brown,17,Male,India,Maharashtra,Pune,Engineer,Low,Beginner,Intermediate,History,91.19,1.71,Easy,136
+Taylor Garcia,5,Male,Australia,New South Wales,Newcastle,Teacher,Low,Advanced,Basic,Environmental Science,79.6,2.79,Hard,137
+Robert Sanchez,18,Male,Canada,Quebec,Quebec City,Business Owner,Middle,Advanced,Intermediate,Computer Science,66.42,0.81,Hard,129
+Emily Andrews,12,Male,UK,Scotland,Glasgow,Business Owner,Middle,Advanced,Advanced,Geography,70.44,2.9,Medium,129
+Robert Fox,9,Male,Australia,New South Wales,Newcastle,Engineer,Low,Intermediate,Basic,Logical Reasoning,93.49,2.45,Medium,83
+Robert Miller,8,Female,India,Maharashtra,Mumbai,Scientist,Middle,Intermediate,Advanced,Economics,82.33,2.14,Medium,96
+Jacqueline Tucker,12,Male,UK,England,London,Artist,Low,Beginner,Basic,English,69.17,0.79,Medium,86
+Jacqueline Garcia,15,Male,Canada,Ontario,Toronto,Business Owner,Middle,Intermediate,Basic,Economics,95.16,2.41,Medium,117
+Robert Andrews,9,Male,Canada,Ontario,Ottawa,Doctor,Middle,Intermediate,Intermediate,Geography,77.67,2.35,Medium,134
+Emily Tucker,13,Male,USA,Texas,Houston,Teacher,Low,Beginner,Intermediate,Health Education,43.44,1.81,Easy,92
+William Wilson,5,Female,USA,New York,Buffalo,Engineer,Low,Beginner,Advanced,Critical Thinking,92.98,2.1,Hard,108
+Sophia Sanchez,16,Female,UK,England,Manchester,Business Owner,Middle,Advanced,Intermediate,Chemistry,87.31,0.81,Hard,107
+Emily Tapia,11,Female,Canada,Quebec,Quebec City,Scientist,Low,Beginner,Advanced,Science,92.29,1.87,Hard,94
+Robert Wilson,17,Female,India,Karnataka,Bangalore,Doctor,Middle,Advanced,Advanced,Cyber Safety,83.42,2.98,Medium,125
+Justin Brown,8,Male,India,Maharashtra,Mumbai,Business Owner,Low,Advanced,Intermediate,Artificial Intelligence Basics,83.55,1.19,Easy,132
+William Miller,8,Male,Australia,New South Wales,Newcastle,Artist,Middle,Advanced,Advanced,English,54.34,2.96,Hard,100
+Stephanie Tapia,15,Female,Australia,New South Wales,Sydney,Engineer,High,Advanced,Basic,Reading & Writing,100.0,0.6,Easy,120
+Stephanie Wilson,7,Female,India,Maharashtra,Pune,Scientist,Low,Intermediate,Intermediate,Geography,90.64,1.38,Medium,105
+Sophia Sanchez,9,Male,UK,Scotland,Glasgow,Teacher,Low,Beginner,Intermediate,History,54.81,1.43,Easy,111
+Daniel Wilson,11,Female,Canada,Ontario,Toronto,Artist,Middle,Advanced,Advanced,Logical Reasoning,48.16,1.47,Medium,85
+Robert Tucker,4,Female,India,Karnataka,Bangalore,Software Developer,High,Advanced,Intermediate,Geography,80.01,2.42,Hard,100
+Taylor Brown,6,Male,UK,England,Manchester,Artist,Low,Beginner,Advanced,Critical Thinking,90.81,1.75,Hard,103
+Stephanie Brown,12,Male,Australia,Victoria,Melbourne,Teacher,Middle,Intermediate,Basic,Astronomy,93.46,1.88,Medium,134
+Robert Wilson,6,Male,Canada,Ontario,Ottawa,Business Owner,Low,Advanced,Advanced,Artificial Intelligence Basics,94.18,1.31,Easy,113
+William Garcia,4,Male,India,Maharashtra,Mumbai,Artist,Low,Advanced,Basic,Health Education,44.22,1.96,Easy,92
+Taylor Tucker,10,Female,UK,Scotland,Edinburgh,Teacher,High,Beginner,Advanced,Artificial Intelligence Basics,61.56,2.65,Medium,139
+Justin Brown,13,Male,India,Karnataka,Bangalore,Doctor,Low,Intermediate,Intermediate,Logical Reasoning,43.33,1.56,Hard,140
+Emily Sanchez,13,Female,Canada,Ontario,Ottawa,Business Owner,Middle,Intermediate,Advanced,Mathematics,54.91,2.56,Medium,127
+William Tapia,13,Female,Canada,Quebec,Montreal,Artist,High,Advanced,Intermediate,Reading & Writing,45.83,1.48,Medium,105
+Jacqueline Garcia,5,Female,USA,California,San Francisco,Doctor,Low,Beginner,Basic,Storytelling & Creative Writing,59.67,1.97,Easy,103
+Sophia Miller,12,Male,UK,Scotland,Edinburgh,Business Owner,Middle,Intermediate,Advanced,Environmental Science,58.72,2.24,Hard,101
+Robert Garcia,12,Male,India,Maharashtra,Pune,Engineer,Middle,Beginner,Basic,Coding for Kids,76.27,2.48,Hard,108
+Daniel Wilson,6,Female,UK,England,Manchester,Engineer,Low,Advanced,Intermediate,Programming,72.02,1.76,Medium,127
+Stephanie Wilson,6,Female,Australia,New South Wales,Newcastle,Teacher,Middle,Beginner,Advanced,Astronomy,59.82,2.86,Easy,80
+William Davis,10,Female,UK,England,London,Scientist,Low,Advanced,Advanced,Computer Science,82.1,1.64,Hard,91
+Jacqueline Tapia,16,Male,India,Karnataka,Mysore,Business Owner,Middle,Advanced,Advanced,Mathematics,99.85,2.11,Hard,135
+Emily Miller,6,Male,USA,New York,Buffalo,Business Owner,High,Beginner,Basic,Astronomy,79.03,1.32,Easy,106
+Emily Sanchez,11,Female,Canada,Quebec,Quebec City,Engineer,High,Intermediate,Advanced,Chemistry,92.94,0.79,Medium,128
+Karen Davis,18,Male,Australia,New South Wales,Sydney,Software Developer,Middle,Intermediate,Basic,Chemistry,41.16,1.47,Medium,115
+Stephanie Andrews,17,Male,Australia,New South Wales,Sydney,Teacher,Middle,Intermediate,Basic,Storytelling & Creative Writing,55.98,2.12,Medium,125
+Robert Wilson,8,Female,UK,Scotland,Edinburgh,Doctor,Middle,Intermediate,Basic,Chemistry,69.95,1.03,Hard,80
+Sophia Sanchez,6,Female,India,Maharashtra,Mumbai,Scientist,Low,Advanced,Intermediate,Cyber Safety,77.04,0.61,Hard,80
+William Miller,18,Male,USA,New York,New York City,Business Owner,Low,Advanced,Advanced,Civics,93.79,0.73,Hard,136
+Daniel Fox,8,Male,USA,New York,Buffalo,Business Owner,Middle,Intermediate,Basic,English,54.28,1.19,Hard,102
+Justin Garcia,11,Female,USA,Texas,Dallas,Software Developer,High,Advanced,Intermediate,Reading & Writing,95.3,2.52,Medium,135
+Stephanie Sanchez,17,Female,Canada,Quebec,Quebec City,Doctor,Low,Intermediate,Advanced,Physics,92.69,2.58,Easy,121
+Taylor Garcia,16,Female,USA,California,San Francisco,Software Developer,Low,Advanced,Basic,Artificial Intelligence Basics,94.25,0.92,Hard,83
+Taylor Andrews,16,Male,India,Karnataka,Bangalore,Doctor,Low,Beginner,Intermediate,Reading & Writing,93.04,0.78,Hard,138
+Emily Wilson,10,Male,Australia,New South Wales,Sydney,Scientist,High,Beginner,Intermediate,Geography,59.46,2.34,Medium,125
+Karen Tucker,12,Female,India,Karnataka,Bangalore,Engineer,Low,Advanced,Basic,English,53.71,2.67,Medium,120
+Sophia Tucker,12,Female,Canada,Ontario,Ottawa,Software Developer,High,Advanced,Intermediate,Coding for Kids,78.83,0.95,Hard,89
+Jacqueline Brown,17,Male,UK,Scotland,Edinburgh,Engineer,High,Advanced,Basic,Economics,82.49,2.77,Easy,103
+Sophia Fox,8,Female,Canada,Quebec,Montreal,Engineer,Low,Advanced,Advanced,Coding for Kids,74.15,1.91,Easy,98
+Jacqueline Miller,17,Female,UK,Scotland,Glasgow,Doctor,High,Advanced,Basic,English,67.22,1.08,Medium,113
+William Tapia,8,Female,Australia,New South Wales,Sydney,Teacher,Middle,Intermediate,Intermediate,Programming,78.54,0.77,Easy,99
+Jacqueline Sanchez,10,Female,Canada,Quebec,Quebec City,Business Owner,Low,Beginner,Intermediate,Reading & Writing,65.63,2.15,Hard,111
+Taylor Fox,10,Female,India,Maharashtra,Pune,Engineer,Middle,Advanced,Advanced,Storytelling & Creative Writing,84.24,0.92,Easy,96
+Jacqueline Fox,14,Female,India,Karnataka,Mysore,Artist,Middle,Beginner,Advanced,Artificial Intelligence Basics,98.85,0.63,Easy,108
+Karen Davis,11,Male,USA,Texas,Houston,Engineer,Middle,Advanced,Intermediate,Chemistry,98.44,2.82,Medium,139
+William Sanchez,11,Male,Canada,Quebec,Quebec City,Doctor,Low,Beginner,Intermediate,Chemistry,73.7,2.22,Medium,138
+Taylor Andrews,7,Male,Australia,New South Wales,Sydney,Business Owner,Low,Advanced,Basic,Coding for Kids,53.7,0.54,Medium,100
+Justin Davis,11,Female,Canada,Quebec,Montreal,Business Owner,Middle,Beginner,Intermediate,Computer Science,76.06,2.0,Easy,90
+Justin Garcia,16,Male,Australia,New South Wales,Sydney,Engineer,Middle,Intermediate,Advanced,Chemistry,44.26,1.93,Medium,130
+Sophia Sanchez,14,Male,UK,Scotland,Edinburgh,Artist,High,Intermediate,Basic,Cyber Safety,53.16,1.81,Hard,134
+Justin Tapia,7,Female,USA,California,San Francisco,Doctor,Middle,Intermediate,Advanced,Mathematics,84.43,0.86,Hard,123
+Stephanie Tapia,6,Male,UK,Scotland,Glasgow,Software Developer,High,Advanced,Advanced,Astronomy,71.69,2.85,Hard,115
+Stephanie Miller,5,Male,Canada,Quebec,Quebec City,Teacher,Low,Advanced,Basic,Reading & Writing,67.67,2.68,Hard,125
+Jacqueline Andrews,18,Male,Canada,Ontario,Ottawa,Scientist,Low,Intermediate,Basic,Artificial Intelligence Basics,88.78,0.84,Medium,91
+Emily Miller,15,Male,India,Karnataka,Bangalore,Doctor,Low,Intermediate,Basic,Environmental Science,77.97,2.5,Medium,83
+Sophia Wilson,9,Male,UK,England,London,Engineer,Middle,Advanced,Advanced,Cyber Safety,87.08,2.03,Medium,91
+Stephanie Davis,4,Female,USA,New York,New York City,Engineer,Middle,Beginner,Intermediate,English,40.11,1.67,Easy,114
+Taylor Miller,6,Male,UK,England,Manchester,Doctor,Middle,Intermediate,Advanced,Biology,64.51,2.09,Hard,93
+Taylor Brown,5,Male,Canada,Quebec,Quebec City,Business Owner,Middle,Beginner,Advanced,Reading & Writing,64.36,1.16,Hard,112
+Jacqueline Garcia,18,Male,Australia,New South Wales,Sydney,Scientist,High,Beginner,Intermediate,Physics,65.2,2.39,Medium,108
+Karen Davis,18,Female,India,Karnataka,Bangalore,Artist,Low,Beginner,Advanced,Economics,78.72,2.38,Easy,101
+Daniel Brown,17,Male,India,Karnataka,Bangalore,Doctor,Middle,Intermediate,Basic,Logical Reasoning,48.61,0.78,Medium,114
+Sophia Sanchez,11,Male,USA,Texas,Dallas,Software Developer,Low,Intermediate,Intermediate,Logical Reasoning,88.6,2.17,Easy,88
+Emily Miller,17,Male,UK,Scotland,Edinburgh,Scientist,Middle,Beginner,Advanced,Health Education,73.91,0.53,Medium,95
+Justin Fox,11,Male,India,Karnataka,Mysore,Scientist,Middle,Advanced,Intermediate,Logical Reasoning,84.31,2.43,Hard,116
+Emily Andrews,9,Female,USA,California,Los Angeles,Engineer,Low,Beginner,Advanced,Logical Reasoning,56.45,0.65,Hard,130
+Emily Fox,16,Male,India,Karnataka,Bangalore,Software Developer,Middle,Intermediate,Basic,Artificial Intelligence Basics,78.16,2.81,Medium,83
+Taylor Garcia,6,Male,Canada,Quebec,Montreal,Business Owner,High,Advanced,Intermediate,Astronomy,90.36,2.53,Easy,92
+Robert Sanchez,16,Female,UK,Scotland,Glasgow,Scientist,Middle,Advanced,Advanced,Computer Science,66.79,2.02,Easy,117
+Emily Wilson,12,Male,Australia,New South Wales,Sydney,Business Owner,Middle,Beginner,Intermediate,Artificial Intelligence Basics,55.75,1.83,Easy,130
+Sophia Davis,7,Female,India,Maharashtra,Mumbai,Business Owner,High,Advanced,Advanced,English,91.97,2.76,Hard,85
+Justin Andrews,14,Female,Canada,Ontario,Toronto,Software Developer,High,Beginner,Intermediate,Programming,98.89,2.85,Hard,118
+Karen Garcia,11,Female,UK,England,Manchester,Business Owner,Low,Beginner,Intermediate,Computer Science,47.7,1.16,Medium,124
+Emily Garcia,16,Male,USA,California,San Francisco,Doctor,Low,Advanced,Intermediate,Environmental Science,40.31,1.68,Medium,129
+Karen Fox,12,Male,UK,England,Manchester,Software Developer,Low,Advanced,Intermediate,Astronomy,66.05,2.22,Medium,115
+Emily Fox,6,Male,Australia,New South Wales,Sydney,Teacher,Low,Intermediate,Intermediate,English,56.1,1.49,Hard,84
+Emily Brown,17,Female,Canada,Quebec,Quebec City,Scientist,Middle,Intermediate,Advanced,Computer Science,77.83,2.64,Easy,119
+Jacqueline Andrews,13,Male,USA,Texas,Houston,Artist,High,Intermediate,Intermediate,Geography,97.67,1.19,Hard,105
+Daniel Andrews,11,Female,Canada,Quebec,Montreal,Doctor,Middle,Beginner,Basic,History,50.45,1.23,Hard,97
+Taylor Miller,4,Female,Australia,New South Wales,Sydney,Scientist,High,Advanced,Basic,Astronomy,41.46,2.38,Easy,119
+Sophia Miller,5,Male,USA,New York,New York City,Business Owner,Middle,Beginner,Intermediate,Coding for Kids,45.75,2.25,Easy,116
+Karen Tapia,14,Female,UK,England,Manchester,Doctor,Low,Beginner,Advanced,Computer Science,45.1,1.55,Medium,116
+Jacqueline Andrews,10,Male,Canada,Quebec,Quebec City,Teacher,Middle,Intermediate,Basic,History,92.22,2.62,Hard,91
+Daniel Wilson,16,Prefer not to say,India,Maharashtra,Mumbai,Software Developer,Middle,Intermediate,Advanced,Coding for Kids,64.3,0.67,Medium,121
+Karen Brown,15,Female,Australia,New South Wales,Sydney,Doctor,High,Advanced,Basic,English,74.42,1.32,Hard,98
+Jacqueline Miller,16,Female,USA,Texas,Houston,Scientist,Low,Beginner,Intermediate,Geography,46.72,2.73,Easy,85
+Emily Wilson,16,Male,India,Maharashtra,Pune,Engineer,High,Intermediate,Basic,Computer Science,49.5,1.8,Medium,90
+Stephanie Wilson,6,Female,Canada,Ontario,Toronto,Scientist,Low,Intermediate,Advanced,Computer Science,82.72,1.35,Easy,135
+Jacqueline Sanchez,7,Male,UK,Scotland,Glasgow,Artist,Middle,Advanced,Intermediate,History,78.7,1.92,Hard,123
+Karen Sanchez,17,Male,Canada,Quebec,Montreal,Artist,Low,Beginner,Advanced,History,99.36,1.64,Medium,127
+Robert Fox,13,Female,Canada,Ontario,Ottawa,Doctor,High,Beginner,Basic,Environmental Science,93.39,1.66,Hard,80
+Robert Brown,14,Male,Canada,Ontario,Toronto,Engineer,High,Intermediate,Advanced,Science,73.92,1.5,Easy,107
+Karen Garcia,4,Female,Australia,New South Wales,Newcastle,Doctor,Middle,Beginner,Advanced,Reading & Writing,69.57,2.52,Easy,87
+Emily Brown,16,Female,Canada,Ontario,Toronto,Engineer,High,Beginner,Basic,Civics,83.67,1.48,Medium,119
+Karen Brown,16,Male,Australia,New South Wales,Newcastle,Scientist,Low,Advanced,Intermediate,Reading & Writing,64.61,1.94,Hard,139
+Emily Sanchez,16,Female,UK,England,Manchester,Software Developer,Middle,Advanced,Advanced,Artificial Intelligence Basics,72.69,1.86,Hard,103
+Jacqueline Tapia,8,Female,Canada,Ontario,Ottawa,Business Owner,Low,Advanced,Basic,Science,85.1,1.33,Easy,139
+Sophia Brown,11,Female,Canada,Quebec,Montreal,Doctor,High,Advanced,Basic,Biology,90.2,0.84,Hard,82
+William Davis,7,Female,Australia,Victoria,Melbourne,Doctor,High,Beginner,Intermediate,Economics,90.57,1.93,Hard,132
+Emily Tapia,8,Female,USA,New York,Buffalo,Business Owner,Middle,Intermediate,Intermediate,Artificial Intelligence Basics,58.05,1.43,Easy,81
+Sophia Wilson,7,Female,UK,Scotland,Glasgow,Business Owner,Middle,Intermediate,Basic,Critical Thinking,66.78,1.66,Medium,98
+Daniel Davis,16,Female,UK,Scotland,Edinburgh,Software Developer,High,Intermediate,Basic,Geography,59.53,0.73,Easy,115
+Justin Fox,4,Male,Canada,Quebec,Quebec City,Doctor,Low,Beginner,Intermediate,Reading & Writing,60.39,1.19,Hard,100
+Stephanie Garcia,15,Female,Australia,Victoria,Melbourne,Doctor,Low,Beginner,Basic,History,67.48,2.02,Medium,106
+Sophia Wilson,16,Female,India,Maharashtra,Mumbai,Doctor,High,Advanced,Advanced,Computer Science,70.73,0.93,Hard,110
+Robert Tucker,14,Female,UK,England,London,Business Owner,Middle,Beginner,Intermediate,Coding for Kids,61.47,0.77,Medium,90
+Jacqueline Wilson,14,Male,Australia,New South Wales,Newcastle,Scientist,Middle,Advanced,Intermediate,Health Education,54.55,0.55,Easy,86
+Daniel Sanchez,10,Female,Canada,Quebec,Montreal,Scientist,High,Beginner,Advanced,Computer Science,50.7,1.8,Hard,95
+Karen Garcia,4,Male,USA,Texas,Dallas,Scientist,Middle,Beginner,Basic,Chemistry,52.63,2.1,Easy,84
+Jacqueline Wilson,9,Female,Canada,Quebec,Montreal,Artist,Low,Advanced,Advanced,Health Education,79.11,0.91,Easy,81
+Stephanie Tapia,13,Male,USA,Texas,Dallas,Doctor,Low,Advanced,Advanced,Health Education,74.6,1.18,Hard,88
+Daniel Garcia,12,Female,UK,Scotland,Glasgow,Software Developer,Low,Beginner,Basic,Civics,74.72,0.91,Hard,139
+Stephanie Sanchez,5,Female,Canada,Quebec,Quebec City,Scientist,High,Beginner,Intermediate,Computer Science,62.91,1.38,Easy,124
+Karen Andrews,7,Male,Australia,Victoria,Melbourne,Engineer,Low,Intermediate,Intermediate,Cyber Safety,91.18,2.88,Easy,120
+Daniel Wilson,6,Male,USA,Texas,Houston,Artist,Low,Advanced,Basic,Reading & Writing,83.79,2.72,Hard,97
+Emily Fox,5,Female,UK,Scotland,Glasgow,Scientist,Middle,Intermediate,Basic,Computer Science,64.02,1.72,Easy,123
+Sophia Andrews,5,Female,Australia,Victoria,Melbourne,Artist,Low,Beginner,Advanced,Civics,94.51,2.31,Easy,112
+Robert Davis,6,Female,Canada,Ontario,Ottawa,Scientist,High,Intermediate,Basic,Science,76.86,1.64,Medium,90
+Emily Garcia,5,Male,India,Karnataka,Bangalore,Scientist,High,Intermediate,Advanced,Physics,84.72,0.66,Hard,100
+Stephanie Brown,7,Male,Canada,Ontario,Toronto,Business Owner,High,Intermediate,Intermediate,Physics,58.05,2.66,Hard,122
+Jacqueline Garcia,18,Female,Australia,Victoria,Melbourne,Software Developer,High,Intermediate,Intermediate,Biology,80.83,1.65,Medium,80
+Jacqueline Fox,9,Male,India,Karnataka,Bangalore,Artist,Low,Intermediate,Basic,Biology,43.82,1.13,Hard,117
+Sophia Davis,18,Male,USA,Texas,Dallas,Teacher,Low,Intermediate,Intermediate,Science,50.25,2.98,Medium,116
+Sophia Fox,11,Female,India,Karnataka,Mysore,Scientist,Low,Advanced,Advanced,Cyber Safety,74.31,2.36,Hard,137
+Taylor Miller,8,Prefer not to say,USA,New York,Buffalo,Artist,Low,Beginner,Basic,History,41.42,0.75,Medium,107
+Daniel Fox,14,Female,USA,New York,New York City,Engineer,Low,Beginner,Advanced,Programming,87.79,1.19,Medium,110
+Sophia Wilson,5,Male,UK,Scotland,Glasgow,Doctor,Middle,Intermediate,Basic,Programming,70.9,2.14,Easy,86
+Stephanie Tucker,13,Male,USA,New York,Buffalo,Teacher,High,Intermediate,Advanced,Health Education,52.03,2.51,Hard,107
+Jacqueline Wilson,7,Female,India,Karnataka,Bangalore,Business Owner,High,Advanced,Advanced,Environmental Science,92.96,1.73,Hard,134
+Emily Sanchez,17,Male,USA,New York,New York City,Artist,High,Intermediate,Intermediate,Artificial Intelligence Basics,90.66,2.12,Medium,95
+Robert Sanchez,6,Male,India,Karnataka,Bangalore,Software Developer,High,Intermediate,Basic,Civics,96.98,1.67,Hard,100
+Sophia Sanchez,8,Female,Australia,Victoria,Geelong,Artist,Middle,Advanced,Advanced,Economics,50.73,1.53,Medium,112
+William Wilson,15,Female,Australia,Victoria,Melbourne,Engineer,Low,Intermediate,Advanced,Reading & Writing,58.14,2.12,Medium,112
+Jacqueline Miller,7,Female,India,Maharashtra,Pune,Artist,High,Intermediate,Basic,Physics,63.7,2.46,Medium,87
+Stephanie Sanchez,13,Male,USA,Texas,Houston,Teacher,Low,Beginner,Intermediate,Civics,61.35,1.98,Easy,133
+Sophia Brown,4,Female,USA,New York,Buffalo,Scientist,High,Intermediate,Intermediate,History,51.41,2.65,Medium,125
+Taylor Miller,9,Male,Canada,Ontario,Ottawa,Artist,Middle,Advanced,Advanced,Health Education,91.49,2.22,Hard,89
+Justin Brown,6,Male,Canada,Quebec,Montreal,Artist,Low,Beginner,Basic,Biology,48.01,0.55,Easy,134
+Taylor Andrews,12,Male,Canada,Quebec,Quebec City,Doctor,High,Advanced,Advanced,Chemistry,65.63,2.71,Easy,132
+Jacqueline Fox,5,Female,USA,California,San Francisco,Engineer,Low,Intermediate,Advanced,Coding for Kids,74.7,0.87,Medium,138
+Robert Brown,11,Female,Canada,Quebec,Montreal,Teacher,High,Intermediate,Basic,Artificial Intelligence Basics,79.23,0.71,Easy,106
+Robert Miller,11,Female,Australia,New South Wales,Sydney,Scientist,High,Beginner,Basic,Geography,67.51,2.22,Medium,137
+Daniel Davis,16,Female,India,Maharashtra,Mumbai,Scientist,Middle,Intermediate,Basic,English,58.3,1.33,Hard,115
+Daniel Andrews,11,Female,Canada,Quebec,Montreal,Doctor,Low,Intermediate,Advanced,Science,46.78,2.58,Hard,139
+Karen Fox,8,Male,Canada,Quebec,Montreal,Business Owner,High,Beginner,Basic,Economics,69.54,2.33,Medium,87
+Taylor Davis,11,Female,UK,England,London,Artist,Middle,Advanced,Basic,Programming,71.33,1.77,Easy,120
+Stephanie Miller,15,Female,UK,Scotland,Edinburgh,Business Owner,Middle,Intermediate,Intermediate,Computer Science,64.86,0.95,Hard,102
+Emily Wilson,17,Male,UK,Scotland,Edinburgh,Scientist,Low,Advanced,Basic,Physics,73.14,0.71,Easy,119
+Justin Brown,6,Female,UK,Scotland,Edinburgh,Business Owner,Middle,Beginner,Advanced,Physics,63.41,2.81,Hard,139
+Daniel Brown,11,Male,USA,California,San Francisco,Doctor,Middle,Advanced,Intermediate,Science,65.19,0.91,Hard,98
+William Fox,5,Prefer not to say,Canada,Ontario,Ottawa,Artist,Low,Intermediate,Advanced,Chemistry,57.58,1.99,Easy,120
+William Miller,11,Male,Canada,Quebec,Montreal,Software Developer,Low,Intermediate,Intermediate,Biology,44.93,2.63,Medium,88
+Karen Wilson,7,Female,USA,Texas,Houston,Doctor,Middle,Advanced,Basic,Civics,91.98,0.57,Hard,125
+Emily Miller,16,Male,USA,California,San Francisco,Doctor,Middle,Intermediate,Intermediate,Computer Science,85.17,0.98,Medium,82
+Emily Wilson,11,Female,UK,England,Manchester,Scientist,Low,Beginner,Intermediate,Health Education,76.99,1.6,Hard,97
+Emily Davis,8,Female,India,Maharashtra,Pune,Doctor,Low,Beginner,Intermediate,Chemistry,58.7,1.66,Medium,112
+Emily Brown,4,Female,USA,New York,New York City,Business Owner,High,Advanced,Basic,Reading & Writing,54.36,2.83,Medium,86
+Sophia Miller,14,Female,Canada,Ontario,Ottawa,Scientist,Low,Intermediate,Intermediate,Storytelling & Creative Writing,68.69,2.91,Hard,133
+Jacqueline Andrews,12,Female,India,Maharashtra,Pune,Scientist,High,Beginner,Advanced,Programming,54.89,2.92,Easy,123
+Justin Wilson,16,Male,USA,Texas,Dallas,Artist,Middle,Beginner,Advanced,Storytelling & Creative Writing,73.3,2.35,Medium,126
+William Andrews,16,Female,Australia,Victoria,Geelong,Scientist,Middle,Intermediate,Advanced,Logical Reasoning,60.01,1.84,Easy,84
+Daniel Wilson,5,Male,Canada,Ontario,Toronto,Software Developer,High,Beginner,Basic,English,98.62,2.95,Hard,89
+Sophia Tucker,10,Female,Canada,Ontario,Toronto,Teacher,High,Intermediate,Advanced,Science,82.08,0.65,Medium,87
+Sophia Brown,9,Male,UK,Scotland,Glasgow,Business Owner,Low,Beginner,Intermediate,Artificial Intelligence Basics,45.75,1.17,Medium,93
+Taylor Brown,13,Male,UK,England,London,Software Developer,Middle,Intermediate,Intermediate,Reading & Writing,61.05,1.08,Medium,84
+Jacqueline Wilson,12,Male,India,Karnataka,Mysore,Artist,Low,Beginner,Advanced,Logical Reasoning,67.64,2.23,Medium,97
+Stephanie Garcia,4,Female,UK,Scotland,Edinburgh,Scientist,Middle,Advanced,Intermediate,Logical Reasoning,68.36,1.35,Hard,123
+Taylor Wilson,18,Male,India,Maharashtra,Pune,Teacher,Low,Intermediate,Advanced,Biology,98.14,2.26,Easy,136
+Justin Sanchez,7,Female,Canada,Ontario,Ottawa,Artist,High,Advanced,Intermediate,Logical Reasoning,41.81,1.84,Medium,121
+Stephanie Sanchez,13,Female,Canada,Quebec,Quebec City,Scientist,Middle,Intermediate,Basic,Health Education,45.38,1.08,Medium,117
+Emily Tucker,10,Male,USA,Texas,Houston,Business Owner,High,Advanced,Basic,Chemistry,66.25,2.9,Medium,109
+Robert Tapia,13,Female,UK,Scotland,Edinburgh,Engineer,High,Intermediate,Advanced,Cyber Safety,88.04,2.78,Medium,90
+Emily Fox,15,Female,Australia,New South Wales,Newcastle,Teacher,Low,Advanced,Intermediate,Science,78.13,0.93,Medium,136
+Justin Andrews,18,Male,Canada,Ontario,Toronto,Engineer,Middle,Beginner,Intermediate,Coding for Kids,76.15,2.61,Medium,111
+Justin Miller,16,Female,India,Maharashtra,Pune,Business Owner,Middle,Beginner,Advanced,Cyber Safety,48.09,1.13,Easy,96
+Robert Davis,10,Male,Australia,New South Wales,Sydney,Scientist,Low,Intermediate,Basic,Environmental Science,74.04,1.65,Easy,93
+Stephanie Davis,9,Female,Canada,Quebec,Montreal,Doctor,Middle,Beginner,Intermediate,Astronomy,91.12,1.69,Easy,134
+Taylor Wilson,10,Male,USA,New York,New York City,Engineer,Low,Intermediate,Intermediate,Astronomy,81.6,2.48,Easy,112
+Karen Miller,15,Male,USA,New York,New York City,Artist,High,Intermediate,Intermediate,Cyber Safety,88.85,0.66,Hard,106
+William Brown,8,Male,India,Maharashtra,Pune,Teacher,Low,Intermediate,Basic,Chemistry,61.89,0.65,Medium,131
+Robert Tapia,10,Male,Australia,New South Wales,Newcastle,Artist,High,Beginner,Intermediate,Coding for Kids,72.8,2.64,Easy,126
+Stephanie Tapia,6,Female,Canada,Quebec,Montreal,Artist,Low,Beginner,Basic,Health Education,44.84,0.54,Easy,92
+Justin Davis,14,Female,UK,Scotland,Edinburgh,Software Developer,High,Intermediate,Advanced,Geography,90.23,1.29,Medium,96
+Karen Tapia,9,Male,Canada,Ontario,Ottawa,Scientist,Middle,Beginner,Advanced,Mathematics,59.1,2.51,Hard,115
+William Brown,4,Male,India,Karnataka,Bangalore,Teacher,Low,Advanced,Advanced,Biology,69.62,2.99,Medium,80
+Daniel Fox,8,Female,USA,New York,Buffalo,Business Owner,Middle,Beginner,Basic,Critical Thinking,43.35,0.77,Easy,122
+Robert Fox,4,Female,Canada,Quebec,Quebec City,Scientist,Low,Intermediate,Basic,Health Education,96.5,2.51,Hard,104
+Robert Tapia,18,Male,USA,California,Los Angeles,Doctor,Middle,Beginner,Intermediate,Storytelling & Creative Writing,92.89,1.35,Hard,133
+William Davis,14,Male,UK,England,London,Artist,Low,Intermediate,Basic,Cyber Safety,70.91,1.17,Hard,138
+Robert Sanchez,6,Male,Australia,New South Wales,Sydney,Software Developer,Middle,Advanced,Intermediate,Computer Science,71.58,0.62,Medium,102
+Taylor Miller,13,Female,USA,New York,New York City,Software Developer,Low,Advanced,Basic,Science,93.06,2.65,Easy,92
+Emily Garcia,15,Male,USA,California,San Francisco,Teacher,Middle,Intermediate,Intermediate,Critical Thinking,55.3,2.25,Hard,88
+Robert Tapia,5,Female,USA,Texas,Dallas,Scientist,Middle,Beginner,Advanced,Critical Thinking,87.53,1.17,Hard,114
+Jacqueline Brown,16,Male,Canada,Ontario,Ottawa,Engineer,Low,Intermediate,Intermediate,Artificial Intelligence Basics,92.74,2.6,Hard,92
+Sophia Tapia,6,Male,Canada,Ontario,Ottawa,Engineer,High,Beginner,Basic,Economics,52.03,2.67,Easy,82
+Justin Andrews,4,Female,Canada,Quebec,Quebec City,Artist,High,Intermediate,Basic,English,43.81,2.53,Easy,109
+Daniel Sanchez,6,Male,Canada,Ontario,Toronto,Teacher,Middle,Beginner,Intermediate,Storytelling & Creative Writing,94.55,0.97,Easy,131
+Karen Sanchez,12,Female,UK,Scotland,Glasgow,Artist,Low,Intermediate,Advanced,Civics,40.11,1.7,Medium,80
+Daniel Davis,7,Female,UK,Scotland,Glasgow,Business Owner,Low,Beginner,Basic,Environmental Science,45.16,2.69,Medium,103
+Daniel Brown,16,Male,Canada,Ontario,Toronto,Business Owner,High,Beginner,Advanced,Physics,73.24,0.57,Easy,108
+Jacqueline Miller,15,Female,Australia,New South Wales,Newcastle,Software Developer,Low,Beginner,Basic,Critical Thinking,67.56,1.39,Easy,92
+William Fox,13,Male,UK,England,Manchester,Software Developer,High,Beginner,Intermediate,Civics,61.33,2.16,Easy,111
+Taylor Andrews,12,Male,India,Karnataka,Bangalore,Scientist,High,Beginner,Advanced,Civics,55.29,0.84,Hard,112
+Robert Miller,12,Male,USA,New York,Buffalo,Artist,High,Beginner,Intermediate,Environmental Science,90.19,1.56,Easy,138
+William Fox,10,Female,UK,England,London,Artist,Low,Advanced,Intermediate,English,69.6,0.93,Hard,113
+Stephanie Brown,17,Male,USA,Texas,Houston,Business Owner,High,Advanced,Basic,Science,82.43,1.63,Easy,82
+Daniel Tucker,14,Male,UK,England,Manchester,Artist,Low,Intermediate,Basic,Artificial Intelligence Basics,89.28,2.73,Hard,80
+Jacqueline Andrews,13,Female,Canada,Ontario,Toronto,Artist,High,Beginner,Intermediate,Geography,77.57,2.6,Hard,127
+William Brown,9,Male,UK,Scotland,Glasgow,Doctor,High,Intermediate,Basic,Health Education,71.37,0.88,Hard,138
+Stephanie Fox,16,Male,India,Maharashtra,Pune,Doctor,High,Advanced,Intermediate,Biology,74.77,1.68,Medium,97
+Sophia Miller,10,Male,Canada,Quebec,Montreal,Doctor,Low,Advanced,Advanced,Coding for Kids,53.47,2.32,Easy,130
+William Sanchez,7,Female,USA,Texas,Houston,Teacher,Low,Advanced,Intermediate,Storytelling & Creative Writing,82.38,1.03,Medium,109
+Justin Sanchez,5,Male,India,Karnataka,Bangalore,Engineer,Middle,Beginner,Advanced,Astronomy,75.32,2.97,Medium,132
+Stephanie Brown,8,Male,India,Maharashtra,Pune,Business Owner,Middle,Beginner,Advanced,Biology,99.52,2.68,Medium,137
+Karen Sanchez,12,Female,India,Karnataka,Bangalore,Software Developer,Middle,Intermediate,Advanced,Cyber Safety,69.65,1.95,Hard,81
+William Andrews,15,Female,Australia,Victoria,Melbourne,Scientist,High,Beginner,Intermediate,Environmental Science,69.61,1.5,Medium,111
+Emily Tapia,12,Female,USA,California,Los Angeles,Doctor,High,Advanced,Intermediate,Cyber Safety,95.78,2.56,Easy,81
+Justin Davis,11,Female,Australia,New South Wales,Newcastle,Business Owner,Low,Advanced,Basic,Storytelling & Creative Writing,74.95,0.58,Easy,91
+William Brown,6,Male,Australia,Victoria,Melbourne,Artist,Middle,Beginner,Intermediate,Critical Thinking,80.39,1.24,Easy,90
+Karen Andrews,17,Female,UK,England,London,Business Owner,Middle,Advanced,Intermediate,Astronomy,62.72,1.07,Easy,88
+Sophia Fox,12,Female,India,Maharashtra,Mumbai,Business Owner,Low,Beginner,Basic,Reading & Writing,87.62,1.69,Hard,136
+Karen Garcia,16,Female,Australia,New South Wales,Newcastle,Doctor,Middle,Advanced,Advanced,Programming,64.05,0.7,Easy,119
+Daniel Wilson,11,Male,UK,Scotland,Glasgow,Software Developer,High,Advanced,Intermediate,Economics,83.78,1.78,Easy,126
+Stephanie Garcia,13,Male,USA,New York,Buffalo,Business Owner,High,Advanced,Basic,English,62.13,0.88,Hard,112
+Daniel Fox,9,Male,UK,Scotland,Glasgow,Business Owner,Low,Beginner,Advanced,Cyber Safety,42.77,1.13,Easy,93
+William Wilson,12,Male,Canada,Quebec,Quebec City,Scientist,Low,Beginner,Advanced,Coding for Kids,49.87,0.99,Medium,100
+Jacqueline Garcia,15,Male,USA,Texas,Dallas,Doctor,Middle,Advanced,Advanced,Environmental Science,46.25,2.41,Hard,83
+Jacqueline Garcia,5,Male,UK,Scotland,Edinburgh,Artist,High,Beginner,Intermediate,Physics,77.95,0.74,Easy,86
+Emily Miller,4,Male,Australia,New South Wales,Sydney,Artist,Middle,Intermediate,Basic,History,96.01,1.75,Medium,89
+Taylor Miller,8,Male,Canada,Ontario,Toronto,Teacher,High,Advanced,Intermediate,Economics,52.28,0.59,Medium,134
+Sophia Brown,18,Male,Australia,New South Wales,Newcastle,Software Developer,High,Intermediate,Intermediate,Economics,41.2,1.29,Hard,80
+Emily Fox,5,Male,UK,Scotland,Edinburgh,Engineer,Low,Intermediate,Intermediate,English,58.33,1.25,Medium,134
+Stephanie Miller,14,Male,India,Karnataka,Mysore,Software Developer,Middle,Beginner,Advanced,Economics,54.14,1.05,Hard,95
+Stephanie Garcia,5,Male,Australia,Victoria,Geelong,Software Developer,Middle,Intermediate,Intermediate,Computer Science,99.85,2.7,Hard,80
+Robert Tapia,5,Female,USA,California,San Francisco,Scientist,Low,Advanced,Basic,Science,51.42,0.94,Hard,98
+Emily Fox,17,Male,Canada,Ontario,Toronto,Software Developer,High,Beginner,Advanced,Physics,96.81,2.12,Hard,119
+Daniel Tapia,10,Male,India,Maharashtra,Pune,Doctor,High,Intermediate,Intermediate,Storytelling & Creative Writing,81.07,2.02,Medium,92
+Robert Fox,16,Male,Australia,New South Wales,Sydney,Software Developer,High,Intermediate,Advanced,Logical Reasoning,43.8,1.77,Hard,98
+Stephanie Andrews,7,Female,India,Karnataka,Mysore,Doctor,Low,Intermediate,Intermediate,Programming,63.08,2.35,Medium,106
+Taylor Wilson,5,Male,Australia,Victoria,Geelong,Artist,High,Beginner,Basic,Health Education,78.68,1.93,Easy,93
+William Andrews,4,Male,USA,Texas,Houston,Software Developer,High,Intermediate,Intermediate,Astronomy,98.23,0.51,Easy,117
+Justin Miller,12,Male,USA,California,Los Angeles,Teacher,High,Intermediate,Basic,Chemistry,60.1,1.87,Easy,134
+Stephanie Miller,5,Female,India,Karnataka,Mysore,Doctor,Low,Intermediate,Intermediate,Astronomy,82.81,2.86,Easy,100
+Sophia Andrews,8,Male,Canada,Quebec,Quebec City,Engineer,High,Beginner,Intermediate,Physics,57.66,2.15,Medium,114
+Stephanie Davis,8,Male,Canada,Quebec,Quebec City,Doctor,Low,Intermediate,Advanced,Astronomy,41.89,2.73,Easy,136
+Stephanie Brown,4,Female,Australia,New South Wales,Newcastle,Engineer,Middle,Beginner,Intermediate,Reading & Writing,65.6,0.82,Easy,106
+Jacqueline Tucker,9,Female,UK,England,Manchester,Scientist,High,Intermediate,Basic,Storytelling & Creative Writing,66.17,2.94,Easy,119
+Daniel Sanchez,16,Female,Australia,Victoria,Melbourne,Software Developer,Middle,Advanced,Basic,Astronomy,49.6,0.51,Easy,130
+Stephanie Brown,14,Male,Australia,Victoria,Melbourne,Business Owner,High,Beginner,Basic,Astronomy,86.94,1.51,Easy,136
+Daniel Sanchez,11,Female,India,Maharashtra,Mumbai,Scientist,Middle,Beginner,Advanced,Science,62.95,1.17,Easy,82
+Sophia Wilson,12,Male,India,Karnataka,Bangalore,Teacher,High,Intermediate,Basic,Chemistry,71.34,1.88,Hard,131
+Stephanie Brown,10,Female,Canada,Quebec,Montreal,Software Developer,Low,Intermediate,Basic,Biology,51.6,0.76,Hard,89
+Stephanie Andrews,10,Male,UK,England,London,Software Developer,Middle,Intermediate,Basic,Logical Reasoning,70.66,1.2,Easy,124
+Taylor Tucker,10,Male,USA,Texas,Houston,Software Developer,Low,Intermediate,Intermediate,English,59.55,2.31,Medium,107
+Emily Tapia,13,Female,India,Karnataka,Mysore,Engineer,Middle,Intermediate,Advanced,History,89.94,1.27,Medium,84
+Justin Tucker,8,Male,UK,Scotland,Glasgow,Artist,High,Intermediate,Advanced,Civics,90.32,2.03,Easy,113
+Jacqueline Miller,9,Female,USA,New York,Buffalo,Engineer,Low,Advanced,Basic,Artificial Intelligence Basics,52.3,2.93,Medium,102
+Daniel Fox,6,Male,USA,California,San Francisco,Software Developer,High,Beginner,Intermediate,English,51.86,2.53,Hard,91
+Justin Davis,11,Female,Canada,Ontario,Ottawa,Teacher,Middle,Advanced,Basic,Storytelling & Creative Writing,73.01,0.64,Hard,82
+Karen Tucker,7,Female,UK,England,Manchester,Engineer,Middle,Intermediate,Basic,Reading & Writing,81.93,1.22,Hard,126
+Robert Tucker,5,Female,Canada,Ontario,Toronto,Business Owner,Low,Advanced,Intermediate,Artificial Intelligence Basics,97.6,0.81,Easy,114
+Daniel Garcia,18,Male,Canada,Ontario,Ottawa,Doctor,High,Advanced,Basic,Logical Reasoning,41.39,2.91,Hard,89
+Stephanie Miller,15,Female,UK,Scotland,Glasgow,Software Developer,Low,Advanced,Advanced,Programming,64.69,2.08,Hard,80
+Daniel Andrews,7,Male,Australia,New South Wales,Sydney,Business Owner,Middle,Advanced,Advanced,History,67.38,1.3,Hard,82
+William Wilson,5,Male,Australia,New South Wales,Sydney,Artist,High,Intermediate,Advanced,Chemistry,54.41,1.4,Medium,121
+Robert Wilson,11,Female,USA,New York,New York City,Engineer,Low,Intermediate,Basic,Biology,41.6,1.29,Easy,103
+William Fox,11,Female,UK,Scotland,Edinburgh,Software Developer,High,Intermediate,Advanced,Geography,58.57,1.91,Easy,137
+Sophia Tapia,12,Male,Australia,Victoria,Melbourne,Artist,High,Intermediate,Advanced,Reading & Writing,83.89,2.16,Medium,109
+Justin Tucker,18,Female,Canada,Quebec,Montreal,Engineer,Middle,Advanced,Basic,Geography,92.04,1.06,Easy,96
+William Sanchez,12,Female,Australia,New South Wales,Newcastle,Software Developer,Middle,Advanced,Basic,Science,69.96,2.91,Medium,109
+Karen Miller,16,Female,India,Maharashtra,Mumbai,Teacher,Middle,Intermediate,Intermediate,Economics,66.41,1.27,Hard,90
+Jacqueline Miller,4,Male,UK,England,London,Doctor,Low,Beginner,Intermediate,Computer Science,83.47,1.67,Hard,121
+Daniel Wilson,13,Male,Canada,Quebec,Quebec City,Engineer,Low,Beginner,Basic,Reading & Writing,70.78,2.74,Medium,128
+William Miller,12,Female,Canada,Quebec,Montreal,Business Owner,Middle,Advanced,Basic,Mathematics,93.17,1.49,Medium,82
+Emily Tapia,17,Male,Australia,New South Wales,Newcastle,Scientist,Middle,Intermediate,Intermediate,Economics,71.48,2.3,Hard,134
+Emily Tapia,9,Male,UK,Scotland,Glasgow,Artist,High,Intermediate,Intermediate,Programming,77.76,2.82,Hard,118
+William Garcia,7,Male,USA,Texas,Houston,Scientist,Middle,Intermediate,Intermediate,Physics,78.65,1.13,Easy,92
+Taylor Tucker,11,Male,USA,New York,Buffalo,Business Owner,Low,Beginner,Basic,Civics,63.11,3.0,Hard,109
+Sophia Andrews,18,Female,Australia,New South Wales,Sydney,Teacher,Middle,Beginner,Basic,Geography,93.85,0.89,Hard,125
+Robert Miller,7,Male,UK,England,Manchester,Artist,High,Advanced,Advanced,Logical Reasoning,60.2,1.63,Hard,90
+Stephanie Davis,4,Male,UK,Scotland,Glasgow,Artist,Low,Advanced,Intermediate,Critical Thinking,74.8,2.58,Medium,97
+Justin Davis,7,Female,Canada,Ontario,Ottawa,Teacher,High,Intermediate,Advanced,Storytelling & Creative Writing,77.53,2.2,Easy,114
+Sophia Tapia,6,Female,USA,Texas,Dallas,Scientist,Low,Beginner,Intermediate,Science,53.57,2.08,Medium,119
+Sophia Tucker,6,Male,USA,California,San Francisco,Business Owner,Middle,Advanced,Intermediate,Geography,40.4,1.64,Hard,105
+Robert Fox,5,Female,UK,Scotland,Glasgow,Scientist,High,Advanced,Advanced,Programming,58.27,1.96,Easy,135
+Stephanie Wilson,6,Male,USA,California,San Francisco,Scientist,Middle,Intermediate,Basic,Artificial Intelligence Basics,99.15,2.64,Medium,112
+Emily Miller,17,Male,India,Karnataka,Mysore,Doctor,Middle,Intermediate,Basic,Geography,82.56,1.89,Hard,123
+William Andrews,11,Female,Canada,Quebec,Quebec City,Business Owner,Low,Beginner,Intermediate,Coding for Kids,40.47,0.55,Medium,131
+William Tucker,4,Female,UK,England,London,Business Owner,High,Beginner,Basic,Cyber Safety,80.52,2.41,Medium,93
+Jacqueline Brown,11,Female,India,Maharashtra,Mumbai,Scientist,Low,Beginner,Basic,Logical Reasoning,90.29,2.91,Hard,87
+Sophia Brown,15,Male,USA,New York,Buffalo,Scientist,Middle,Intermediate,Advanced,Reading & Writing,60.06,0.96,Medium,91
+Karen Sanchez,15,Female,UK,Scotland,Glasgow,Artist,Low,Beginner,Intermediate,History,43.54,2.46,Hard,119
+Robert Wilson,6,Male,USA,California,Los Angeles,Engineer,Middle,Beginner,Advanced,Chemistry,65.0,1.46,Easy,129
+Robert Miller,8,Male,India,Maharashtra,Mumbai,Artist,Low,Beginner,Advanced,Science,48.15,0.63,Medium,134
+William Garcia,17,Female,India,Karnataka,Mysore,Business Owner,Middle,Advanced,Advanced,Health Education,63.9,2.36,Easy,115
+Stephanie Brown,7,Female,Canada,Quebec,Quebec City,Software Developer,High,Advanced,Intermediate,History,81.04,1.92,Easy,80
+Stephanie Andrews,7,Male,India,Karnataka,Bangalore,Software Developer,High,Advanced,Advanced,Artificial Intelligence Basics,42.58,1.34,Hard,108
+Daniel Fox,4,Female,UK,England,London,Artist,Middle,Intermediate,Intermediate,Science,79.26,0.56,Easy,113
+William Andrews,7,Male,India,Maharashtra,Mumbai,Software Developer,Low,Intermediate,Basic,Physics,53.99,1.83,Hard,103
+Robert Fox,8,Male,India,Karnataka,Bangalore,Software Developer,Middle,Advanced,Basic,Science,67.71,0.68,Easy,81
+William Brown,4,Male,USA,New York,Buffalo,Engineer,Middle,Intermediate,Basic,Cyber Safety,75.3,2.25,Easy,126
+Robert Wilson,11,Male,India,Karnataka,Bangalore,Teacher,Middle,Beginner,Basic,Astronomy,99.98,1.36,Medium,114
+Justin Davis,9,Male,India,Karnataka,Mysore,Doctor,High,Beginner,Advanced,Science,91.17,1.37,Hard,89
+Jacqueline Wilson,15,Male,UK,England,London,Artist,Middle,Advanced,Intermediate,English,66.4,1.4,Medium,84
+Stephanie Miller,18,Female,Canada,Quebec,Montreal,Doctor,Low,Advanced,Advanced,Geography,69.32,0.79,Easy,129
+Emily Garcia,10,Male,Australia,Victoria,Melbourne,Scientist,Middle,Beginner,Advanced,Astronomy,82.14,0.53,Medium,132
+Emily Tapia,15,Male,Canada,Ontario,Ottawa,Doctor,High,Advanced,Intermediate,Chemistry,90.82,2.44,Hard,83
+Jacqueline Miller,4,Female,USA,New York,Buffalo,Engineer,Low,Advanced,Basic,Astronomy,49.86,0.5,Easy,103
+Taylor Sanchez,18,Female,Canada,Quebec,Montreal,Artist,Low,Intermediate,Basic,Economics,73.68,1.79,Hard,109
+Taylor Miller,17,Prefer not to say,USA,California,San Francisco,Scientist,Low,Beginner,Advanced,English,95.43,0.83,Easy,80
+Sophia Miller,15,Female,USA,Texas,Houston,Business Owner,Low,Beginner,Advanced,Biology,76.59,1.66,Medium,110
+Stephanie Brown,15,Prefer not to say,Canada,Ontario,Toronto,Software Developer,Middle,Beginner,Intermediate,Cyber Safety,73.8,1.89,Hard,117
+Stephanie Tapia,4,Male,Canada,Ontario,Toronto,Scientist,Low,Beginner,Advanced,Critical Thinking,70.36,2.45,Hard,135
+Justin Wilson,12,Male,UK,Scotland,Edinburgh,Artist,Low,Advanced,Advanced,English,42.86,1.81,Easy,114
+Sophia Sanchez,9,Male,USA,California,San Francisco,Engineer,Low,Advanced,Basic,Chemistry,81.43,0.84,Easy,86
+Robert Brown,15,Male,USA,California,Los Angeles,Doctor,Middle,Beginner,Basic,Coding for Kids,44.83,2.16,Medium,101
+Justin Wilson,9,Male,UK,Scotland,Edinburgh,Teacher,Middle,Beginner,Advanced,Critical Thinking,93.27,1.42,Hard,112
+Stephanie Brown,4,Male,Canada,Ontario,Toronto,Scientist,High,Intermediate,Basic,English,58.53,2.36,Medium,88
+Robert Wilson,18,Female,India,Maharashtra,Mumbai,Software Developer,Middle,Beginner,Basic,Artificial Intelligence Basics,43.31,2.36,Easy,118
+Taylor Garcia,16,Female,UK,Scotland,Edinburgh,Engineer,Middle,Intermediate,Advanced,Science,65.52,2.02,Hard,106
+Robert Tapia,16,Male,Australia,New South Wales,Sydney,Artist,Middle,Intermediate,Advanced,History,65.67,2.4,Hard,84
+Sophia Garcia,8,Female,USA,California,San Francisco,Teacher,High,Intermediate,Intermediate,Geography,87.23,2.86,Medium,100
+Jacqueline Fox,18,Female,India,Maharashtra,Pune,Artist,Middle,Intermediate,Basic,Artificial Intelligence Basics,71.87,0.78,Medium,94
+Karen Davis,8,Male,UK,Scotland,Glasgow,Software Developer,Low,Advanced,Advanced,Reading & Writing,51.02,0.63,Hard,104
+Taylor Wilson,16,Female,USA,Texas,Dallas,Business Owner,Middle,Beginner,Intermediate,History,89.11,0.98,Hard,91
+Stephanie Fox,14,Female,Australia,Victoria,Melbourne,Business Owner,Middle,Beginner,Basic,Artificial Intelligence Basics,98.16,0.59,Hard,101
+Daniel Sanchez,10,Male,UK,England,London,Doctor,Low,Beginner,Advanced,Environmental Science,74.54,2.78,Easy,132
+Justin Tapia,18,Male,UK,Scotland,Edinburgh,Artist,Low,Intermediate,Basic,Economics,72.33,0.98,Hard,100
+Daniel Fox,18,Male,Australia,New South Wales,Newcastle,Artist,Low,Intermediate,Intermediate,Chemistry,58.05,1.1,Hard,115
+Justin Tucker,12,Male,Australia,New South Wales,Newcastle,Artist,Low,Intermediate,Intermediate,Critical Thinking,51.39,1.23,Medium,88
+Jacqueline Davis,14,Male,Australia,Victoria,Geelong,Software Developer,High,Beginner,Basic,English,54.84,2.12,Hard,97
+Jacqueline Andrews,10,Female,Canada,Ontario,Ottawa,Software Developer,Middle,Beginner,Intermediate,Physics,59.11,2.22,Medium,118
+Stephanie Miller,5,Female,India,Karnataka,Mysore,Software Developer,Low,Beginner,Advanced,Biology,88.92,1.87,Easy,106
+Taylor Tapia,18,Prefer not to say,UK,Scotland,Edinburgh,Artist,Low,Intermediate,Advanced,Economics,95.83,0.59,Easy,110
+Karen Garcia,5,Male,Australia,Victoria,Geelong,Scientist,High,Beginner,Intermediate,Cyber Safety,94.93,1.98,Hard,83
+Taylor Davis,9,Male,India,Karnataka,Mysore,Scientist,High,Intermediate,Advanced,Artificial Intelligence Basics,82.67,2.8,Hard,94
+Stephanie Tapia,5,Female,Canada,Ontario,Ottawa,Teacher,High,Advanced,Basic,Biology,93.42,0.95,Medium,87
+Justin Davis,9,Female,UK,England,Manchester,Business Owner,High,Intermediate,Advanced,Environmental Science,43.94,1.51,Hard,116
+Justin Tucker,8,Male,Canada,Ontario,Toronto,Engineer,High,Advanced,Intermediate,Civics,46.25,2.56,Easy,92
+Stephanie Davis,15,Female,USA,New York,New York City,Artist,Low,Intermediate,Advanced,Artificial Intelligence Basics,53.84,1.15,Hard,98
+William Garcia,15,Male,Canada,Ontario,Ottawa,Teacher,Middle,Advanced,Advanced,Artificial Intelligence Basics,61.67,1.85,Easy,124
+Daniel Andrews,12,Prefer not to say,India,Maharashtra,Pune,Doctor,Low,Beginner,Intermediate,Economics,46.15,2.33,Hard,126
+Karen Tucker,6,Male,USA,California,Los Angeles,Doctor,Middle,Advanced,Intermediate,Chemistry,66.74,2.86,Medium,121
+Taylor Andrews,5,Female,USA,Texas,Houston,Scientist,Middle,Beginner,Basic,History,61.07,1.85,Easy,93
+Justin Tucker,15,Male,USA,New York,New York City,Artist,Middle,Advanced,Basic,Economics,71.5,2.76,Easy,110
+Emily Garcia,11,Male,India,Karnataka,Bangalore,Doctor,High,Advanced,Intermediate,Economics,53.34,1.69,Hard,95
+Karen Tucker,14,Male,India,Maharashtra,Pune,Artist,Low,Advanced,Intermediate,Logical Reasoning,79.51,0.74,Hard,136
+Justin Miller,15,Male,India,Karnataka,Mysore,Teacher,Middle,Advanced,Intermediate,Storytelling & Creative Writing,43.55,0.78,Medium,140
+Jacqueline Tapia,17,Male,Australia,New South Wales,Newcastle,Doctor,Middle,Intermediate,Basic,Critical Thinking,46.23,1.3,Medium,90
+Jacqueline Tapia,15,Female,India,Karnataka,Bangalore,Artist,Low,Advanced,Advanced,Reading & Writing,82.1,2.4,Easy,126
+William Garcia,8,Female,UK,Scotland,Edinburgh,Artist,Middle,Beginner,Basic,English,54.54,2.61,Easy,125
+William Andrews,14,Female,India,Maharashtra,Mumbai,Artist,Low,Beginner,Advanced,Coding for Kids,72.59,2.37,Easy,90
+Karen Tapia,12,Female,Canada,Quebec,Montreal,Doctor,Middle,Intermediate,Basic,Economics,80.76,2.87,Hard,107
+Emily Tucker,10,Female,UK,Scotland,Glasgow,Engineer,Low,Beginner,Basic,Artificial Intelligence Basics,59.95,2.42,Medium,116
+Taylor Garcia,7,Male,Australia,Victoria,Melbourne,Artist,Low,Advanced,Intermediate,Computer Science,86.56,2.93,Medium,121
+Sophia Andrews,6,Male,India,Karnataka,Bangalore,Scientist,High,Beginner,Intermediate,Storytelling & Creative Writing,48.64,1.43,Easy,139
+Daniel Davis,16,Male,USA,California,San Francisco,Software Developer,Low,Intermediate,Basic,Environmental Science,88.49,1.5,Hard,105
+Daniel Davis,14,Female,Canada,Quebec,Quebec City,Artist,High,Beginner,Basic,Chemistry,96.43,0.62,Hard,133
+Justin Davis,4,Female,Canada,Ontario,Ottawa,Scientist,Middle,Intermediate,Intermediate,Programming,83.04,2.22,Hard,136
+Karen Wilson,8,Female,Australia,Victoria,Geelong,Software Developer,High,Advanced,Basic,Storytelling & Creative Writing,49.22,1.39,Medium,108
+Robert Tapia,12,Female,UK,Scotland,Edinburgh,Engineer,Middle,Intermediate,Advanced,Geography,70.2,1.22,Easy,118
+Sophia Fox,18,Male,Australia,New South Wales,Newcastle,Teacher,Low,Intermediate,Intermediate,Artificial Intelligence Basics,56.21,0.59,Easy,137
+Daniel Brown,8,Male,India,Maharashtra,Mumbai,Teacher,Middle,Beginner,Intermediate,Biology,48.44,0.65,Easy,120
+Karen Brown,11,Female,UK,Scotland,Edinburgh,Scientist,High,Intermediate,Advanced,Geography,41.37,2.06,Hard,128
+Robert Miller,8,Female,UK,Scotland,Glasgow,Artist,Middle,Advanced,Basic,Artificial Intelligence Basics,73.35,1.83,Medium,118
+Taylor Sanchez,6,Female,India,Maharashtra,Pune,Artist,Low,Intermediate,Advanced,Geography,87.73,2.03,Medium,110
+Taylor Wilson,7,Male,UK,England,London,Doctor,Middle,Intermediate,Intermediate,Mathematics,72.04,2.26,Easy,134
+Karen Wilson,15,Male,India,Karnataka,Bangalore,Software Developer,Low,Beginner,Advanced,Storytelling & Creative Writing,60.71,2.95,Easy,124
+Karen Andrews,16,Male,USA,California,San Francisco,Teacher,Low,Intermediate,Intermediate,Reading & Writing,49.27,3.0,Hard,104
+Karen Tapia,11,Female,UK,England,Manchester,Scientist,High,Intermediate,Advanced,Mathematics,75.69,1.54,Hard,113
+William Fox,13,Male,India,Karnataka,Bangalore,Scientist,High,Beginner,Advanced,Health Education,98.67,2.97,Easy,108
+Jacqueline Brown,12,Male,Canada,Quebec,Montreal,Doctor,Low,Advanced,Basic,Economics,77.61,0.51,Hard,95
+Daniel Brown,5,Female,Australia,New South Wales,Newcastle,Engineer,Middle,Beginner,Intermediate,Civics,59.81,2.68,Easy,132
+Emily Tapia,8,Female,Australia,New South Wales,Newcastle,Scientist,High,Advanced,Intermediate,Artificial Intelligence Basics,60.6,1.03,Medium,107
+Justin Andrews,13,Female,India,Karnataka,Mysore,Artist,High,Intermediate,Basic,Environmental Science,43.89,2.56,Hard,94
+Daniel Wilson,16,Female,Canada,Quebec,Quebec City,Doctor,High,Intermediate,Advanced,Coding for Kids,86.58,1.89,Medium,118
+Robert Wilson,7,Female,Australia,Victoria,Geelong,Business Owner,Low,Advanced,Basic,Coding for Kids,50.54,1.08,Hard,138
+Emily Garcia,14,Male,Canada,Ontario,Toronto,Doctor,Middle,Intermediate,Basic,Logical Reasoning,41.6,0.63,Hard,130
+William Tapia,15,Male,Australia,New South Wales,Sydney,Scientist,High,Advanced,Advanced,Reading & Writing,78.82,2.43,Easy,129
+Sophia Davis,4,Female,India,Karnataka,Bangalore,Software Developer,High,Intermediate,Basic,Programming,89.98,1.02,Hard,95
+Karen Andrews,6,Female,Canada,Quebec,Montreal,Doctor,Middle,Beginner,Basic,Environmental Science,65.77,2.32,Hard,95
+Jacqueline Tapia,8,Male,Canada,Quebec,Montreal,Doctor,High,Advanced,Basic,Mathematics,44.65,1.63,Easy,116
+Emily Tucker,14,Male,USA,Texas,Houston,Business Owner,Low,Advanced,Intermediate,Chemistry,42.97,1.44,Medium,132
+Robert Wilson,10,Prefer not to say,USA,Texas,Houston,Engineer,Low,Beginner,Intermediate,Critical Thinking,74.64,0.8,Easy,83
+Justin Miller,9,Male,USA,California,San Francisco,Scientist,Low,Beginner,Basic,Reading & Writing,83.05,2.38,Hard,81
+Emily Brown,12,Female,Australia,New South Wales,Newcastle,Doctor,High,Beginner,Basic,Cyber Safety,84.16,1.85,Medium,112
+Sophia Miller,5,Female,USA,California,Los Angeles,Scientist,Low,Beginner,Intermediate,Geography,94.45,1.34,Medium,119
+Emily Tapia,12,Female,Australia,New South Wales,Newcastle,Teacher,Low,Intermediate,Intermediate,Computer Science,63.62,2.38,Medium,96
+Sophia Garcia,14,Female,UK,England,London,Teacher,High,Advanced,Basic,Science,80.83,2.39,Hard,110
+William Miller,15,Male,Australia,New South Wales,Newcastle,Doctor,Low,Advanced,Intermediate,Cyber Safety,87.19,2.8,Hard,129
+Daniel Garcia,7,Female,Australia,Victoria,Melbourne,Scientist,High,Beginner,Basic,Economics,85.83,0.94,Easy,85
+Karen Sanchez,8,Male,Australia,Victoria,Geelong,Software Developer,High,Intermediate,Advanced,Coding for Kids,91.05,2.45,Medium,107
+Taylor Wilson,9,Male,UK,Scotland,Glasgow,Software Developer,High,Beginner,Intermediate,Science,44.99,1.63,Medium,91
+Daniel Wilson,15,Male,Australia,New South Wales,Sydney,Engineer,Middle,Intermediate,Basic,Critical Thinking,89.44,2.87,Hard,89
+William Wilson,5,Female,USA,New York,New York City,Software Developer,High,Beginner,Intermediate,English,90.65,0.73,Hard,101
+Justin Sanchez,15,Female,UK,England,Manchester,Doctor,High,Advanced,Intermediate,English,53.81,2.93,Hard,135
+Robert Fox,10,Male,Canada,Quebec,Montreal,Doctor,Low,Beginner,Advanced,Astronomy,42.64,1.43,Medium,110
+Justin Wilson,4,Female,Canada,Quebec,Quebec City,Artist,Low,Advanced,Intermediate,Coding for Kids,68.53,1.92,Medium,104
+Justin Garcia,6,Male,Canada,Quebec,Montreal,Engineer,High,Beginner,Advanced,Storytelling & Creative Writing,67.99,1.04,Hard,109
+William Tapia,7,Female,UK,England,London,Teacher,Middle,Advanced,Basic,Health Education,59.28,2.4,Hard,121
+Stephanie Sanchez,11,Female,Canada,Ontario,Ottawa,Artist,Middle,Advanced,Advanced,Computer Science,87.73,1.9,Hard,115
+Emily Fox,11,Female,USA,Texas,Dallas,Doctor,Middle,Beginner,Advanced,Mathematics,94.53,1.2,Easy,89
+Sophia Andrews,16,Female,Canada,Ontario,Ottawa,Teacher,High,Intermediate,Intermediate,Storytelling & Creative Writing,80.83,0.91,Medium,136
+Taylor Sanchez,13,Male,Canada,Ontario,Ottawa,Teacher,High,Advanced,Advanced,Mathematics,43.07,1.11,Medium,80
+Taylor Garcia,15,Female,India,Karnataka,Mysore,Teacher,High,Beginner,Intermediate,Critical Thinking,51.11,1.62,Medium,128
+Jacqueline Garcia,7,Male,Australia,Victoria,Melbourne,Software Developer,Low,Advanced,Advanced,Science,73.76,0.9,Medium,113
+Taylor Fox,4,Male,Canada,Ontario,Toronto,Artist,Middle,Beginner,Advanced,Health Education,99.81,0.73,Easy,120
+Sophia Sanchez,16,Female,Canada,Quebec,Montreal,Engineer,Middle,Beginner,Intermediate,Astronomy,84.63,2.34,Medium,84
+Justin Davis,5,Female,India,Karnataka,Bangalore,Software Developer,High,Beginner,Intermediate,Astronomy,93.98,1.86,Hard,138
+Karen Wilson,9,Male,India,Maharashtra,Mumbai,Software Developer,Middle,Intermediate,Basic,Chemistry,49.14,1.72,Hard,123
+Robert Wilson,8,Male,Canada,Ontario,Toronto,Software Developer,Low,Beginner,Basic,Physics,95.4,1.87,Medium,135
+Robert Andrews,16,Female,Australia,New South Wales,Newcastle,Teacher,High,Beginner,Advanced,Programming,61.7,1.9,Medium,106
+Robert Andrews,14,Female,USA,New York,New York City,Business Owner,Middle,Advanced,Intermediate,Economics,79.9,0.75,Hard,136
+William Andrews,16,Female,Canada,Ontario,Toronto,Artist,Low,Intermediate,Basic,English,52.85,2.11,Medium,134
+William Miller,10,Female,Canada,Ontario,Ottawa,Business Owner,Middle,Advanced,Basic,Health Education,90.76,1.75,Easy,80
+Emily Garcia,14,Female,USA,New York,New York City,Doctor,Middle,Beginner,Basic,Economics,58.0,0.75,Easy,113
+Taylor Andrews,9,Female,USA,New York,New York City,Scientist,Middle,Advanced,Advanced,Cyber Safety,79.96,0.87,Hard,129
+Stephanie Garcia,14,Female,India,Maharashtra,Mumbai,Software Developer,Low,Intermediate,Advanced,Economics,89.42,1.23,Hard,128
+Stephanie Tucker,6,Prefer not to say,Canada,Ontario,Ottawa,Business Owner,Middle,Beginner,Intermediate,Computer Science,82.29,2.23,Easy,82
+Daniel Miller,10,Male,Australia,New South Wales,Sydney,Software Developer,High,Advanced,Basic,Environmental Science,58.77,1.39,Hard,84
+Sophia Davis,15,Male,Canada,Quebec,Quebec City,Business Owner,High,Intermediate,Basic,Science,41.96,2.01,Easy,120
+Daniel Tapia,11,Male,UK,England,Manchester,Artist,Low,Advanced,Basic,Astronomy,82.5,1.24,Hard,99
+Taylor Miller,12,Female,India,Karnataka,Bangalore,Doctor,Middle,Intermediate,Intermediate,Geography,82.31,2.01,Easy,133
+Karen Andrews,13,Male,Australia,Victoria,Melbourne,Business Owner,Low,Advanced,Basic,Cyber Safety,94.02,1.91,Medium,139
+Stephanie Wilson,7,Male,India,Karnataka,Bangalore,Business Owner,Middle,Beginner,Intermediate,Cyber Safety,57.28,1.95,Medium,87
+Karen Sanchez,11,Female,Australia,New South Wales,Sydney,Doctor,Low,Intermediate,Basic,Storytelling & Creative Writing,87.44,2.87,Medium,117
+Justin Andrews,8,Female,India,Karnataka,Bangalore,Software Developer,Low,Advanced,Advanced,Geography,45.46,1.38,Medium,122
+Sophia Brown,10,Male,USA,California,Los Angeles,Artist,High,Beginner,Advanced,Physics,65.38,2.88,Hard,137
+Justin Davis,17,Female,Canada,Ontario,Ottawa,Software Developer,Low,Beginner,Basic,Coding for Kids,58.46,0.57,Medium,97
+Sophia Tucker,10,Male,Australia,Victoria,Geelong,Business Owner,Middle,Beginner,Basic,Coding for Kids,81.37,1.06,Hard,121

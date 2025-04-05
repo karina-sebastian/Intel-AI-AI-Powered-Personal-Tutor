@@ -1,0 +1,1001 @@
+Name,Age,Gender,Country,State,City,Parent Occupation,Earning Class,Level of Student,Level of Course,Course Name,Assessment Score,Time spent Per Day,IQ of Student,Cluster,PCA1,PCA2,Predicted Level,Course Structure,Material Difficulty
+Jacqueline Wilson,14,1,Canada,Ontario,Toronto,4,1,0,1,Geography,50.18,2.87,127,2,1.095414281272033,1.4532856543324466,0,Basic Concepts,Easy
+William Wilson,18,1,USA,New York,New York City,4,1,1,2,Biology,58.44,1.72,89,1,0.5999536875102937,0.08971150620075855,1,Advanced Topics,Medium
+Sophia Davis,12,0,Australia,New South Wales,Sydney,2,2,1,0,Geography,93.74,0.51,104,2,0.1788980407532916,-2.297282240474545,1,Advanced Topics,Medium
+William Davis,16,1,India,Maharashtra,Pune,6,0,1,2,Chemistry,54.78,1.53,99,1,0.7837608420844049,0.3514480936214588,1,Advanced Topics,Medium
+Stephanie Tapia,5,1,USA,Texas,Houston,3,0,1,2,Biology,49.34,2.75,124,0,-0.5858725447027349,2.377439866151564,1,Advanced Topics,Medium
+Jacqueline Sanchez,13,0,Canada,Quebec,Montreal,4,2,2,0,Programming,79.08,1.85,106,1,-0.1862191518677823,-0.558792446694347,2,Expert-Level Applications,Hard
+William Miller,17,0,UK,Scotland,Edinburgh,6,0,1,1,Mathematics,89.68,1.98,130,1,0.6149451602721386,0.10761631501071992,1,Advanced Topics,Medium
+Sophia Brown,10,1,Australia,Victoria,Geelong,1,1,2,0,Biology,74.97,0.54,121,1,0.5969160416356739,-0.9993552062326881,2,Expert-Level Applications,Hard
+Jacqueline Garcia,11,0,Australia,Victoria,Geelong,6,1,1,1,Economics,76.8,1.97,123,0,0.017724329322321746,0.36411171949091226,1,Advanced Topics,Medium
+Justin Sanchez,11,1,Australia,New South Wales,Newcastle,1,2,1,2,Coding for Kids,68.54,0.96,88,2,-0.2650935488121708,-0.6136008830081588,1,Advanced Topics,Medium
+Karen Garcia,7,0,UK,England,Manchester,2,1,1,2,History,44.01,1.19,138,0,1.0198378142822364,1.6273078865971822,1,Advanced Topics,Medium
+Jacqueline Andrews,5,1,USA,Texas,Dallas,2,0,1,0,Economics,73.44,2.18,92,0,-1.355066656373519,-0.6622957872963685,1,Advanced Topics,Medium
+Emily Tapia,4,0,USA,Texas,Dallas,1,1,1,1,Health Education,77.64,0.66,101,0,-0.7928013597620509,-1.115870346057814,1,Advanced Topics,Medium
+Daniel Fox,13,1,UK,England,Manchester,6,2,2,1,Astronomy,98.87,2.7,91,1,-1.8050869563146956,-0.22538325550315075,2,Expert-Level Applications,Hard
+Daniel Andrews,6,1,India,Maharashtra,Mumbai,0,1,0,0,Geography,73.35,2.35,85,2,-1.2124176557365698,-1.0457459888898533,0,Basic Concepts,Easy
+Robert Wilson,6,0,Australia,Victoria,Melbourne,0,1,1,2,Health Education,71.78,1.0,134,0,0.06595280208264735,0.7135110035980565,1,Advanced Topics,Medium
+Daniel Andrews,18,0,Australia,New South Wales,Sydney,4,1,0,0,Logical Reasoning,47.72,0.72,132,2,3.1936330752680133,-0.6853033447423003,0,Basic Concepts,Easy
+Justin Fox,11,0,USA,New York,New York City,2,2,0,1,Mathematics,58.76,0.52,107,2,1.2027260555363581,-1.0661976313415251,0,Basic Concepts,Easy
+Jacqueline Fox,17,0,India,Karnataka,Mysore,4,0,2,0,Biology,94.93,2.73,114,1,-0.388714062017589,-0.13527368644710816,2,Expert-Level Applications,Hard
+Sophia Tapia,12,0,India,Karnataka,Bangalore,4,0,0,0,Mathematics,74.52,0.98,99,2,0.6409663651115209,-1.9004594579245964,0,Basic Concepts,Easy
+Justin Davis,8,0,Australia,Victoria,Melbourne,5,2,2,0,Mathematics,83.02,0.75,115,0,-0.17144753029733645,-1.1498506447308912,2,Expert-Level Applications,Hard
+William Garcia,7,0,India,Karnataka,Mysore,3,1,1,1,English,75.75,1.55,139,0,0.12321992267458612,0.5935378289538633,1,Advanced Topics,Medium
+Taylor Tucker,5,1,UK,England,Manchester,1,1,0,2,Mathematics,89.93,2.7,104,0,-1.9835151568021314,0.4946880035997532,0,Basic Concepts,Easy
+Justin Tucker,10,1,UK,England,Manchester,6,2,0,0,Physics,66.93,2.09,116,2,0.4170300485924043,-0.3372243783071067,0,Basic Concepts,Easy
+Emily Brown,17,2,UK,England,London,4,2,0,1,Economics,90.24,2.83,134,2,0.5083284585870362,0.5628602642259438,0,Basic Concepts,Easy
+Taylor Davis,5,0,UK,England,London,3,2,2,1,Mathematics,70.16,1.05,120,0,-0.4463662799205986,0.17094919807721282,2,Expert-Level Applications,Hard
+William Davis,12,0,Australia,Victoria,Geelong,5,2,2,1,Economics,54.31,2.65,107,1,-0.20296356907586116,1.2871962739460647,2,Expert-Level Applications,Hard
+Stephanie Wilson,12,1,UK,England,Manchester,1,2,1,1,Reading & Writing,51.35,0.66,89,2,0.7754691101771022,-0.9880218732851453,1,Advanced Topics,Medium
+Robert Garcia,5,0,Canada,Ontario,Toronto,1,2,2,1,Storytelling & Creative Writing,63.69,1.54,96,0,-1.1041631341929352,0.055039482562710275,2,Expert-Level Applications,Hard
+Taylor Wilson,12,1,USA,New York,Buffalo,3,2,0,2,Computer Science,96.74,2.9,93,2,-1.6132090959885452,0.019204918063586825,0,Basic Concepts,Easy
+Daniel Miller,18,1,India,Maharashtra,Mumbai,3,2,2,2,History,86.12,1.11,123,1,0.6718886751705051,0.16981028009515384,2,Expert-Level Applications,Hard
+Daniel Miller,10,0,UK,Scotland,Glasgow,6,0,2,0,Chemistry,76.7,1.11,103,1,-0.19964306752171448,-1.0894570200511813,2,Expert-Level Applications,Hard
+Emily Garcia,16,1,India,Karnataka,Mysore,0,0,2,2,Health Education,51.69,2.77,131,1,0.7282006671644131,2.57271265511595,2,Expert-Level Applications,Hard
+Taylor Andrews,5,1,Australia,Victoria,Geelong,4,1,2,0,Programming,87.42,2.88,88,0,-2.5080555686476402,-0.26454879940302556,2,Expert-Level Applications,Hard
+Taylor Wilson,13,1,UK,England,Manchester,2,0,0,1,Economics,73.91,1.21,84,2,0.09317734587028532,-1.5747418448545072,0,Basic Concepts,Easy
+Sophia Fox,15,1,India,Maharashtra,Mumbai,6,1,2,1,Storytelling & Creative Writing,46.17,2.23,124,1,1.0849920958153434,1.5535474509150522,2,Expert-Level Applications,Hard
+Justin Tucker,17,1,Canada,Ontario,Toronto,5,1,2,2,Computer Science,97.04,0.58,140,1,0.912607131046651,-0.02241476081352557,2,Expert-Level Applications,Hard
+Jacqueline Sanchez,4,0,USA,New York,Buffalo,5,2,2,2,Science,86.78,1.45,127,0,-1.3277929054919229,0.8561112860308927,2,Expert-Level Applications,Hard
+Robert Davis,8,0,Australia,Victoria,Geelong,6,1,1,0,Astronomy,83.22,1.61,88,0,-1.0312886037211804,-1.5258526335040727,1,Advanced Topics,Medium
+Stephanie Garcia,10,1,USA,Texas,Dallas,3,2,0,2,Astronomy,75.12,1.8,89,2,-0.7534445601594864,-0.3721179033294043,0,Basic Concepts,Easy
+Justin Tucker,5,0,Canada,Ontario,Toronto,0,1,0,2,History,50.21,2.12,121,2,-0.08128235667419097,1.4793989926267637,0,Basic Concepts,Easy
+Robert Andrews,11,0,Canada,Quebec,Quebec City,0,1,0,1,Economics,72.69,1.84,91,2,-0.307290986243306,-0.8152566946489261,0,Basic Concepts,Easy
+Karen Garcia,15,0,India,Maharashtra,Pune,4,1,1,2,Geography,74.05,2.86,108,1,-0.4134280382519984,1.1866730787963276,1,Advanced Topics,Medium
+Emily Wilson,14,1,Canada,Ontario,Toronto,4,2,2,2,Cyber Safety,77.61,1.98,134,1,0.18587872378718923,1.4511261936916122,2,Expert-Level Applications,Hard
+Karen Fox,6,1,UK,Scotland,Glasgow,6,1,2,0,Cyber Safety,96.74,2.45,120,0,-1.6355452965239345,0.0237852959970869,2,Expert-Level Applications,Hard
+Sophia Tucker,6,1,Australia,New South Wales,Sydney,1,2,0,0,Physics,46.64,1.33,137,2,1.3963898926446008,0.23466305372908222,0,Basic Concepts,Easy
+Stephanie Andrews,4,0,Canada,Ontario,Toronto,4,2,1,2,Cyber Safety,75.14,2.89,122,0,-1.609013242701965,1.8239224748901757,1,Advanced Topics,Medium
+William Wilson,12,0,Canada,Quebec,Quebec City,0,2,2,2,Computer Science,47.86,2.29,118,1,0.23850371920304114,2.030226938495959,2,Expert-Level Applications,Hard
+William Brown,5,0,Canada,Ontario,Toronto,4,2,1,1,Mathematics,61.91,0.54,96,2,-0.24978945845888129,-0.9846570675700885,1,Advanced Topics,Medium
+Karen Garcia,17,1,Australia,Victoria,Melbourne,2,2,2,1,Geography,40.92,2.32,99,1,0.8514472577430818,1.0216298214834312,2,Expert-Level Applications,Hard
+Taylor Garcia,5,1,Australia,New South Wales,Sydney,6,1,1,0,Science,75.13,2.72,119,0,-1.0332963945362146,0.4559423787151736,1,Advanced Topics,Medium
+Emily Brown,5,1,USA,New York,Buffalo,5,2,0,0,English,52.06,1.97,119,2,0.3176959247285012,0.1322663847265937,0,Basic Concepts,Easy
+Stephanie Miller,10,0,UK,Scotland,Edinburgh,3,2,0,0,Computer Science,97.05,0.74,90,2,-0.3888124415440036,-2.838338931012992,0,Basic Concepts,Easy
+Emily Tapia,4,1,Australia,New South Wales,Sydney,3,0,1,1,Reading & Writing,65.02,1.11,88,0,-0.9779577211591444,-0.8116103303617067,1,Advanced Topics,Medium
+William Davis,4,0,USA,Texas,Houston,0,2,0,0,Economics,87.17,1.22,105,2,-0.7986476754602445,-1.6714116940837174,0,Basic Concepts,Easy
+Taylor Tapia,15,0,USA,New York,Buffalo,4,1,0,2,Cyber Safety,54.79,2.01,134,2,1.5144400930866257,1.4028669756884722,0,Basic Concepts,Easy
+Sophia Brown,13,0,India,Karnataka,Mysore,6,1,0,0,Critical Thinking,87.84,2.44,103,2,-0.301061647044277,-1.0018210885841532,0,Basic Concepts,Easy
+Karen Davis,4,0,Australia,Victoria,Melbourne,2,0,0,1,Civics,89.57,1.59,106,0,-1.254380662583823,-0.8491512090537799,0,Basic Concepts,Easy
+Daniel Miller,4,1,India,Karnataka,Bangalore,6,0,2,2,Critical Thinking,40.42,0.66,95,0,-0.3156074882740458,0.4993911939499296,2,Expert-Level Applications,Hard
+Taylor Wilson,11,1,India,Karnataka,Bangalore,4,2,2,1,Economics,93.89,2.48,133,0,-0.7831475873769209,0.9204674417221888,2,Expert-Level Applications,Hard
+Daniel Andrews,18,1,India,Karnataka,Mysore,2,0,1,0,Storytelling & Creative Writing,42.24,2.42,86,1,1.054206957478725,-0.18010785795216155,1,Advanced Topics,Medium
+Justin Miller,4,1,India,Maharashtra,Pune,0,0,1,1,Computer Science,47.75,1.15,84,0,-0.5859059143844983,-0.4671532632382671,1,Advanced Topics,Medium
+Justin Tapia,12,0,Canada,Quebec,Quebec City,4,0,2,2,Civics,98.46,1.6,104,0,-1.2331174741564808,-0.12917655286477966,2,Expert-Level Applications,Hard
+Daniel Fox,8,0,Australia,New South Wales,Newcastle,6,2,2,2,Environmental Science,88.18,2.45,126,0,-1.3868665062113517,1.480711931866904,2,Expert-Level Applications,Hard
+Robert Tapia,18,1,USA,New York,New York City,0,0,1,1,History,63.97,2.8,97,1,0.2654979930486239,0.4503754830029371,1,Advanced Topics,Medium
+Robert Miller,4,0,UK,England,Manchester,5,1,1,2,Reading & Writing,87.42,2.91,133,0,-1.7141357724799902,1.8398345113561207,1,Advanced Topics,Medium
+Robert Sanchez,5,2,India,Maharashtra,Pune,4,2,2,2,Civics,90.72,2.94,106,0,-2.61986974003707,1.3239560587068941,2,Expert-Level Applications,Hard
+Daniel Miller,16,0,India,Maharashtra,Mumbai,1,0,1,2,Coding for Kids,94.71,1.81,131,1,0.23475662405741,0.4677873101164686,1,Advanced Topics,Medium
+Taylor Davis,15,0,UK,England,Manchester,1,0,1,2,Reading & Writing,44.93,1.71,80,1,0.37876507105680507,0.23666327342154778,1,Advanced Topics,Medium
+Robert Davis,8,1,UK,Scotland,Glasgow,1,1,0,0,Biology,64.33,1.37,108,2,0.41251644011256616,-1.0070782606310367,0,Basic Concepts,Easy
+Daniel Wilson,10,0,UK,Scotland,Glasgow,1,2,2,0,Mathematics,73.11,0.59,131,1,0.8699290921477807,-0.6413374219083045,2,Expert-Level Applications,Hard
+Sophia Miller,13,0,UK,England,London,3,1,2,0,Geography,48.09,1.4,104,1,0.9230928669793744,-0.20600423072388968,2,Expert-Level Applications,Hard
+Taylor Miller,15,1,USA,California,Los Angeles,2,0,0,1,Civics,49.94,2.26,91,2,0.6833761670273486,-0.024604390787515126,0,Basic Concepts,Easy
+Taylor Andrews,5,1,UK,Scotland,Edinburgh,6,2,2,2,Civics,84.42,2.28,115,0,-1.8600814463647264,1.2095607129795491,2,Expert-Level Applications,Hard
+Emily Andrews,8,1,India,Karnataka,Bangalore,2,2,2,2,Civics,48.59,2.32,137,0,0.12399467001328697,2.6490936708154513,2,Expert-Level Applications,Hard
+Taylor Brown,9,1,Australia,Victoria,Melbourne,1,1,1,2,Civics,47.34,2.1,86,0,-0.5670254267257859,0.786465680335775,1,Advanced Topics,Medium
+Stephanie Tucker,8,1,USA,New York,New York City,0,0,1,2,Mathematics,47.01,2.57,140,0,0.3772155647051558,2.6614234393107212,1,Advanced Topics,Medium
+Karen Davis,16,1,Australia,Victoria,Melbourne,0,1,2,1,Critical Thinking,83.58,1.8,128,1,0.4406968685879972,0.3886085704211653,2,Expert-Level Applications,Hard
+Robert Wilson,8,1,Australia,New South Wales,Newcastle,1,1,2,2,Biology,62.36,1.65,104,0,-0.7327840803244622,0.8870035119001947,2,Expert-Level Applications,Hard
+Stephanie Fox,6,1,Australia,New South Wales,Newcastle,5,1,0,0,Environmental Science,59.95,0.62,102,2,0.5256893774112251,-1.6020653829790392,0,Basic Concepts,Easy
+Karen Fox,9,1,India,Maharashtra,Pune,2,0,1,1,Astronomy,81.12,1.44,127,0,0.00031912812584672823,0.0012818216221299823,1,Advanced Topics,Medium
+William Garcia,11,1,USA,Texas,Dallas,6,1,1,1,Biology,68.91,2.28,94,0,-0.6240900626090992,0.005822511148462531,1,Advanced Topics,Medium
+Emily Sanchez,13,1,USA,Texas,Houston,3,2,2,0,Chemistry,89.09,0.98,96,1,-0.26190791321402207,-1.7557864886388266,2,Expert-Level Applications,Hard
+Jacqueline Wilson,12,0,Canada,Quebec,Quebec City,0,0,2,0,Economics,89.43,0.67,112,1,0.1499100592463347,-1.5448520609251781,2,Expert-Level Applications,Hard
+Sophia Tapia,15,2,India,Karnataka,Bangalore,3,0,2,1,Astronomy,63.01,2.27,115,1,0.3447838390834733,0.9264535286676302,2,Expert-Level Applications,Hard
+Jacqueline Brown,14,1,Canada,Ontario,Ottawa,6,1,1,1,Health Education,79.15,1.71,84,1,-0.4607445491012247,-1.0330933230616983,1,Advanced Topics,Medium
+Justin Andrews,12,1,Canada,Ontario,Ottawa,3,1,2,0,Cyber Safety,45.85,2.97,101,1,-0.059240660796248165,1.014624461840749,2,Expert-Level Applications,Hard
+Daniel Garcia,18,2,Australia,New South Wales,Newcastle,4,0,0,2,Physics,93.84,1.16,131,2,1.1458468520503673,-0.36805778483681656,0,Basic Concepts,Easy
+William Sanchez,7,1,UK,Scotland,Glasgow,1,0,2,1,Geography,52.9,0.65,138,0,0.9899424696444825,0.7268697981817634,2,Expert-Level Applications,Hard
+Sophia Miller,8,0,UK,England,London,5,1,2,1,Biology,42.18,2.84,127,0,0.0021645599526076186,2.3729292241021507,2,Expert-Level Applications,Hard
+Jacqueline Davis,4,1,India,Karnataka,Mysore,3,1,1,0,Astronomy,59.6,2.11,93,0,-1.0188236924730865,-0.32740087456496125,1,Advanced Topics,Medium
+Daniel Wilson,17,1,India,Maharashtra,Mumbai,6,1,0,2,Mathematics,83.15,1.72,122,2,0.8071439881294482,0.10757776289145948,0,Basic Concepts,Easy
+Emily Davis,4,1,Australia,New South Wales,Sydney,1,2,1,1,Logical Reasoning,59.02,2.97,129,0,-0.7920226154191137,1.9071968436397193,1,Advanced Topics,Medium
+Robert Fox,14,0,Canada,Ontario,Ottawa,2,2,0,1,Economics,98.34,1.43,94,2,-0.36768960105925913,-1.7509775225025301,0,Basic Concepts,Easy
+Sophia Brown,5,0,UK,Scotland,Glasgow,4,2,0,1,Reading & Writing,88.23,2.66,99,0,-1.8229032315694362,-0.19673899737087883,0,Basic Concepts,Easy
+Karen Sanchez,10,1,USA,California,San Francisco,6,2,1,0,Geography,74.26,1.4,105,2,0.033175131211877165,-1.0522341326974154,1,Advanced Topics,Medium
+Karen Brown,8,1,Canada,Quebec,Montreal,5,0,2,1,Cyber Safety,98.85,1.61,135,0,-0.8220088989447022,0.24552978024239633,2,Expert-Level Applications,Hard
+Sophia Wilson,8,0,USA,California,San Francisco,2,1,0,1,Environmental Science,69.61,2.62,90,2,-1.0641154246917035,-0.088646699953557,0,Basic Concepts,Easy
+William Brown,18,1,USA,Texas,Dallas,2,2,1,1,Logical Reasoning,63.65,0.5,80,1,1.0892956715675657,-1.8005077050354927,1,Advanced Topics,Medium
+William Brown,8,1,Australia,Victoria,Melbourne,3,0,0,0,Coding for Kids,94.72,0.67,109,2,-0.0883530940458136,-2.2694132938331397,0,Basic Concepts,Easy
+Taylor Miller,15,1,Australia,New South Wales,Newcastle,1,1,2,0,Chemistry,66.18,0.73,132,1,1.7018864519411268,-0.4523014846523649,2,Expert-Level Applications,Hard
+William Davis,17,0,USA,California,Los Angeles,4,0,0,1,Health Education,42.67,1.96,87,2,1.2320993252471593,-0.23689092827808414,0,Basic Concepts,Easy
+Sophia Andrews,11,1,UK,Scotland,Glasgow,1,1,1,0,Programming,49.11,0.65,106,2,1.3388972720922667,-1.0177116896234288,1,Advanced Topics,Medium
+Jacqueline Andrews,14,0,USA,New York,Buffalo,1,1,2,0,Computer Science,86.42,2.3,94,1,-0.8024357089689311,-0.7390991811603089,2,Expert-Level Applications,Hard
+Stephanie Garcia,13,1,Australia,New South Wales,Newcastle,4,0,0,2,Civics,52.35,0.68,110,2,1.4399830740126311,-0.18424235095180658,0,Basic Concepts,Easy
+Daniel Garcia,11,0,UK,Scotland,Glasgow,4,0,1,1,Geography,76.86,0.79,119,2,0.5492665750633838,-0.6670352035437408,1,Advanced Topics,Medium
+Karen Brown,6,0,Canada,Ontario,Ottawa,3,0,0,1,Astronomy,58.12,1.86,126,2,0.2926080248891226,0.63128307350408,0,Basic Concepts,Easy
+Daniel Sanchez,8,1,Australia,New South Wales,Newcastle,1,2,0,0,Geography,98.61,0.88,85,2,-0.9031100147467374,-2.857242211900389,0,Basic Concepts,Easy
+Emily Tucker,12,1,Canada,Quebec,Quebec City,0,1,1,1,Economics,59.66,2.99,131,0,0.31078023061829074,1.7744672302376965,1,Advanced Topics,Medium
+Jacqueline Wilson,11,1,Canada,Ontario,Ottawa,0,2,0,2,Civics,58.38,2.99,130,2,0.24430524679208226,2.0635863051729206,0,Basic Concepts,Easy
+Sophia Brown,12,0,India,Maharashtra,Mumbai,5,2,2,1,Chemistry,53.5,2.95,83,1,-0.9267066024700135,0.884584728431249,2,Expert-Level Applications,Hard
+Stephanie Fox,18,0,USA,California,Los Angeles,3,2,2,2,Biology,63.07,2.24,121,1,0.7009580557513971,1.5605131723066243,2,Expert-Level Applications,Hard
+Stephanie Wilson,5,0,India,Maharashtra,Mumbai,6,2,0,1,Cyber Safety,80.03,2.18,136,0,-0.4180168073423824,0.6415520972363968,0,Basic Concepts,Easy
+Daniel Davis,15,0,USA,Texas,Dallas,2,2,1,0,Civics,46.4,1.62,139,1,2.249498819636695,0.6139852212393031,1,Advanced Topics,Medium
+Stephanie Wilson,10,1,UK,England,Manchester,2,1,0,0,Logical Reasoning,75.03,1.52,128,2,0.7757332329983996,-0.6518007264113844,0,Basic Concepts,Easy
+Justin Miller,17,1,UK,England,Manchester,5,0,0,1,Logical Reasoning,43.02,2.69,101,2,1.173815945818707,0.7067701161764913,0,Basic Concepts,Easy
+Sophia Fox,12,1,Australia,New South Wales,Newcastle,0,0,1,1,Critical Thinking,40.44,1.52,119,1,1.3725306124676966,0.7702031134328894,1,Advanced Topics,Medium
+Taylor Tucker,12,1,Canada,Quebec,Montreal,0,0,0,0,Health Education,63.22,0.89,103,2,1.1215497306664175,-1.5846958933253248,0,Basic Concepts,Easy
+Sophia Tapia,13,0,Canada,Quebec,Montreal,4,0,2,2,Reading & Writing,60.29,2.17,97,1,-0.4437363428985881,1.034656190180926,2,Expert-Level Applications,Hard
+Jacqueline Garcia,16,1,Australia,Victoria,Melbourne,1,2,1,1,Cyber Safety,76.39,1.68,125,1,0.9111202498957126,0.08557342094606947,1,Advanced Topics,Medium
+Jacqueline Tapia,12,0,USA,California,Los Angeles,0,0,0,2,Environmental Science,79.15,1.63,103,2,-0.16838671600407068,-0.2672682749118035,0,Basic Concepts,Easy
+William Andrews,5,1,Australia,Victoria,Melbourne,0,0,2,1,Artificial Intelligence Basics,91.62,1.03,112,0,-1.2667982819649404,-0.5886571264657403,2,Expert-Level Applications,Hard
+Justin Tucker,14,0,USA,New York,Buffalo,2,0,1,1,History,65.55,2.05,129,1,0.8611473478368954,0.7956725850346199,1,Advanced Topics,Medium
+Karen Brown,11,1,India,Karnataka,Mysore,2,0,2,0,Mathematics,86.72,1.52,82,1,-1.0940311854214708,-1.6127008853821596,2,Expert-Level Applications,Hard
+Robert Fox,11,1,Australia,New South Wales,Newcastle,1,1,2,0,Astronomy,62.17,2.16,114,1,0.07349616013555953,0.3624693863898142,2,Expert-Level Applications,Hard
+Jacqueline Wilson,11,0,Canada,Ontario,Ottawa,6,2,2,2,Environmental Science,94.42,2.57,100,0,-1.8656799958546364,0.640216879029754,2,Expert-Level Applications,Hard
+Robert Brown,7,1,UK,England,Manchester,4,0,0,1,Cyber Safety,56.6,2.83,99,2,-0.7064709328616832,0.6631073983193474,0,Basic Concepts,Easy
+William Tapia,17,1,Australia,Victoria,Melbourne,0,1,1,1,History,91.51,1.53,118,1,0.5078467479958358,-0.6163261823625613,1,Advanced Topics,Medium
+Stephanie Sanchez,5,0,Canada,Quebec,Quebec City,0,1,1,0,Logical Reasoning,84.71,2.46,136,0,-0.7618904581461416,0.4836636340775686,1,Advanced Topics,Medium
+Robert Garcia,10,1,India,Maharashtra,Pune,3,2,1,0,Economics,70.39,0.8,87,2,0.02826364288099512,-1.9177616935945587,1,Advanced Topics,Medium
+Karen Andrews,12,1,Canada,Ontario,Ottawa,1,0,0,2,Biology,87.54,0.72,122,2,0.5348816074581155,-0.6626555701835598,0,Basic Concepts,Easy
+Stephanie Miller,9,0,India,Maharashtra,Mumbai,6,1,2,0,Physics,72.73,2.9,97,0,-1.3218421808927208,0.26303797268455725,2,Expert-Level Applications,Hard
+Daniel Tapia,8,1,USA,Texas,Houston,5,1,1,0,Astronomy,52.35,2.42,109,0,-0.0367330765591355,0.4357222876236088,1,Advanced Topics,Medium
+Justin Tapia,13,0,Canada,Ontario,Toronto,3,1,2,2,English,95.91,1.76,81,1,-1.6705479504375775,-0.594459658464992,2,Expert-Level Applications,Hard
+Karen Sanchez,17,1,UK,Scotland,Edinburgh,2,0,0,0,Critical Thinking,76.55,2.79,106,2,0.4611524305870813,-0.4641803488490126,0,Basic Concepts,Easy
+Emily Wilson,7,1,USA,Texas,Houston,1,1,0,1,Reading & Writing,59.99,1.84,86,2,-0.5953745504975198,-0.5475084225605772,0,Basic Concepts,Easy
+Stephanie Tucker,6,1,UK,Scotland,Glasgow,6,0,2,1,Geography,74.1,2.91,107,0,-1.7406091829325683,1.1461570600027884,2,Expert-Level Applications,Hard
+Stephanie Tucker,18,0,Australia,New South Wales,Newcastle,4,2,1,1,Reading & Writing,55.81,1.6,91,1,1.002175389276625,-0.4498953761504852,1,Advanced Topics,Medium
+Justin Andrews,11,0,Canada,Quebec,Quebec City,2,0,0,0,Reading & Writing,50.28,0.76,126,2,2.0015549113539843,-0.7169172816608002,0,Basic Concepts,Easy
+Justin Garcia,6,0,India,Maharashtra,Pune,1,1,0,0,Physics,43.64,2.62,132,2,0.6728343692743449,1.1773998679282671,0,Basic Concepts,Easy
+Daniel Tucker,5,0,Australia,New South Wales,Sydney,0,2,0,2,Critical Thinking,73.94,2.83,94,0,-1.8243160561394836,0.7139082749060264,0,Basic Concepts,Easy
+Emily Fox,5,0,USA,New York,Buffalo,3,2,0,2,Mathematics,49.57,0.89,91,2,-0.1384590836712863,-0.284715694274407,0,Basic Concepts,Easy
+Taylor Andrews,6,0,Canada,Ontario,Toronto,6,1,1,0,Science,77.37,1.59,120,0,-0.3352610416436777,-0.4762322346788585,1,Advanced Topics,Medium
+Stephanie Fox,7,1,Canada,Ontario,Ottawa,3,0,2,1,Science,53.42,1.11,87,0,-0.5194229873439375,-0.32196317801667407,2,Expert-Level Applications,Hard
+Justin Miller,16,0,USA,Texas,Houston,1,1,2,2,Astronomy,76.9,1.16,106,1,0.23127708023051868,0.016341389422358236,2,Expert-Level Applications,Hard
+William Fox,15,0,India,Karnataka,Bangalore,3,2,1,1,Cyber Safety,64.97,1.48,107,1,0.78034316255341,-0.25979805803467604,1,Advanced Topics,Medium
+Daniel Sanchez,16,0,USA,Texas,Houston,1,0,2,0,Chemistry,87.98,2.1,127,1,0.3367082025104838,-0.07754290235616888,2,Expert-Level Applications,Hard
+Karen Tapia,7,1,Australia,New South Wales,Newcastle,4,1,2,0,Storytelling & Creative Writing,91.37,1.78,106,0,-1.3252872542579217,-0.7736442498973891,2,Expert-Level Applications,Hard
+Taylor Brown,6,1,USA,Texas,Dallas,2,1,0,1,Science,78.49,1.17,90,2,-0.8222893206495674,-1.3899823883491218,0,Basic Concepts,Easy
+Stephanie Tucker,5,0,UK,England,London,3,1,1,0,Science,46.39,0.53,133,2,1.3316436905898352,-0.165752355154018,1,Advanced Topics,Medium
+Robert Davis,5,1,UK,Scotland,Edinburgh,4,0,0,2,Civics,86.07,2.32,103,0,-1.6904327048950203,0.26544591355790437,0,Basic Concepts,Easy
+Justin Brown,10,0,UK,England,Manchester,5,2,0,2,Mathematics,59.5,0.81,123,2,1.070528088290322,0.1679708144529929,0,Basic Concepts,Easy
+Daniel Garcia,14,0,India,Karnataka,Bangalore,0,1,0,2,History,59.08,2.23,91,2,0.08214404879861936,0.3168147567881684,0,Basic Concepts,Easy
+Emily Garcia,18,0,India,Karnataka,Bangalore,1,1,1,1,Science,51.2,2.7,134,1,1.6024253504556187,1.6968723268358008,1,Advanced Topics,Medium
+Taylor Fox,12,1,USA,California,San Francisco,6,2,1,0,Reading & Writing,97.3,2.67,139,0,-0.2255017871708981,0.2574236184480692,1,Advanced Topics,Medium
+Robert Brown,15,1,India,Maharashtra,Pune,2,2,0,1,Artificial Intelligence Basics,53.8,0.56,98,2,1.6497200067551117,-1.2534458286369787,0,Basic Concepts,Easy
+Sophia Brown,11,1,India,Maharashtra,Mumbai,2,0,0,1,Mathematics,66.0,1.06,80,2,0.03885672294907311,-1.5606983653806568,0,Basic Concepts,Easy
+Stephanie Brown,10,1,Australia,New South Wales,Newcastle,5,1,1,1,Coding for Kids,47.9,2.82,127,0,0.3811471434240602,1.8671367745705203,1,Advanced Topics,Medium
+Jacqueline Sanchez,12,1,Australia,Victoria,Melbourne,6,0,1,1,History,49.43,2.14,126,1,0.9459956594014862,1.225170991921269,1,Advanced Topics,Medium
+Robert Garcia,9,0,Australia,New South Wales,Newcastle,3,1,2,2,Health Education,98.56,0.69,130,0,-0.5194372124032696,-0.059963350754159844,2,Expert-Level Applications,Hard
+Robert Wilson,12,0,USA,New York,New York City,0,0,2,2,Storytelling & Creative Writing,67.35,2.62,82,1,-1.395947346143325,0.8259927528589673,2,Expert-Level Applications,Hard
+Stephanie Andrews,9,1,Canada,Ontario,Toronto,2,0,0,0,Coding for Kids,51.19,1.53,139,2,1.6099479556369474,0.263725307198121,0,Basic Concepts,Easy
+Sophia Fox,6,1,Australia,Victoria,Melbourne,1,2,0,2,Storytelling & Creative Writing,68.39,2.62,98,0,-1.3143482397438664,0.7719395355143376,0,Basic Concepts,Easy
+Sophia Brown,11,1,USA,Texas,Dallas,0,1,0,0,Chemistry,60.07,1.99,103,2,0.49097345632945655,-0.6262968711727918,0,Basic Concepts,Easy
+William Wilson,18,0,Canada,Ontario,Ottawa,3,1,2,1,Programming,50.83,1.54,82,1,0.6947344957601254,-0.317597982847297,2,Expert-Level Applications,Hard
+Daniel Tucker,17,1,UK,Scotland,Glasgow,5,2,2,0,Computer Science,62.28,1.42,95,1,0.8137991277821666,-0.8775229480234674,2,Expert-Level Applications,Hard
+William Davis,14,0,USA,New York,New York City,5,0,2,1,English,64.1,2.92,94,1,-0.6844647601145665,0.855776696401261,2,Expert-Level Applications,Hard
+Taylor Andrews,16,0,USA,California,Los Angeles,0,1,0,2,Mathematics,56.89,0.89,137,2,2.2602090885830988,0.5366180057815679,0,Basic Concepts,Easy
+Sophia Tucker,7,1,Canada,Quebec,Quebec City,0,0,0,2,Coding for Kids,40.74,0.62,107,2,0.9297814349326115,0.11157725500608903,0,Basic Concepts,Easy
+William Wilson,14,1,UK,England,Manchester,5,0,1,1,Chemistry,60.6,0.71,137,1,1.920235466801084,0.090557905498697,1,Advanced Topics,Medium
+Sophia Sanchez,13,0,India,Karnataka,Mysore,5,0,2,2,Health Education,93.15,1.57,111,1,-0.7531328084459957,0.1454128906496796,2,Expert-Level Applications,Hard
+Karen Andrews,16,1,UK,England,Manchester,6,0,0,1,Programming,56.27,2.02,124,2,1.5672491159068331,0.5124367592905386,0,Basic Concepts,Easy
+William Wilson,10,0,Canada,Ontario,Toronto,0,2,1,2,English,88.64,1.58,84,0,-1.4251654048738651,-0.7079678797227352,1,Advanced Topics,Medium
+Justin Fox,4,1,UK,Scotland,Edinburgh,6,0,0,2,Physics,97.86,0.82,93,2,-1.617268619809037,-1.4430255975592754,0,Basic Concepts,Easy
+Karen Andrews,6,0,Canada,Ontario,Toronto,6,2,0,0,Environmental Science,88.95,0.67,89,2,-0.6777719792321483,-2.6283620221234902,0,Basic Concepts,Easy
+Taylor Garcia,12,1,India,Maharashtra,Pune,1,1,1,0,History,45.47,2.54,137,1,1.329661731489087,1.3698119469407668,1,Advanced Topics,Medium
+Jacqueline Garcia,18,0,Canada,Quebec,Quebec City,2,0,2,0,English,61.91,1.61,139,1,1.935188956459848,0.45969982808642584,2,Expert-Level Applications,Hard
+William Andrews,6,1,Canada,Ontario,Ottawa,5,2,0,0,Economics,67.65,1.62,103,2,-0.21273066586833775,-0.9832667593246555,0,Basic Concepts,Easy
+Sophia Tapia,18,0,Australia,Victoria,Geelong,3,1,0,0,Health Education,60.0,2.08,138,2,2.2493866555499746,0.2389190339805273,0,Basic Concepts,Easy
+Jacqueline Tapia,17,0,Australia,Victoria,Geelong,1,2,1,0,Reading & Writing,90.3,0.79,107,1,0.881575059330771,-2.0297738885693293,1,Advanced Topics,Medium
+William Miller,15,1,Canada,Quebec,Montreal,4,0,0,1,Logical Reasoning,54.32,2.62,107,2,0.7526285444340727,0.5865660537523056,0,Basic Concepts,Easy
+Sophia Garcia,6,1,UK,Scotland,Glasgow,1,2,1,0,Astronomy,98.01,2.7,80,0,-2.51886619609157,-1.209692734688778,1,Advanced Topics,Medium
+Justin Davis,10,0,Australia,Victoria,Geelong,0,1,0,0,Economics,86.82,0.6,107,2,0.4049311915186887,-2.2322048275663717,0,Basic Concepts,Easy
+Taylor Brown,17,0,USA,Texas,Dallas,5,1,1,1,Economics,85.22,0.56,85,1,0.4054698912442199,-2.1214415546319176,1,Advanced Topics,Medium
+Justin Andrews,17,1,Canada,Ontario,Ottawa,2,2,1,2,Biology,42.23,0.95,135,1,2.4819016207865565,1.167439658929683,1,Advanced Topics,Medium
+Stephanie Miller,9,1,USA,New York,New York City,3,0,1,0,Storytelling & Creative Writing,78.7,0.58,120,2,0.5719372406601595,-1.3667394974296474,1,Advanced Topics,Medium
+Emily Garcia,6,0,Australia,Victoria,Geelong,5,2,0,0,Economics,94.47,0.72,131,2,0.1597396978588842,-1.5757549866187772,0,Basic Concepts,Easy
+Karen Andrews,17,2,USA,Texas,Dallas,3,2,2,0,Science,56.05,0.73,97,1,1.4162803210238852,-1.2084795826673171,2,Expert-Level Applications,Hard
+William Garcia,14,1,USA,Texas,Dallas,6,0,2,0,Computer Science,58.22,1.24,96,1,0.6484416446275667,-0.8209288892797516,2,Expert-Level Applications,Hard
+Sophia Tucker,13,1,Australia,Victoria,Geelong,5,0,2,0,Environmental Science,94.18,1.02,112,1,-0.04250567465241191,-1.4115592760432394,2,Expert-Level Applications,Hard
+Stephanie Andrews,8,1,UK,England,Manchester,2,0,2,1,Critical Thinking,92.88,1.83,140,0,-0.6405874691527541,0.699966250551707,2,Expert-Level Applications,Hard
+Stephanie Tapia,10,1,UK,Scotland,Glasgow,1,0,0,1,Reading & Writing,92.47,1.82,100,2,-0.7974509554097775,-1.0453735162575928,0,Basic Concepts,Easy
+Sophia Miller,16,0,USA,Texas,Dallas,6,2,1,0,Science,73.75,0.71,121,1,1.6214986799859488,-1.2808017495681567,1,Advanced Topics,Medium
+Jacqueline Fox,16,1,Canada,Ontario,Ottawa,3,1,2,1,Storytelling & Creative Writing,49.95,1.96,112,1,0.9593140188706112,0.8988418852889759,2,Expert-Level Applications,Hard
+Jacqueline Miller,14,0,USA,California,San Francisco,4,0,1,2,Physics,64.3,2.21,93,1,-0.279533732352119,0.5315275455347702,1,Advanced Topics,Medium
+Daniel Davis,15,0,Canada,Ontario,Toronto,5,1,2,1,Biology,96.37,1.51,116,1,-0.21192570891985513,-0.45536237135808155,2,Expert-Level Applications,Hard
+Emily Tapia,11,0,USA,New York,Buffalo,0,0,0,0,Coding for Kids,68.23,1.84,133,2,1.0636769952070637,-0.12248197365690063,0,Basic Concepts,Easy
+Jacqueline Brown,5,1,UK,England,Manchester,6,2,0,1,Mathematics,48.06,1.98,107,2,-0.07407553306453217,0.4748439577790229,0,Basic Concepts,Easy
+William Miller,7,2,Australia,New South Wales,Newcastle,5,2,1,0,Chemistry,67.47,2.09,139,0,0.29074624590283066,0.6522390111692429,1,Advanced Topics,Medium
+Karen Garcia,16,0,Canada,Ontario,Ottawa,2,1,0,0,Chemistry,65.93,2.98,110,2,0.6363887230116453,0.07673264317872182,0,Basic Concepts,Easy
+William Garcia,8,1,USA,Texas,Dallas,5,1,2,2,Civics,82.27,1.65,103,0,-1.3467406043196275,0.3723806834743606,2,Expert-Level Applications,Hard
+Emily Garcia,6,1,UK,England,London,6,0,2,0,Geography,95.39,2.75,128,0,-1.5602973645977651,0.5095952169719786,2,Expert-Level Applications,Hard
+Daniel Brown,5,2,UK,Scotland,Edinburgh,0,2,0,1,Storytelling & Creative Writing,82.02,2.37,129,0,-0.7498507836846209,0.5495783960022721,0,Basic Concepts,Easy
+Emily Davis,8,0,Australia,Victoria,Melbourne,0,2,0,2,Health Education,41.7,1.14,129,2,1.2969582981819832,1.0719118745873655,0,Basic Concepts,Easy
+Sophia Tucker,4,1,India,Maharashtra,Pune,4,2,0,2,Reading & Writing,54.81,1.86,126,0,-0.09149558026842326,1.3242180684939122,0,Basic Concepts,Easy
+Taylor Wilson,18,1,UK,Scotland,Edinburgh,2,1,0,0,Artificial Intelligence Basics,48.92,2.42,118,2,1.906192812063597,0.22824961208122121,0,Basic Concepts,Easy
+Emily Sanchez,11,1,Canada,Ontario,Ottawa,6,2,1,1,Logical Reasoning,72.43,0.79,105,2,0.3378645776918085,-0.9415188912583174,1,Advanced Topics,Medium
+Jacqueline Davis,6,0,UK,England,London,4,1,2,0,Environmental Science,87.11,1.43,104,0,-1.1963169316450741,-0.9736295315150992,2,Expert-Level Applications,Hard
+William Fox,7,1,USA,New York,Buffalo,5,1,2,1,Health Education,91.45,2.72,108,0,-1.9927605525322594,0.5772865127455284,2,Expert-Level Applications,Hard
+Jacqueline Tucker,15,1,UK,England,London,5,1,0,0,Biology,59.72,1.75,121,2,1.6119098034525814,-0.40628537143184207,0,Basic Concepts,Easy
+Sophia Wilson,9,1,USA,California,Los Angeles,6,1,1,2,Cyber Safety,89.1,0.68,110,0,-0.4566149259672832,-0.6866074397263571,1,Advanced Topics,Medium
+Sophia Brown,18,1,Australia,New South Wales,Sydney,4,2,0,0,Health Education,90.52,1.98,137,2,1.3747843209450086,-0.6133600798900956,0,Basic Concepts,Easy
+Jacqueline Tucker,18,0,Canada,Ontario,Toronto,4,1,2,1,Economics,84.17,1.47,106,1,0.3323123479048119,-0.5317418184621076,2,Expert-Level Applications,Hard
+Sophia Wilson,8,0,Australia,Victoria,Geelong,0,0,2,2,Critical Thinking,69.06,2.32,81,0,-1.8523282710555777,0.616505851438811,2,Expert-Level Applications,Hard
+Justin Brown,10,1,Canada,Quebec,Quebec City,2,0,0,0,Critical Thinking,62.98,1.39,96,2,0.4190405135083489,-1.3334840336122267,0,Basic Concepts,Easy
+Emily Miller,15,1,UK,England,London,0,0,1,0,Health Education,84.64,2.74,82,1,-0.876519787861582,-1.0073675635313024,1,Advanced Topics,Medium
+Jacqueline Garcia,5,1,USA,Texas,Houston,5,2,1,2,Logical Reasoning,59.2,2.94,129,0,-0.8570924096167618,2.421059750446412,1,Advanced Topics,Medium
+Taylor Wilson,12,0,Australia,Victoria,Melbourne,1,2,0,1,Critical Thinking,51.28,2.25,89,2,0.19379628915894842,-0.04963679491575221,0,Basic Concepts,Easy
+Karen Tapia,6,1,Australia,Victoria,Geelong,5,0,2,2,Critical Thinking,83.66,1.2,89,0,-1.760627404671445,-0.34865253837457,2,Expert-Level Applications,Hard
+Jacqueline Miller,12,1,UK,Scotland,Glasgow,0,1,2,1,Astronomy,92.12,2.3,127,0,-0.6458322666445157,0.6358830048291157,2,Expert-Level Applications,Hard
+Stephanie Davis,16,1,Australia,New South Wales,Sydney,3,2,1,0,Economics,41.37,2.61,100,1,1.0500183292814398,0.4191082757413989,1,Advanced Topics,Medium
+William Davis,4,0,USA,California,San Francisco,6,0,1,0,Economics,97.75,1.49,80,0,-2.1348049114362344,-2.1001630706822936,1,Advanced Topics,Medium
+Justin Garcia,15,0,Australia,New South Wales,Newcastle,6,0,0,2,Economics,82.23,2.22,85,2,-0.6092972215376361,-0.4450734990211151,0,Basic Concepts,Easy
+Daniel Miller,11,1,Australia,New South Wales,Sydney,5,2,1,1,English,92.55,1.73,137,0,0.022346537689757324,0.17437724806424135,1,Advanced Topics,Medium
+Jacqueline Davis,16,0,India,Maharashtra,Pune,2,1,0,0,Coding for Kids,66.42,1.3,100,2,1.2758417680230414,-1.5189872722765394,0,Basic Concepts,Easy
+William Brown,11,0,UK,Scotland,Glasgow,1,1,1,2,Economics,80.38,2.83,114,0,-0.9797400463620307,1.2661406548400898,1,Advanced Topics,Medium
+Stephanie Tucker,4,1,India,Karnataka,Mysore,4,0,1,0,Programming,87.3,1.49,95,0,-1.4583727112651026,-1.4341595902749862,1,Advanced Topics,Medium
+Taylor Wilson,11,0,UK,Scotland,Edinburgh,1,1,0,1,Geography,64.63,1.83,104,2,0.25479042963599335,-0.2702448279870927,0,Basic Concepts,Easy
+Justin Miller,15,0,India,Karnataka,Mysore,1,0,1,2,Computer Science,95.82,1.31,123,1,0.138157533511227,-0.14470760869616878,1,Advanced Topics,Medium
+Daniel Tucker,11,1,USA,California,San Francisco,5,0,1,0,Coding for Kids,79.28,2.84,135,0,-0.01622162607392235,0.745043131113242,1,Advanced Topics,Medium
+Jacqueline Tucker,6,1,Australia,Victoria,Geelong,6,1,0,1,Programming,95.48,0.7,130,2,-0.0951613920280525,-1.0783359304900388,0,Basic Concepts,Easy
+Robert Sanchez,5,0,Canada,Quebec,Quebec City,0,1,1,2,Reading & Writing,45.17,1.54,96,0,-0.5002949044833092,0.7700158489405282,1,Advanced Topics,Medium
+Sophia Wilson,12,1,Canada,Quebec,Quebec City,3,1,0,0,Chemistry,55.21,1.48,82,2,0.5292641042661403,-1.5028758397949757,0,Basic Concepts,Easy
+Karen Andrews,8,1,UK,Scotland,Edinburgh,3,1,0,2,Programming,48.58,0.79,103,2,0.6442866429173092,-0.08053595505133937,0,Basic Concepts,Easy
+Justin Davis,12,1,Canada,Quebec,Montreal,3,2,0,0,History,57.44,2.23,120,2,0.9918723360971959,0.06677668120315741,0,Basic Concepts,Easy
+Karen Sanchez,18,0,USA,Texas,Dallas,1,2,2,1,Programming,40.58,1.38,83,1,1.108267059930122,-0.16417514961754145,2,Expert-Level Applications,Hard
+Robert Brown,6,2,Australia,New South Wales,Sydney,5,1,1,0,Critical Thinking,79.33,2.79,116,0,-1.1330595940343717,0.30227420423335005,1,Advanced Topics,Medium
+Jacqueline Wilson,18,1,UK,England,Manchester,6,0,2,0,Programming,57.81,0.73,115,1,1.9400490472898073,-0.7826708249860423,2,Expert-Level Applications,Hard
+Daniel Sanchez,11,0,USA,New York,Buffalo,0,1,1,2,Astronomy,86.85,0.61,109,2,-0.10614484598212025,-0.7603255671685722,1,Advanced Topics,Medium
+Emily Fox,5,0,UK,Scotland,Edinburgh,2,2,0,2,Cyber Safety,75.24,0.94,128,2,-0.01988511543653153,0.1379941051067843,0,Basic Concepts,Easy
+Justin Davis,16,1,UK,Scotland,Edinburgh,4,1,2,1,Programming,87.54,0.52,123,1,0.8857915849382295,-0.8433258539164735,2,Expert-Level Applications,Hard
+Justin Andrews,14,0,India,Karnataka,Mysore,1,1,0,2,Chemistry,65.2,0.67,85,2,0.588592331545887,-1.2137041767671095,0,Basic Concepts,Easy
+Emily Tapia,7,0,USA,California,Los Angeles,2,0,2,1,History,59.28,2.18,112,0,-0.6535565894258996,1.052864148077226,2,Expert-Level Applications,Hard
+Jacqueline Tapia,16,0,USA,Texas,Dallas,6,1,0,2,History,81.07,2.31,132,2,0.6623801650597234,0.9155444357722089,0,Basic Concepts,Easy
+Karen Sanchez,14,1,Australia,Victoria,Melbourne,5,2,0,2,Geography,77.14,0.59,100,2,0.6449027704535616,-1.158059999618537,0,Basic Concepts,Easy
+Robert Davis,6,1,India,Karnataka,Bangalore,6,1,1,0,Geography,87.81,0.86,135,0,0.11315246787257449,-0.890810093252797,1,Advanced Topics,Medium
+Emily Fox,4,1,USA,Texas,Dallas,2,1,1,0,Logical Reasoning,41.69,2.43,95,0,-0.6107848367399619,0.4151914599003639,1,Advanced Topics,Medium
+Stephanie Garcia,9,2,Canada,Quebec,Montreal,0,1,0,1,Civics,66.94,2.3,105,2,-0.31142019534801363,0.11396344746550977,0,Basic Concepts,Easy
+Taylor Miller,6,0,Australia,New South Wales,Newcastle,3,2,0,0,Environmental Science,47.25,2.21,134,2,0.8342017346799788,0.8239923917400092,0,Basic Concepts,Easy
+William Fox,9,1,Australia,Victoria,Geelong,6,0,0,2,Programming,87.57,2.66,139,0,-0.49407927562018844,1.384824049911516,0,Basic Concepts,Easy
+Sophia Tapia,12,0,India,Maharashtra,Mumbai,2,1,2,1,History,86.21,1.69,121,1,-0.29136904173798217,0.14068507189616408,2,Expert-Level Applications,Hard
+Emily Andrews,15,0,USA,New York,New York City,4,0,0,1,Reading & Writing,45.28,2.86,115,2,1.0876536760232833,1.2137854381053543,0,Basic Concepts,Easy
+Sophia Tucker,4,1,India,Maharashtra,Pune,5,1,2,1,Astronomy,85.3,0.69,120,0,-0.8374969763456787,-0.4569257282356079,2,Expert-Level Applications,Hard
+Karen Davis,7,0,India,Maharashtra,Pune,2,2,0,2,Computer Science,67.37,2.6,96,0,-1.1869489116478902,0.7031839089588565,0,Basic Concepts,Easy
+Karen Tucker,4,0,UK,Scotland,Glasgow,1,2,0,1,Chemistry,87.89,2.8,127,0,-1.3380356081399234,0.7099930984728963,0,Basic Concepts,Easy
+Stephanie Garcia,18,1,USA,California,San Francisco,1,1,0,0,Civics,40.21,2.8,114,2,1.8629339295348648,0.6283760423787036,0,Basic Concepts,Easy
+Daniel Miller,16,1,India,Maharashtra,Mumbai,2,1,0,1,Biology,64.34,1.39,140,2,2.0568104984661453,0.26120154224391023,0,Basic Concepts,Easy
+Emily Fox,9,1,India,Karnataka,Bangalore,5,1,0,1,Geography,59.52,0.82,124,2,1.1648434022803387,-0.33903459790888485,0,Basic Concepts,Easy
+Karen Davis,18,0,USA,Texas,Dallas,6,2,0,0,Physics,48.49,1.75,100,2,1.8368748313768075,-0.7760604493294846,0,Basic Concepts,Easy
+Daniel Tucker,9,0,Canada,Ontario,Ottawa,1,0,0,1,Geography,80.77,2.03,110,2,-0.45412360474777597,-0.2983298735064598,0,Basic Concepts,Easy
+Jacqueline Tucker,12,0,Australia,New South Wales,Newcastle,2,0,1,2,Biology,42.8,1.05,91,2,0.6577101806438626,0.14517443841380734,1,Advanced Topics,Medium
+Robert Tapia,14,1,Australia,Victoria,Geelong,4,0,2,2,Coding for Kids,97.06,1.26,98,1,-0.8857323061142457,-0.5710202978083612,2,Expert-Level Applications,Hard
+Stephanie Fox,7,1,Australia,New South Wales,Newcastle,0,0,0,2,Civics,83.99,2.12,112,0,-1.0307692004602722,0.3596824701369906,0,Basic Concepts,Easy
+Stephanie Tucker,11,1,USA,California,Los Angeles,1,0,0,1,Physics,85.37,1.27,81,2,-0.6225051549745585,-1.8436267575536858,0,Basic Concepts,Easy
+Taylor Brown,17,1,Australia,Victoria,Melbourne,2,1,1,1,Civics,64.74,2.2,107,1,0.6728956186385516,0.2605151695850484,1,Advanced Topics,Medium
+Justin Fox,18,1,Australia,New South Wales,Sydney,4,0,2,0,Health Education,63.73,2.26,134,1,1.4112672524043213,0.7853393788956428,2,Expert-Level Applications,Hard
+Justin Andrews,16,1,Canada,Ontario,Ottawa,1,1,0,1,Coding for Kids,91.92,2.71,85,2,-0.8116352612605231,-0.8885812732812254,0,Basic Concepts,Easy
+Sophia Fox,7,1,Canada,Ontario,Ottawa,3,0,1,0,Computer Science,92.54,2.19,115,0,-1.0922599110511884,-0.5397328480813266,1,Advanced Topics,Medium
+Jacqueline Tucker,10,0,USA,Texas,Dallas,3,1,2,1,Storytelling & Creative Writing,80.7,2.61,139,0,-0.4507874239452379,1.5321845746863745,2,Expert-Level Applications,Hard
+Taylor Fox,18,1,India,Maharashtra,Mumbai,6,1,1,1,Programming,65.15,0.99,127,1,1.9328136739830934,-0.1696108244758675,1,Advanced Topics,Medium
+William Andrews,7,0,India,Maharashtra,Pune,6,0,1,2,Computer Science,64.64,2.22,116,0,-0.6802393425381289,1.3240035783716508,1,Advanced Topics,Medium
+Daniel Brown,11,0,India,Maharashtra,Pune,2,2,0,0,Civics,46.23,2.83,93,2,0.20672992115728142,0.09403127497506149,0,Basic Concepts,Easy
+Stephanie Davis,6,1,UK,Scotland,Edinburgh,2,2,1,1,Astronomy,46.7,2.32,110,0,-0.273594993285876,1.135286424262001,1,Advanced Topics,Medium
+Robert Tapia,10,1,Australia,New South Wales,Newcastle,1,1,0,1,Chemistry,95.89,1.4,108,2,-0.47829600566504815,-1.2378288852214943,0,Basic Concepts,Easy
+William Fox,5,1,UK,Scotland,Glasgow,4,0,2,1,Health Education,63.34,2.22,137,0,-0.4543170138687022,1.7152920938466545,2,Expert-Level Applications,Hard
+Stephanie Tapia,15,1,USA,New York,New York City,1,1,1,1,Science,90.0,0.69,91,1,0.07034211871826257,-1.9260973851877234,1,Advanced Topics,Medium
+Karen Garcia,13,0,Canada,Ontario,Ottawa,5,0,1,0,Civics,73.57,0.93,86,1,0.24642134132609061,-1.991813661261614,1,Advanced Topics,Medium
+Emily Fox,14,1,USA,California,Los Angeles,3,2,2,1,Cyber Safety,41.23,2.42,124,1,0.9941817585867255,1.846048756042698,2,Expert-Level Applications,Hard
+Sophia Garcia,12,1,India,Karnataka,Bangalore,2,0,0,0,Geography,53.02,0.94,124,2,1.9106475498412698,-0.7217149760171463,0,Basic Concepts,Easy
+Stephanie Fox,6,1,USA,Texas,Dallas,2,1,2,0,Cyber Safety,49.17,2.05,136,0,0.37835463039561895,1.3136465190112367,2,Expert-Level Applications,Hard
+Jacqueline Fox,6,0,UK,England,Manchester,0,2,1,2,Chemistry,99.12,2.61,101,0,-2.4121966326362902,0.3974757307520505,1,Advanced Topics,Medium
+Daniel Wilson,6,0,USA,California,San Francisco,4,1,0,0,Biology,79.31,1.97,103,2,-0.7451740748055528,-0.9956671019372361,0,Basic Concepts,Easy
+Robert Tapia,10,0,USA,New York,Buffalo,5,1,2,1,Geography,46.75,1.31,123,1,0.8582730850544811,0.9116006995367559,2,Expert-Level Applications,Hard
+Daniel Wilson,15,2,India,Maharashtra,Pune,6,2,0,2,Coding for Kids,96.99,2.77,95,2,-1.0958179008190836,-0.10386146431678782,0,Basic Concepts,Easy
+Emily Fox,11,0,India,Maharashtra,Mumbai,2,0,2,1,Programming,95.72,2.19,128,0,-0.8045497610828845,0.5127596062585457,2,Expert-Level Applications,Hard
+Daniel Davis,17,1,Canada,Ontario,Toronto,1,0,1,0,Astronomy,42.48,2.43,110,1,1.4935651343109504,0.5016422137314955,1,Advanced Topics,Medium
+Karen Andrews,14,1,Australia,New South Wales,Sydney,5,1,0,1,Biology,77.92,0.62,80,2,0.32761149980266396,-2.265841827029443,0,Basic Concepts,Easy
+Daniel Sanchez,12,0,UK,England,Manchester,6,1,2,1,Computer Science,46.42,2.12,84,1,-0.24864034182262648,0.43789511675252846,2,Expert-Level Applications,Hard
+Emily Tucker,7,0,India,Karnataka,Mysore,2,1,1,2,Artificial Intelligence Basics,79.51,2.93,104,0,-1.7939169552917367,1.1856030554089891,1,Advanced Topics,Medium
+Jacqueline Tapia,17,0,Australia,Victoria,Geelong,0,2,0,2,Mathematics,85.26,2.64,132,2,0.49724290193098913,1.0469446001131386,0,Basic Concepts,Easy
+Stephanie Davis,15,0,Australia,Victoria,Melbourne,6,1,2,1,Mathematics,70.09,1.94,128,1,0.6297771807592821,0.8513657407950346,2,Expert-Level Applications,Hard
+Sophia Andrews,8,0,USA,Texas,Dallas,3,2,2,1,Mathematics,45.66,1.57,114,0,0.26037111817027225,0.9417397626931319,2,Expert-Level Applications,Hard
+Emily Tucker,10,1,UK,Scotland,Glasgow,5,0,0,2,Physics,99.38,0.57,89,2,-0.8137858153946121,-1.925124046230303,0,Basic Concepts,Easy
+William Fox,9,0,Australia,Victoria,Melbourne,4,2,0,1,Programming,42.56,1.53,133,2,1.507421908447125,0.8759185021180437,0,Basic Concepts,Easy
+Sophia Garcia,6,0,Canada,Quebec,Quebec City,3,0,0,1,Civics,84.57,2.26,115,0,-0.9736348032020373,-0.004941361764062437,0,Basic Concepts,Easy
+Stephanie Garcia,13,1,Australia,Victoria,Melbourne,4,2,1,2,Mathematics,58.3,1.78,87,1,-0.1541286923376016,0.20233419526992955,1,Advanced Topics,Medium
+Daniel Andrews,16,1,Australia,Victoria,Geelong,6,0,0,2,Storytelling & Creative Writing,67.45,1.44,104,2,0.8458803256642223,-0.19543771855242004,0,Basic Concepts,Easy
+Daniel Garcia,6,0,USA,Texas,Houston,3,2,1,1,Physics,49.18,1.1,111,0,0.3300374199242582,0.15046801385986164,1,Advanced Topics,Medium
+Emily Fox,17,1,Australia,New South Wales,Sydney,3,2,2,2,Computer Science,48.92,1.09,111,1,1.3549251885512374,0.7598548660052327,2,Expert-Level Applications,Hard
+Daniel Tapia,4,0,Australia,New South Wales,Newcastle,6,2,2,1,Economics,48.26,2.34,107,0,-0.9415275569516361,1.3808593396495845,2,Expert-Level Applications,Hard
+William Brown,6,0,Australia,Victoria,Melbourne,2,0,1,2,Critical Thinking,94.54,2.94,107,0,-2.306301077663569,0.9310324521929332,1,Advanced Topics,Medium
+Stephanie Tapia,10,1,Australia,Victoria,Melbourne,1,2,2,1,Artificial Intelligence Basics,81.99,2.98,87,0,-1.9592776665291705,0.36696594460255016,2,Expert-Level Applications,Hard
+Karen Tapia,17,0,Canada,Quebec,Montreal,5,0,2,0,Environmental Science,47.17,0.95,123,1,2.1977055419077964,-0.10847076042236345,2,Expert-Level Applications,Hard
+William Tapia,9,0,Australia,Victoria,Geelong,2,1,1,1,Economics,73.16,1.44,115,0,-0.05763029763484874,-0.13210912509650888,1,Advanced Topics,Medium
+Emily Sanchez,7,0,UK,England,London,3,1,2,1,Chemistry,41.62,2.33,113,0,-0.18645374007631796,1.629405471451193,2,Expert-Level Applications,Hard
+Jacqueline Fox,18,0,Australia,New South Wales,Newcastle,1,0,1,1,History,70.39,2.2,104,1,0.5676450876551152,0.016767286062600195,1,Advanced Topics,Medium
+Emily Fox,16,0,Canada,Quebec,Montreal,2,0,1,2,Health Education,80.54,2.77,89,1,-0.886908474681917,0.4145737371063571,1,Advanced Topics,Medium
+Taylor Garcia,15,1,India,Karnataka,Bangalore,2,0,2,1,Logical Reasoning,63.26,2.59,101,1,-0.1763530833086602,0.7869994819228477,2,Expert-Level Applications,Hard
+Stephanie Sanchez,7,0,India,Karnataka,Bangalore,2,2,1,0,Geography,86.7,2.04,124,0,-0.6188953339578419,-0.267638943803905,1,Advanced Topics,Medium
+William Tapia,12,1,USA,New York,New York City,0,0,1,0,Programming,74.5,0.56,93,2,0.4526458801056221,-2.088264125178315,1,Advanced Topics,Medium
+Robert Fox,8,1,UK,England,Manchester,2,2,1,1,Economics,60.52,2.9,89,0,-1.2359877679335973,0.628204061896489,1,Advanced Topics,Medium
+Daniel Garcia,18,0,USA,New York,Buffalo,0,0,0,0,Storytelling & Creative Writing,79.42,2.68,97,2,0.350238168658723,-0.8897808310199827,0,Basic Concepts,Easy
+Robert Garcia,18,0,UK,Scotland,Glasgow,3,1,0,1,Civics,60.42,0.84,138,2,2.6890133677539914,-0.17334586309593011,0,Basic Concepts,Easy
+Taylor Miller,5,1,India,Maharashtra,Mumbai,4,1,0,1,Health Education,57.61,1.77,139,2,0.5385057074494958,0.9525468885766757,0,Basic Concepts,Easy
+Daniel Andrews,10,0,USA,New York,New York City,1,2,0,0,Physics,66.87,2.09,139,2,0.9815898050869004,0.29329809673636226,0,Basic Concepts,Easy
+Justin Sanchez,10,1,UK,England,Manchester,1,2,1,0,Artificial Intelligence Basics,66.34,2.87,134,0,0.19094578097235798,1.0812009471105655,1,Advanced Topics,Medium
+Emily Tapia,13,1,Australia,Victoria,Geelong,3,2,2,0,Critical Thinking,85.76,2.11,111,1,-0.4007305052431698,-0.38275324067134603,2,Expert-Level Applications,Hard
+Sophia Garcia,13,0,USA,New York,New York City,5,1,1,2,Astronomy,50.65,0.55,80,2,0.5590272859290796,-0.7611653529008798,1,Advanced Topics,Medium
+Justin Miller,4,0,USA,New York,New York City,2,1,2,1,Astronomy,70.55,0.75,80,0,-1.4116327803854647,-1.1431509569384872,2,Expert-Level Applications,Hard
+Sophia Brown,9,0,Canada,Ontario,Toronto,6,1,1,2,Health Education,64.52,2.6,122,0,-0.46226121516536517,1.7405609603936987,1,Advanced Topics,Medium
+Emily Davis,10,1,India,Karnataka,Bangalore,1,2,0,2,Reading & Writing,88.16,1.53,135,2,0.13046445232546883,0.3562802677859427,0,Basic Concepts,Easy
+Jacqueline Wilson,18,1,Australia,Victoria,Melbourne,5,1,0,2,Cyber Safety,54.85,2.41,131,2,1.631610123807898,1.5610448387162545,0,Basic Concepts,Easy
+Emily Davis,15,1,Canada,Quebec,Quebec City,1,1,2,2,Science,60.53,2.12,120,1,0.4095647010440304,1.5720005429011168,2,Expert-Level Applications,Hard
+Justin Tapia,13,0,India,Maharashtra,Pune,3,2,1,1,Health Education,64.48,2.29,124,1,0.5066658204011951,0.8957043627990737,1,Advanced Topics,Medium
+Karen Tapia,13,0,UK,England,London,5,1,1,2,Cyber Safety,82.44,2.6,137,0,-0.08404102859106348,1.6185613978146431,1,Advanced Topics,Medium
+Jacqueline Brown,7,0,UK,Scotland,Edinburgh,2,2,0,2,Reading & Writing,49.11,2.98,130,0,-0.017639151297830145,2.3763414807302206,0,Basic Concepts,Easy
+Robert Garcia,16,1,Australia,Victoria,Geelong,1,0,1,1,Biology,82.55,2.54,99,1,-0.3674752858875146,-0.10557861221103487,1,Advanced Topics,Medium
+William Fox,16,0,USA,Texas,Houston,3,0,1,0,Civics,60.12,1.42,102,1,1.180356321553825,-0.9131512149478229,1,Advanced Topics,Medium
+Jacqueline Garcia,6,0,Australia,New South Wales,Sydney,5,0,0,1,Storytelling & Creative Writing,59.51,1.06,91,2,-0.17702775771642815,-0.9839087687814884,0,Basic Concepts,Easy
+Stephanie Andrews,7,1,UK,England,London,3,1,2,2,Astronomy,56.73,0.96,120,0,0.05905725824058893,0.94768566884291,2,Expert-Level Applications,Hard
+William Tucker,14,1,UK,England,London,2,0,1,0,History,92.68,2.03,98,1,-0.4787163901793043,-1.296839696807939,1,Advanced Topics,Medium
+William Tucker,10,1,UK,England,London,3,2,2,0,Cyber Safety,57.16,1.81,129,1,0.6406424614055864,0.6457924210562711,2,Expert-Level Applications,Hard
+William Miller,18,1,UK,England,Manchester,6,0,1,1,Artificial Intelligence Basics,80.89,0.63,128,1,1.6838262765551484,-0.808240419083384,1,Advanced Topics,Medium
+Jacqueline Tapia,4,0,Australia,New South Wales,Sydney,2,2,2,0,Critical Thinking,92.45,1.29,130,0,-0.9142224291508322,-0.4555591865784395,2,Expert-Level Applications,Hard
+Sophia Wilson,9,0,Australia,Victoria,Melbourne,6,0,1,2,Cyber Safety,95.54,1.95,108,0,-1.3755616465362643,0.0915496364917648,1,Advanced Topics,Medium
+Stephanie Miller,12,0,USA,Texas,Dallas,4,2,0,2,Biology,74.88,1.06,128,2,0.8746576179395267,0.07644813324328367,0,Basic Concepts,Easy
+Daniel Fox,16,1,USA,Texas,Dallas,0,1,0,2,Mathematics,58.93,2.2,120,2,1.0831068941943867,1.0434028626858645,0,Basic Concepts,Easy
+Emily Wilson,4,1,USA,New York,Buffalo,5,2,0,2,Health Education,53.84,2.18,109,0,-0.6499177253672556,1.132571486358836,0,Basic Concepts,Easy
+Emily Miller,7,0,Australia,New South Wales,Sydney,2,2,2,1,Computer Science,92.89,1.37,100,0,-1.509017439422131,-0.7296173034850496,2,Expert-Level Applications,Hard
+Daniel Davis,11,0,India,Karnataka,Mysore,1,0,0,1,Physics,68.29,1.12,91,2,0.20811789347659215,-1.2690975635792587,0,Basic Concepts,Easy
+Karen Miller,12,0,India,Karnataka,Mysore,2,2,2,0,Geography,85.72,2.74,87,1,-1.4592308084210657,-0.5234231758325398,2,Expert-Level Applications,Hard
+Daniel Miller,4,1,India,Karnataka,Bangalore,4,0,1,1,Storytelling & Creative Writing,65.52,1.27,107,0,-0.6134392226095727,-0.17941043812131188,1,Advanced Topics,Medium
+William Davis,7,1,USA,New York,New York City,3,1,1,2,Storytelling & Creative Writing,87.38,2.53,86,0,-2.2534039290843824,0.18873278552804496,1,Advanced Topics,Medium
+Taylor Davis,18,1,Canada,Quebec,Montreal,5,0,1,2,Chemistry,58.53,1.17,106,1,1.3074598874488463,0.12351882116472035,1,Advanced Topics,Medium
+Jacqueline Davis,12,0,Australia,Victoria,Geelong,2,0,2,2,Critical Thinking,66.88,1.06,133,1,0.7003389716084065,1.0157159626485963,2,Expert-Level Applications,Hard
+Sophia Tucker,14,1,Australia,Victoria,Geelong,5,2,0,2,Civics,81.3,1.28,110,2,0.39733541680791795,-0.4482405597266189,0,Basic Concepts,Easy
+Stephanie Miller,5,2,Australia,Victoria,Geelong,3,1,2,2,Astronomy,98.13,2.16,89,0,-2.838002486710448,0.06933325138433147,2,Expert-Level Applications,Hard
+Robert Garcia,17,1,India,Karnataka,Mysore,4,1,0,1,Chemistry,82.74,1.05,110,2,1.0952736501581652,-1.2982063805838964,0,Basic Concepts,Easy
+Robert Wilson,8,1,Canada,Quebec,Montreal,5,2,2,1,Artificial Intelligence Basics,98.93,0.7,121,0,-0.6801729559340451,-0.8490363412204381,2,Expert-Level Applications,Hard
+Taylor Miller,14,1,Australia,Victoria,Melbourne,1,2,0,1,English,42.77,0.92,136,2,2.578101214946519,0.3599897864901675,0,Basic Concepts,Easy
+Sophia Andrews,12,1,Australia,New South Wales,Sydney,2,0,2,0,Storytelling & Creative Writing,83.15,2.91,84,1,-1.5474804834670726,-0.4099937351671499,2,Expert-Level Applications,Hard
+Justin Brown,10,0,USA,California,Los Angeles,0,2,1,1,Critical Thinking,75.16,1.38,126,0,0.31984533964223383,0.04958091065189017,1,Advanced Topics,Medium
+William Tucker,17,1,India,Maharashtra,Pune,5,2,2,1,English,86.32,1.15,130,1,0.891640345855558,-0.15410246054090088,2,Expert-Level Applications,Hard
+William Tapia,5,0,Australia,Victoria,Melbourne,6,1,1,1,Critical Thinking,64.27,2.07,122,0,-0.5018862576596453,0.8619309704986409,1,Advanced Topics,Medium
+Emily Andrews,4,0,USA,Texas,Houston,0,2,1,1,Programming,70.7,1.0,105,0,-0.6713186054677386,-0.571456928011699,1,Advanced Topics,Medium
+Jacqueline Brown,4,1,India,Karnataka,Mysore,0,0,2,1,Storytelling & Creative Writing,92.34,1.08,133,0,-0.9364546881256528,0.03049086746526607,2,Expert-Level Applications,Hard
+Justin Miller,5,1,USA,California,San Francisco,4,2,1,0,Biology,50.5,2.03,101,0,-0.37541180245215844,0.02829949094448601,1,Advanced Topics,Medium
+Emily Brown,17,0,UK,Scotland,Edinburgh,5,0,0,0,Critical Thinking,49.01,0.98,135,2,2.9543300765407903,-0.40863031423658885,0,Basic Concepts,Easy
+Stephanie Garcia,7,0,India,Karnataka,Bangalore,5,1,2,0,Geography,94.68,1.82,103,0,-1.5180913976849688,-0.9055070813527597,2,Expert-Level Applications,Hard
+Karen Brown,15,2,India,Maharashtra,Pune,2,1,2,0,Artificial Intelligence Basics,82.04,1.63,118,1,0.4083266768912382,-0.5214510640355574,2,Expert-Level Applications,Hard
+Emily Sanchez,13,0,Canada,Ontario,Ottawa,5,0,1,0,Chemistry,65.64,1.45,107,1,0.716902063175066,-0.8178368651893334,1,Advanced Topics,Medium
+Taylor Davis,7,0,India,Karnataka,Bangalore,6,1,2,2,Health Education,99.08,2.17,120,0,-1.8420667522769447,0.8548964257569619,2,Expert-Level Applications,Hard
+Daniel Wilson,17,0,Australia,New South Wales,Sydney,1,0,0,2,Astronomy,79.77,1.15,125,2,1.2855230813039489,-0.1721913525302466,0,Basic Concepts,Easy
+Sophia Garcia,5,1,UK,England,Manchester,1,1,2,1,Reading & Writing,57.43,1.85,80,0,-1.4761430359781107,0.012410326649913789,2,Expert-Level Applications,Hard
+Emily Brown,9,1,Canada,Quebec,Quebec City,0,1,1,1,History,99.26,1.47,111,0,-0.9443118042203901,-0.8568781912554959,1,Advanced Topics,Medium
+Sophia Tucker,11,1,USA,California,Los Angeles,4,0,2,1,Environmental Science,79.88,1.49,119,1,-0.18134748172995777,0.10834494812261163,2,Expert-Level Applications,Hard
+William Tucker,8,1,UK,Scotland,Glasgow,3,1,0,2,Civics,78.77,1.33,114,2,-0.2692616489496895,-0.09740289579270558,0,Basic Concepts,Easy
+Emily Sanchez,16,0,UK,England,London,0,2,2,0,Science,90.8,2.87,98,1,-0.8682624849255668,-0.3391937691618123,2,Expert-Level Applications,Hard
+Emily Garcia,18,0,Australia,New South Wales,Newcastle,2,1,1,0,Programming,94.41,1.25,104,1,0.5758615598101418,-1.8770798147039738,1,Advanced Topics,Medium
+Robert Miller,4,1,USA,New York,New York City,0,0,2,1,Coding for Kids,43.32,2.59,122,0,-0.5619608897990104,2.1069864860128056,2,Expert-Level Applications,Hard
+Justin Davis,6,0,India,Karnataka,Bangalore,0,0,1,1,Civics,73.17,0.62,136,0,0.488228534493262,-0.12725348530599645,1,Advanced Topics,Medium
+William Tucker,13,0,USA,New York,New York City,5,2,2,0,Astronomy,96.23,1.78,99,1,-0.8278279679671456,-1.2245614916714946,2,Expert-Level Applications,Hard
+Jacqueline Davis,16,0,Australia,Victoria,Geelong,3,1,2,0,Storytelling & Creative Writing,50.22,0.54,111,1,1.8976503952283668,-0.807654807559551,2,Expert-Level Applications,Hard
+Justin Sanchez,15,0,UK,Scotland,Glasgow,0,1,2,0,History,83.58,2.21,123,1,0.17482721243980115,0.029950150929221896,2,Expert-Level Applications,Hard
+Jacqueline Miller,17,1,India,Maharashtra,Pune,5,2,1,0,Cyber Safety,80.67,0.83,94,1,0.8272051086194409,-2.118447967136467,1,Advanced Topics,Medium
+Daniel Tapia,14,2,India,Maharashtra,Pune,0,0,2,0,Cyber Safety,97.9,0.61,81,1,-0.5564278066933736,-2.6936352616215897,2,Expert-Level Applications,Hard
+Sophia Sanchez,15,0,Australia,Victoria,Geelong,2,0,0,1,Civics,59.21,1.75,118,2,1.3423764111265748,0.08923138341944524,0,Basic Concepts,Easy
+Daniel Tapia,15,0,UK,Scotland,Glasgow,6,2,1,2,Geography,58.13,1.92,103,1,0.43839665972986797,0.7064418816982316,1,Advanced Topics,Medium
+Daniel Miller,15,1,USA,New York,Buffalo,1,1,1,0,Environmental Science,44.63,0.78,140,1,2.7756977280978252,0.029540955403786418,1,Advanced Topics,Medium
+Taylor Andrews,8,0,Canada,Ontario,Ottawa,0,2,1,0,Critical Thinking,48.53,1.79,98,2,0.14420423450032782,-0.26297462218673345,1,Advanced Topics,Medium
+Daniel Davis,17,2,Canada,Quebec,Quebec City,5,2,2,0,English,74.36,1.48,117,1,0.962358943060625,-0.5246683646977511,2,Expert-Level Applications,Hard
+Justin Miller,12,0,USA,Texas,Dallas,4,1,0,0,Biology,81.79,0.91,101,2,0.5121003720007506,-2.0782761245984127,0,Basic Concepts,Easy
+Sophia Tucker,12,1,Australia,New South Wales,Sydney,1,1,0,0,Health Education,84.3,1.33,134,2,1.0205946476328882,-0.9095929613854558,0,Basic Concepts,Easy
+William Miller,8,1,Canada,Ontario,Toronto,1,0,2,0,Geography,61.01,1.55,129,0,0.394851725179009,0.3956365256985425,2,Expert-Level Applications,Hard
+Sophia Tapia,15,1,UK,England,London,6,1,2,2,Coding for Kids,47.41,0.95,134,1,1.7664253606511626,1.363519970020261,2,Expert-Level Applications,Hard
+Daniel Tapia,13,0,Canada,Quebec,Quebec City,2,0,2,0,Physics,75.97,2.66,96,1,-0.7721051272533668,-0.12446468730870439,2,Expert-Level Applications,Hard
+Karen Sanchez,13,1,Australia,New South Wales,Sydney,2,1,0,1,Physics,62.7,2.04,128,2,1.0577321877612142,0.5503308429021325,0,Basic Concepts,Easy
+Daniel Andrews,12,1,India,Karnataka,Bangalore,2,0,2,1,Environmental Science,48.21,1.78,106,1,0.41854595599564587,0.7306261635091391,2,Expert-Level Applications,Hard
+Sophia Miller,7,0,Canada,Ontario,Toronto,3,1,0,1,Artificial Intelligence Basics,68.1,2.37,111,2,-0.5072737756197024,0.3511088585316529,0,Basic Concepts,Easy
+Taylor Fox,16,0,UK,England,London,5,1,2,0,Geography,67.33,1.48,87,1,0.3009962971938109,-1.1497024957620883,2,Expert-Level Applications,Hard
+Taylor Brown,15,0,Canada,Ontario,Toronto,5,1,2,1,History,92.23,0.54,93,1,-0.13327055447056416,-1.7395945769212007,2,Expert-Level Applications,Hard
+Stephanie Davis,8,0,Canada,Ontario,Toronto,6,1,2,1,Coding for Kids,75.51,2.65,106,0,-1.3968700450133134,0.8346846316787897,2,Expert-Level Applications,Hard
+Stephanie Sanchez,4,1,UK,England,Manchester,5,1,0,0,Science,61.97,2.24,97,2,-0.7938948254968855,-0.4779798721931059,0,Basic Concepts,Easy
+Taylor Garcia,8,2,USA,Texas,Houston,4,0,2,2,Health Education,60.23,1.09,127,0,0.19261316956493257,1.1314446761438213,2,Expert-Level Applications,Hard
+Taylor Davis,14,1,UK,England,Manchester,2,1,1,1,Computer Science,56.93,2.21,116,1,0.7126844760461815,0.7758675764278076,1,Advanced Topics,Medium
+Justin Fox,12,0,UK,Scotland,Edinburgh,2,1,2,2,Astronomy,79.78,2.52,99,0,-1.2945087577127883,0.908747208781034,2,Expert-Level Applications,Hard
+Justin Andrews,13,1,Canada,Ontario,Toronto,1,2,0,1,Physics,73.13,0.88,123,2,1.2470763858694345,-0.7463612659687681,0,Basic Concepts,Easy
+Robert Andrews,18,0,USA,California,Los Angeles,4,0,1,2,Economics,96.63,2.75,92,1,-1.0083122730709233,0.04040229358617624,1,Advanced Topics,Medium
+Justin Davis,6,1,India,Karnataka,Bangalore,6,0,0,1,Geography,66.8,2.2,97,2,-0.8558519126420342,-0.10913952054409676,0,Basic Concepts,Easy
+Sophia Tucker,16,1,Australia,New South Wales,Sydney,2,0,2,1,Geography,44.21,2.56,99,1,0.49022070904350634,1.151706866023818,2,Expert-Level Applications,Hard
+Sophia Brown,5,0,UK,Scotland,Edinburgh,1,2,1,1,Computer Science,78.35,2.16,102,0,-1.456280228379867,0.040527523610759855,1,Advanced Topics,Medium
+Sophia Garcia,10,0,UK,England,Manchester,5,1,1,2,Coding for Kids,81.25,2.12,140,0,-0.12496163279831454,1.425647173962042,1,Advanced Topics,Medium
+Justin Garcia,18,1,Canada,Quebec,Quebec City,0,0,0,0,Science,85.5,2.09,89,2,0.2900701648135275,-1.7175216244260583,0,Basic Concepts,Easy
+Emily Miller,5,1,Australia,Victoria,Melbourne,4,2,1,2,English,86.89,1.89,94,0,-1.971681004578024,-0.03276620842529334,1,Advanced Topics,Medium
+William Miller,14,1,Australia,Victoria,Melbourne,6,0,0,0,Reading & Writing,77.44,2.93,82,2,-0.6336550121806455,-0.9629189668381487,0,Basic Concepts,Easy
+Robert Sanchez,15,0,UK,England,London,1,0,0,2,Logical Reasoning,69.15,2.98,93,2,-0.4328106253488081,0.6865660402004917,0,Basic Concepts,Easy
+Daniel Tucker,6,0,India,Maharashtra,Pune,5,2,1,1,Astronomy,75.79,1.71,130,0,-0.3192086001641127,0.4946113090772807,1,Advanced Topics,Medium
+William Sanchez,7,1,Canada,Ontario,Ottawa,6,0,0,2,Chemistry,56.62,1.24,108,2,0.15243695558719367,0.23381983937593734,0,Basic Concepts,Easy
+Taylor Miller,16,1,Australia,Victoria,Geelong,0,1,0,2,Storytelling & Creative Writing,98.63,1.34,97,2,-0.1950760717907981,-1.2279705733373527,0,Basic Concepts,Easy
+Sophia Sanchez,15,0,India,Maharashtra,Pune,1,1,1,2,Physics,96.88,2.47,123,1,-0.5137223970011889,0.734030065134447,1,Advanced Topics,Medium
+William Wilson,17,2,Canada,Ontario,Toronto,6,2,0,0,Storytelling & Creative Writing,84.05,2.16,110,2,0.6739640864641174,-1.0296676327072494,0,Basic Concepts,Easy
+William Sanchez,15,0,India,Maharashtra,Mumbai,0,0,1,2,English,75.67,1.1,124,1,0.8715510320938639,0.2120106719348185,1,Advanced Topics,Medium
+Stephanie Fox,4,0,UK,Scotland,Glasgow,2,2,0,1,Coding for Kids,67.57,1.67,88,2,-1.0862449764110824,-0.740639842888743,0,Basic Concepts,Easy
+Robert Sanchez,15,0,Australia,New South Wales,Sydney,6,2,0,1,Programming,65.25,0.61,114,2,1.6754686892817554,-1.0570727942912188,0,Basic Concepts,Easy
+Karen Tapia,7,0,Australia,Victoria,Melbourne,1,2,1,1,Computer Science,43.28,2.48,131,0,0.3913620791107836,1.8947032400664443,1,Advanced Topics,Medium
+Stephanie Tapia,4,1,India,Karnataka,Mysore,1,1,0,0,History,54.44,2.79,84,0,-1.1832449871730568,-0.2203016746326722,0,Basic Concepts,Easy
+Sophia Miller,8,0,Australia,Victoria,Geelong,4,1,0,1,Critical Thinking,69.78,1.95,111,2,-0.19691325145483365,-0.04098415411605643,0,Basic Concepts,Easy
+Jacqueline Sanchez,14,1,UK,England,London,4,1,1,2,Civics,82.46,2.48,99,1,-0.814820809521997,0.4617570748153724,1,Advanced Topics,Medium
+Stephanie Wilson,6,1,UK,Scotland,Edinburgh,6,1,2,2,Coding for Kids,69.83,1.99,101,0,-1.480107044763786,0.9341399215112448,2,Expert-Level Applications,Hard
+Taylor Andrews,11,0,Australia,New South Wales,Newcastle,3,2,0,2,Artificial Intelligence Basics,96.38,0.56,115,2,0.05201499009035681,-1.1718177251870985,0,Basic Concepts,Easy
+Robert Garcia,9,0,USA,Texas,Houston,2,1,2,1,Storytelling & Creative Writing,42.27,0.54,103,1,0.7779802721601888,-0.10286002537164089,2,Expert-Level Applications,Hard
+Stephanie Davis,7,0,USA,California,Los Angeles,6,0,1,1,Coding for Kids,66.67,2.88,103,0,-1.200251701046051,0.868415531484935,1,Advanced Topics,Medium
+Karen Brown,8,1,India,Maharashtra,Pune,2,0,1,0,Physics,97.64,1.38,87,0,-1.3596699514627573,-2.0854906744828092,1,Advanced Topics,Medium
+Jacqueline Fox,11,0,India,Maharashtra,Pune,1,1,2,1,Mathematics,50.63,1.02,135,1,1.3275845891377318,0.8952540539813347,2,Expert-Level Applications,Hard
+Emily Brown,13,0,Australia,Victoria,Geelong,3,0,1,0,Mathematics,69.93,2.19,114,1,0.3653336908240897,-0.15425472110722466,1,Advanced Topics,Medium
+Robert Sanchez,15,1,Australia,New South Wales,Newcastle,6,1,0,0,Science,80.45,0.78,124,2,1.5904133018052766,-1.5880755242613742,0,Basic Concepts,Easy
+Sophia Wilson,18,1,Australia,Victoria,Geelong,0,1,2,2,English,75.13,2.79,99,1,-0.48862490481980103,1.0925987376932624,2,Expert-Level Applications,Hard
+Robert Sanchez,5,1,USA,California,Los Angeles,5,1,0,2,Chemistry,57.01,2.76,115,0,-0.7717697379053502,1.6480100555328756,0,Basic Concepts,Easy
+Stephanie Brown,13,0,India,Maharashtra,Pune,5,2,0,1,Science,81.97,1.15,104,2,0.37601133579006724,-1.2717906522674598,0,Basic Concepts,Easy
+Stephanie Garcia,11,0,Canada,Quebec,Quebec City,5,1,0,1,Science,92.37,2.01,125,2,-0.1489631267030595,-0.23441200154515146,0,Basic Concepts,Easy
+Karen Wilson,17,1,UK,England,Manchester,3,1,2,2,Chemistry,45.97,2.3,104,1,0.6237444236248159,1.5842759250979337,2,Expert-Level Applications,Hard
+Karen Davis,9,1,USA,New York,Buffalo,1,1,1,2,Coding for Kids,92.08,2.83,88,0,-2.233217061853327,0.31553420339418276,1,Advanced Topics,Medium
+Sophia Davis,16,1,India,Maharashtra,Pune,1,0,0,1,Geography,74.01,1.44,126,2,1.4011955688645226,-0.31936740402081143,0,Basic Concepts,Easy
+Stephanie Sanchez,11,1,UK,Scotland,Glasgow,0,0,1,1,Environmental Science,48.18,2.12,121,1,0.7359201604274767,1.126834974281827,1,Advanced Topics,Medium
+William Miller,9,1,UK,England,London,0,1,0,1,Astronomy,91.97,2.29,130,2,-0.4354288073155035,0.17734055747164995,0,Basic Concepts,Easy
+Stephanie Tucker,15,1,USA,New York,Buffalo,0,0,0,2,Geography,98.34,2.99,114,2,-0.7885604912013483,0.5543295141308231,0,Basic Concepts,Easy
+Sophia Wilson,15,0,Australia,New South Wales,Newcastle,5,2,0,0,Cyber Safety,94.27,1.55,105,2,0.30444720159774,-1.8454360407102761,0,Basic Concepts,Easy
+Justin Tapia,14,0,USA,California,Los Angeles,6,1,0,0,Cyber Safety,80.08,2.51,130,2,0.6873474441599209,-0.042277757411192135,0,Basic Concepts,Easy
+Jacqueline Andrews,7,1,Australia,New South Wales,Newcastle,2,2,2,2,Science,88.76,2.92,133,0,-1.6196038855100865,2.0479402907022273,2,Expert-Level Applications,Hard
+Taylor Andrews,7,1,UK,England,Manchester,1,1,1,0,Astronomy,89.04,2.79,102,0,-1.6276742863809106,-0.34168909995923813,1,Advanced Topics,Medium
+Karen Garcia,4,1,UK,England,Manchester,1,0,1,1,Critical Thinking,71.95,2.58,85,0,-2.0428630578540075,0.08318371211348168,1,Advanced Topics,Medium
+Sophia Miller,4,1,Canada,Quebec,Montreal,6,2,1,1,History,40.22,2.36,129,0,0.09089584693435228,1.8915667921808892,1,Advanced Topics,Medium
+Jacqueline Brown,6,0,Canada,Quebec,Quebec City,3,0,1,2,Science,79.6,2.1,103,0,-1.5125140287072876,0.5321567853486094,1,Advanced Topics,Medium
+Taylor Fox,11,1,USA,Texas,Houston,1,0,0,1,Storytelling & Creative Writing,45.38,2.2,109,2,0.7491645005214829,0.6261877008757375,0,Basic Concepts,Easy
+Daniel Miller,15,1,USA,California,San Francisco,6,0,2,1,English,67.96,2.25,108,1,0.03764245803925366,0.5982592330490102,2,Expert-Level Applications,Hard
+Taylor Garcia,13,1,India,Maharashtra,Mumbai,5,1,1,1,Economics,95.58,1.26,88,1,-0.7440517972383496,-1.653329380576395,1,Advanced Topics,Medium
+Taylor Fox,5,1,Australia,New South Wales,Sydney,2,2,2,0,Astronomy,51.89,1.54,138,0,0.48412476725261705,0.9274516354197421,2,Expert-Level Applications,Hard
+Robert Davis,4,1,USA,New York,Buffalo,6,1,1,1,Programming,41.2,0.78,134,0,1.029382723449271,0.7720970163255607,1,Advanced Topics,Medium
+William Wilson,8,1,Australia,Victoria,Geelong,3,1,0,0,History,85.33,0.61,102,2,0.050475183389544064,-2.2778496630602922,0,Basic Concepts,Easy
+William Sanchez,16,0,India,Maharashtra,Mumbai,3,2,1,1,Programming,48.78,1.79,84,1,0.6665240700359187,-0.27427454984003324,1,Advanced Topics,Medium
+Daniel Wilson,10,0,UK,Scotland,Glasgow,3,2,2,2,Economics,81.54,1.33,94,0,-1.1032972623962822,-0.15231308318232858,2,Expert-Level Applications,Hard
+Jacqueline Miller,18,1,UK,England,London,1,2,0,2,Health Education,46.81,0.91,135,2,2.769896062763928,0.6973699579114204,0,Basic Concepts,Easy
+Emily Tucker,6,1,UK,England,London,1,1,2,1,Physics,78.74,2.6,90,0,-2.1281366295509345,0.3258779048230238,2,Expert-Level Applications,Hard
+Daniel Garcia,12,0,Canada,Ontario,Toronto,5,1,1,1,Storytelling & Creative Writing,59.16,2.53,88,1,-0.48051734050232525,0.2518941823635648,1,Advanced Topics,Medium
+Sophia Brown,16,1,UK,Scotland,Edinburgh,1,1,1,1,Reading & Writing,93.56,2.76,81,1,-1.2515745180830449,-0.6957607132879592,1,Advanced Topics,Medium
+Daniel Sanchez,13,1,UK,Scotland,Edinburgh,1,2,0,2,Geography,60.28,2.14,123,2,0.7423206466446066,1.1158817794308706,0,Basic Concepts,Easy
+William Fox,16,0,Australia,Victoria,Geelong,4,1,1,2,History,60.31,2.84,115,1,0.3107997494519603,1.6753753218924907,1,Advanced Topics,Medium
+Sophia Tucker,10,0,Australia,New South Wales,Sydney,2,1,1,1,Environmental Science,51.1,1.54,113,2,0.6285240979231301,0.40765082684013115,1,Advanced Topics,Medium
+Emily Davis,9,1,India,Maharashtra,Mumbai,4,1,1,2,Programming,67.95,1.05,87,2,-0.5911138747795041,-0.5094796876251653,1,Advanced Topics,Medium
+Justin Sanchez,7,0,India,Maharashtra,Mumbai,2,1,2,1,Geography,58.66,1.97,99,0,-0.8409636281446158,0.548707342153645,2,Expert-Level Applications,Hard
+Stephanie Andrews,11,1,Australia,Victoria,Melbourne,3,0,1,0,Storytelling & Creative Writing,62.28,0.58,123,2,1.4023789162205802,-0.9296709264339221,1,Advanced Topics,Medium
+Karen Tapia,12,0,Canada,Ontario,Toronto,2,2,0,2,Geography,72.33,2.0,121,2,0.27605956492576117,0.6805076491406169,0,Basic Concepts,Easy
+William Sanchez,10,0,Canada,Quebec,Montreal,0,2,1,1,English,92.79,0.58,101,2,-0.3859297768212826,-1.689563107567486,1,Advanced Topics,Medium
+Robert Garcia,8,0,USA,Texas,Dallas,4,0,2,1,Critical Thinking,52.23,2.96,105,0,-0.8978956928986985,1.6188515893276723,2,Expert-Level Applications,Hard
+Daniel Tapia,11,0,Australia,New South Wales,Sydney,3,2,0,0,Economics,65.38,2.4,119,2,0.5059452375192878,0.001107794062405333,0,Basic Concepts,Easy
+Emily Davis,12,1,Australia,Victoria,Geelong,0,1,0,0,Critical Thinking,66.91,1.8,131,2,1.210656813255785,-0.19949339953879916,0,Basic Concepts,Easy
+Taylor Davis,9,1,USA,New York,Buffalo,3,2,2,0,Civics,77.9,2.25,97,0,-1.1272219258655967,-0.3704240726482519,2,Expert-Level Applications,Hard
+Sophia Andrews,15,1,India,Karnataka,Bangalore,1,2,1,0,Artificial Intelligence Basics,71.46,2.09,103,1,0.3752458883291162,-0.6173823321334151,1,Advanced Topics,Medium
+Stephanie Andrews,4,0,Australia,New South Wales,Sydney,0,2,0,1,Astronomy,59.58,2.49,93,0,-1.1659622890234185,0.23117149265619896,0,Basic Concepts,Easy
+Daniel Tucker,12,0,India,Maharashtra,Pune,1,1,0,0,History,65.58,1.82,124,2,1.0680548677783996,-0.34279659633683973,0,Basic Concepts,Easy
+William Tapia,17,1,India,Karnataka,Mysore,5,0,2,1,Logical Reasoning,69.69,1.15,134,1,1.4818903983898368,0.36229694828314113,2,Expert-Level Applications,Hard
+William Fox,5,0,Australia,New South Wales,Sydney,1,0,2,0,Science,99.37,2.57,101,0,-2.3779495335973255,-0.44322589198504486,2,Expert-Level Applications,Hard
+Emily Davis,9,0,India,Karnataka,Bangalore,3,0,0,1,Economics,90.57,0.66,99,2,-0.2806084954477875,-1.9074828182992885,0,Basic Concepts,Easy
+Emily Miller,5,0,UK,England,London,1,2,1,1,Physics,78.96,1.22,133,0,-0.212991256935451,0.14035133617917958,1,Advanced Topics,Medium
+Justin Tucker,15,0,UK,Scotland,Edinburgh,5,1,0,2,Geography,72.67,2.02,133,2,0.9552379325060274,0.945724853665045,0,Basic Concepts,Easy
+Daniel Fox,6,1,UK,England,Manchester,6,1,0,0,Health Education,46.08,1.53,114,2,0.7432048156938525,-0.22470640034567052,0,Basic Concepts,Easy
+William Brown,12,1,UK,Scotland,Edinburgh,5,2,2,2,Health Education,91.15,2.2,109,0,-1.2152877190298839,0.6544154071436926,2,Expert-Level Applications,Hard
+Sophia Miller,5,1,UK,Scotland,Edinburgh,4,1,0,2,Programming,90.14,1.33,93,2,-1.5260629858190633,-0.8797615390697231,0,Basic Concepts,Easy
+Robert Miller,14,0,Canada,Ontario,Ottawa,3,2,0,2,Astronomy,62.25,1.1,104,2,0.9108313546930623,-0.28649775942558786,0,Basic Concepts,Easy
+Jacqueline Andrews,18,1,Canada,Quebec,Quebec City,5,2,0,0,Storytelling & Creative Writing,52.08,2.96,133,2,1.890813805421599,0.9823092315802542,0,Basic Concepts,Easy
+Emily Miller,11,1,India,Maharashtra,Mumbai,0,0,1,0,Logical Reasoning,91.68,2.61,83,0,-1.5327063786726738,-1.1600168840499339,1,Advanced Topics,Medium
+Robert Tucker,8,1,Australia,Victoria,Melbourne,4,2,0,2,Mathematics,99.13,1.23,107,2,-0.9898636139322476,-0.8651296180463898,0,Basic Concepts,Easy
+Robert Sanchez,17,1,UK,England,London,4,2,2,2,Chemistry,48.58,1.54,122,1,1.3934394101172882,1.419981278134343,2,Expert-Level Applications,Hard
+Karen Davis,6,1,India,Maharashtra,Pune,6,0,2,2,Geography,90.52,0.63,135,0,-0.5332702437683589,0.2970245673040774,2,Expert-Level Applications,Hard
+Daniel Sanchez,15,2,UK,Scotland,Edinburgh,2,1,2,2,Astronomy,79.05,1.02,117,1,0.3762263302852288,0.17880981693008463,2,Expert-Level Applications,Hard
+Justin Sanchez,8,1,Australia,New South Wales,Sydney,6,0,0,1,Logical Reasoning,79.44,1.59,130,2,0.17455277563199642,-0.03851009128765673,0,Basic Concepts,Easy
+Karen Davis,17,0,USA,New York,New York City,1,2,2,0,Reading & Writing,82.12,0.86,109,1,0.868497446680004,-1.4169219756046878,2,Expert-Level Applications,Hard
+Jacqueline Brown,6,0,India,Karnataka,Mysore,5,0,2,2,Logical Reasoning,58.41,1.81,123,0,-0.5073897413461077,1.6749528276493248,2,Expert-Level Applications,Hard
+Karen Fox,13,0,India,Maharashtra,Pune,6,2,0,0,Geography,46.39,2.2,107,2,1.1524279500861212,-0.06515798772951666,0,Basic Concepts,Easy
+Emily Sanchez,13,2,India,Karnataka,Mysore,2,2,1,1,Environmental Science,89.57,2.65,134,0,-0.18406861652761325,0.8359220870113193,1,Advanced Topics,Medium
+Jacqueline Tapia,5,1,Australia,Victoria,Geelong,2,2,2,0,Computer Science,40.25,1.36,131,0,0.7537594127420213,0.8804936642857528,2,Expert-Level Applications,Hard
+Taylor Andrews,11,1,Australia,Victoria,Geelong,1,0,2,2,History,72.69,2.08,138,0,-0.030384551643584706,1.829189219827654,2,Expert-Level Applications,Hard
+Stephanie Tucker,12,0,India,Maharashtra,Mumbai,0,0,1,2,Programming,84.26,2.49,115,0,-0.7528402614324936,0.9099472509896518,1,Advanced Topics,Medium
+Stephanie Andrews,16,0,Australia,New South Wales,Sydney,6,0,1,0,Geography,80.88,0.92,121,1,1.298065213740874,-1.2915214395866463,1,Advanced Topics,Medium
+Stephanie Brown,14,0,India,Karnataka,Mysore,2,0,0,2,Environmental Science,55.92,0.99,110,2,1.3039007387655872,-0.053266381278329604,0,Basic Concepts,Easy
+Karen Garcia,8,0,USA,California,San Francisco,3,2,2,2,Logical Reasoning,84.35,1.51,129,0,-0.6972472034036423,0.9233943296542192,2,Expert-Level Applications,Hard
+Robert Miller,17,0,India,Karnataka,Mysore,5,1,0,2,Artificial Intelligence Basics,86.81,2.69,114,2,-0.01583352163805005,0.5557019178661865,0,Basic Concepts,Easy
+Justin Wilson,6,0,UK,England,Manchester,2,2,0,1,Environmental Science,65.05,2.08,120,2,-0.17706605446914567,0.469156044439347,0,Basic Concepts,Easy
+Daniel Fox,12,0,India,Maharashtra,Pune,0,2,1,0,Reading & Writing,55.1,1.55,109,1,0.8889739876848048,-0.40377280555195877,1,Advanced Topics,Medium
+Sophia Brown,11,1,India,Maharashtra,Mumbai,3,0,0,0,Cyber Safety,92.48,0.79,92,2,-0.09587442663964156,-2.6562192387499293,0,Basic Concepts,Easy
+Daniel Sanchez,12,1,UK,Scotland,Edinburgh,0,0,2,2,Science,85.31,1.28,119,1,-0.3055734336501398,0.3533392327453882,2,Expert-Level Applications,Hard
+Sophia Tucker,17,1,India,Karnataka,Bangalore,2,1,2,2,Civics,60.92,2.18,105,1,0.2697685921016537,1.1521557488226029,2,Expert-Level Applications,Hard
+Emily Miller,12,1,India,Karnataka,Mysore,6,0,0,1,Geography,61.07,1.23,101,2,0.7431721971257642,-0.7565272007446248,0,Basic Concepts,Easy
+Justin Miller,14,1,USA,California,San Francisco,1,0,0,0,Cyber Safety,88.03,2.78,130,2,0.30754111753884844,-0.026272148285687944,0,Basic Concepts,Easy
+Daniel Sanchez,8,0,Australia,New South Wales,Newcastle,5,2,0,1,Health Education,71.79,1.83,105,2,-0.3390483729514763,-0.3478650493505572,0,Basic Concepts,Easy
+Jacqueline Garcia,4,1,Canada,Ontario,Ottawa,1,2,0,1,Economics,99.79,1.85,109,0,-1.6226406637553699,-0.8144494816723091,0,Basic Concepts,Easy
+Sophia Tucker,10,0,India,Karnataka,Mysore,5,0,2,0,Computer Science,75.06,1.68,118,1,-0.08895281182107057,-0.19452643762638,2,Expert-Level Applications,Hard
+William Wilson,12,2,UK,England,Manchester,1,1,0,2,Programming,57.39,0.67,103,2,0.98938887409341,-0.4834197354236593,0,Basic Concepts,Easy
+Stephanie Sanchez,9,0,USA,California,Los Angeles,5,0,2,0,Programming,56.0,0.86,135,1,1.1945260112413334,0.12080201688584961,2,Expert-Level Applications,Hard
+Sophia Tapia,12,0,Australia,New South Wales,Newcastle,5,0,0,0,Civics,49.34,1.27,84,2,0.8643296493731949,-1.4682927410194286,0,Basic Concepts,Easy
+Taylor Sanchez,10,0,Australia,New South Wales,Sydney,0,0,0,1,Reading & Writing,88.03,1.95,107,2,-0.5642495839837851,-0.6438722327461135,0,Basic Concepts,Easy
+Emily Garcia,15,1,Canada,Quebec,Montreal,3,0,0,2,Logical Reasoning,59.1,1.54,111,2,1.0754557611157463,0.301779676954493,0,Basic Concepts,Easy
+William Tucker,7,0,Australia,New South Wales,Sydney,3,0,1,0,Biology,89.52,0.67,96,2,-0.6546893120939479,-2.170918004837782,1,Advanced Topics,Medium
+Jacqueline Garcia,17,0,India,Karnataka,Bangalore,1,1,2,2,Science,73.98,1.56,133,1,0.8998649252525059,1.1147975235827297,2,Expert-Level Applications,Hard
+Emily Wilson,7,0,India,Karnataka,Bangalore,4,2,2,0,Cyber Safety,87.99,1.6,107,0,-1.1044608249806107,-0.8039541078839817,2,Expert-Level Applications,Hard
+Karen Miller,5,0,Canada,Ontario,Toronto,2,1,1,0,Geography,75.81,1.44,119,0,-0.36874449389628894,-0.5589672176137469,1,Advanced Topics,Medium
+Robert Brown,13,0,Australia,New South Wales,Sydney,3,1,1,2,Physics,90.88,2.66,108,0,-1.0756202761544942,0.6656415055419298,1,Advanced Topics,Medium
+Karen Sanchez,7,1,India,Karnataka,Mysore,0,1,1,1,English,75.17,1.05,93,0,-0.7177191474858795,-1.0403237032965187,1,Advanced Topics,Medium
+Robert Fox,9,0,Canada,Quebec,Quebec City,0,1,1,1,Logical Reasoning,40.94,1.16,119,2,1.1439773892712504,0.5474652714877156,1,Advanced Topics,Medium
+William Davis,17,0,Canada,Quebec,Montreal,0,0,0,2,Cyber Safety,73.07,1.32,117,2,1.197208675260388,-0.0944361444894204,0,Basic Concepts,Easy
+William Andrews,8,2,USA,New York,Buffalo,1,0,0,0,Logical Reasoning,56.96,1.49,98,2,0.32184697126142897,-1.0066208041727276,0,Basic Concepts,Easy
+Jacqueline Tucker,14,1,Australia,New South Wales,Sydney,4,0,0,0,Coding for Kids,51.05,2.92,96,2,0.4956028904196522,0.058047180245879994,0,Basic Concepts,Easy
+Justin Tapia,12,1,UK,Scotland,Glasgow,2,1,0,0,Physics,80.67,2.41,129,2,0.4280230700760058,-0.11521592680300452,0,Basic Concepts,Easy
+Daniel Sanchez,9,0,Australia,New South Wales,Sydney,5,0,1,1,Civics,66.14,2.67,121,0,-0.36091135120004525,1.1630703731078536,1,Advanced Topics,Medium
+Stephanie Davis,13,0,UK,England,Manchester,4,1,0,1,Critical Thinking,73.32,2.21,128,2,0.6523645416422968,0.42300185718341327,0,Basic Concepts,Easy
+William Fox,12,1,Canada,Quebec,Quebec City,0,2,1,2,Mathematics,75.21,2.75,122,0,-0.45268609715596203,1.5256591256316252,1,Advanced Topics,Medium
+Stephanie Tapia,13,1,Canada,Ontario,Ottawa,1,1,0,0,Coding for Kids,62.5,0.83,126,2,1.8731841595827445,-1.0082351053653353,0,Basic Concepts,Easy
+William Sanchez,8,1,India,Maharashtra,Pune,4,0,1,1,Artificial Intelligence Basics,40.64,2.92,125,0,0.22279169173739996,2.1149467678600447,1,Advanced Topics,Medium
+Daniel Andrews,7,0,USA,New York,Buffalo,3,2,2,1,Mathematics,82.41,2.22,113,0,-1.3353083756625919,0.5453320072606846,2,Expert-Level Applications,Hard
+Taylor Wilson,11,1,Canada,Ontario,Toronto,3,2,1,0,Economics,52.29,2.77,132,0,0.7469251960650087,1.2689467579855203,1,Advanced Topics,Medium
+Taylor Davis,16,0,India,Maharashtra,Pune,4,1,2,0,History,67.51,2.43,134,1,0.9375376549959956,0.8722521139823022,2,Expert-Level Applications,Hard
+William Miller,11,0,USA,Texas,Houston,3,1,2,2,Geography,52.11,2.2,127,1,0.24559378115595,2.1255949300629897,2,Expert-Level Applications,Hard
+Taylor Wilson,10,0,Australia,New South Wales,Sydney,1,0,0,0,Cyber Safety,88.42,1.42,127,2,0.40830940377728603,-1.0848442533817961,0,Basic Concepts,Easy
+Stephanie Sanchez,14,0,Canada,Quebec,Montreal,2,1,0,1,Chemistry,54.6,0.85,94,2,1.2375955607898426,-1.132834992811992,0,Basic Concepts,Easy
+Karen Miller,14,0,Australia,Victoria,Melbourne,3,2,1,0,Cyber Safety,57.15,1.68,128,1,1.4945260461281984,0.12025468736027381,1,Advanced Topics,Medium
+Taylor Davis,16,1,USA,New York,Buffalo,6,2,1,1,Mathematics,60.97,2.6,98,1,0.21489366965905748,0.4420088370096321,1,Advanced Topics,Medium
+Emily Davis,18,0,UK,Scotland,Edinburgh,4,0,1,2,Mathematics,43.34,1.88,109,1,1.450819874199549,1.1310523016165546,1,Advanced Topics,Medium
+Jacqueline Brown,9,1,Australia,Victoria,Geelong,3,2,0,1,Artificial Intelligence Basics,86.41,0.73,118,2,0.2700234252166626,-1.231425862336606,0,Basic Concepts,Easy
+Sophia Brown,16,1,USA,New York,New York City,5,1,0,0,Coding for Kids,45.76,1.11,113,2,2.307263016903787,-0.8059873304157399,0,Basic Concepts,Easy
+Taylor Tapia,5,1,India,Karnataka,Bangalore,3,1,2,1,Science,48.31,1.97,126,0,-0.1447441826036825,1.5873067299354204,2,Expert-Level Applications,Hard
+Robert Brown,15,2,Australia,Victoria,Melbourne,6,1,1,1,Reading & Writing,62.84,1.69,107,1,0.7310762438771893,-0.04389068823437105,1,Advanced Topics,Medium
+Taylor Garcia,7,0,Australia,New South Wales,Newcastle,1,0,1,1,Storytelling & Creative Writing,57.28,1.78,108,0,-0.21149072586084935,0.3770889827699183,1,Advanced Topics,Medium
+William Sanchez,7,0,UK,Scotland,Edinburgh,5,0,1,1,Biology,62.16,2.92,82,0,-1.6019633714493122,0.4356343699674336,1,Advanced Topics,Medium
+William Miller,8,0,Canada,Ontario,Toronto,1,1,2,2,Science,59.4,1.05,123,0,0.14070854531744786,1.0111613391361538,2,Expert-Level Applications,Hard
+Stephanie Garcia,13,1,Australia,Victoria,Geelong,4,0,0,2,Geography,42.52,2.43,101,2,0.574713527703656,1.175001930950231,0,Basic Concepts,Easy
+Robert Sanchez,11,0,India,Karnataka,Mysore,1,0,1,0,Artificial Intelligence Basics,82.35,0.77,128,2,0.8288652661361426,-1.1359281782891708,1,Advanced Topics,Medium
+Robert Davis,15,1,India,Karnataka,Mysore,2,1,1,2,Health Education,63.72,1.6,135,1,1.227064193783565,1.1952723123324898,1,Advanced Topics,Medium
+Jacqueline Tapia,5,1,Canada,Quebec,Quebec City,5,1,2,1,Physics,78.21,1.37,121,0,-0.8314100402767615,0.2508524285331495,2,Expert-Level Applications,Hard
+Justin Andrews,9,0,Canada,Quebec,Quebec City,4,1,1,0,Logical Reasoning,94.94,1.12,127,0,-0.026460129156283534,-1.151598126772728,1,Advanced Topics,Medium
+Daniel Andrews,8,1,USA,New York,Buffalo,0,2,0,0,Storytelling & Creative Writing,94.75,1.39,89,2,-0.9637534628705693,-2.2556255947961343,0,Basic Concepts,Easy
+Karen Fox,4,0,Canada,Quebec,Quebec City,5,2,2,1,Astronomy,74.8,2.56,112,0,-1.722649805503474,1.0396537241371864,2,Expert-Level Applications,Hard
+Jacqueline Tapia,12,0,Canada,Quebec,Quebec City,1,0,1,1,Health Education,77.95,1.31,122,2,0.44768650493570555,-0.22953551832161836,1,Advanced Topics,Medium
+Sophia Miller,18,0,India,Karnataka,Bangalore,3,1,0,0,Coding for Kids,92.61,0.73,114,2,1.418758873486163,-2.268434840376197,0,Basic Concepts,Easy
+Daniel Andrews,13,0,UK,England,London,2,0,2,2,Economics,49.92,2.85,132,1,0.35596508045413977,2.7760348660435117,2,Expert-Level Applications,Hard
+Jacqueline Garcia,12,1,Canada,Ontario,Ottawa,1,0,0,1,Biology,45.15,1.31,126,2,1.7834536441033795,0.3792412470873093,0,Basic Concepts,Easy
+Daniel Miller,14,0,Canada,Quebec,Quebec City,0,0,0,2,Logical Reasoning,44.84,2.45,114,2,0.9488595876815614,1.4659524289181856,0,Basic Concepts,Easy
+Stephanie Brown,17,1,India,Maharashtra,Pune,3,1,1,2,History,91.19,1.71,136,1,0.6502496897759105,0.589275612538422,1,Advanced Topics,Medium
+Taylor Garcia,5,1,Australia,New South Wales,Newcastle,6,1,0,1,Environmental Science,79.6,2.79,137,0,-0.707111926299691,1.1551628172207606,0,Basic Concepts,Easy
+Robert Sanchez,18,1,Canada,Quebec,Quebec City,1,2,0,2,Computer Science,66.42,0.81,129,2,2.0959686507809363,-0.024651264871949127,0,Basic Concepts,Easy
+Emily Andrews,12,1,UK,Scotland,Glasgow,1,2,0,0,Geography,70.44,2.9,129,2,0.4688029999551962,0.5172999376461085,0,Basic Concepts,Easy
+Robert Fox,9,1,Australia,New South Wales,Newcastle,3,1,2,1,Logical Reasoning,93.49,2.45,83,0,-2.2495772505748555,-0.41380757681868424,2,Expert-Level Applications,Hard
+Robert Miller,8,0,India,Maharashtra,Mumbai,4,2,2,0,Economics,82.33,2.14,96,0,-1.3594514218893692,-0.5685610479047436,2,Expert-Level Applications,Hard
+Jacqueline Tucker,12,1,UK,England,London,0,1,1,1,English,69.17,0.79,86,2,0.1049165021348297,-1.4048083493715657,1,Advanced Topics,Medium
+Jacqueline Garcia,15,1,Canada,Ontario,Toronto,1,2,2,1,Economics,95.16,2.41,117,1,-0.6330508491435556,0.30350785104836864,2,Expert-Level Applications,Hard
+Robert Andrews,9,1,Canada,Ontario,Ottawa,2,2,2,2,Geography,77.67,2.35,134,0,-0.6910096696716498,1.855322376710718,2,Expert-Level Applications,Hard
+Emily Tucker,13,1,USA,Texas,Houston,6,1,1,2,Health Education,43.44,1.81,92,1,0.39213740791426177,0.7261621099162339,1,Advanced Topics,Medium
+William Wilson,5,0,USA,New York,Buffalo,3,1,1,0,Critical Thinking,92.98,2.1,108,0,-1.4993052791746944,-0.7653020447473454,1,Advanced Topics,Medium
+Sophia Sanchez,16,0,UK,England,Manchester,1,2,0,2,Chemistry,87.31,0.81,107,2,0.6682729774321458,-1.0907709084140393,0,Basic Concepts,Easy
+Emily Tapia,11,0,Canada,Quebec,Quebec City,4,1,1,0,Science,92.29,1.87,94,0,-0.885776233243858,-1.4512173055568578,1,Advanced Topics,Medium
+Robert Wilson,17,0,India,Karnataka,Bangalore,2,2,0,0,Cyber Safety,83.42,2.98,125,2,0.6210230925220482,0.03551855619015899,0,Basic Concepts,Easy
+Justin Brown,8,1,India,Maharashtra,Mumbai,1,1,0,2,Artificial Intelligence Basics,83.55,1.19,132,2,0.1045404691120135,0.1687301776702108,0,Basic Concepts,Easy
+William Miller,8,1,Australia,New South Wales,Newcastle,0,2,0,0,English,54.34,2.96,100,2,-0.33796141297346877,0.2586485700977718,0,Basic Concepts,Easy
+Stephanie Tapia,15,0,Australia,New South Wales,Sydney,3,0,0,1,Reading & Writing,100.0,0.6,120,2,0.7987660822541366,-1.7512340207675854,0,Basic Concepts,Easy
+Stephanie Wilson,7,0,India,Maharashtra,Pune,4,1,2,2,Geography,90.64,1.38,105,0,-1.53663196487787,0.03508417445338369,2,Expert-Level Applications,Hard
+Sophia Sanchez,9,1,UK,Scotland,Glasgow,6,1,1,2,History,54.81,1.43,111,0,0.18191648767142296,0.7648704490941036,1,Advanced Topics,Medium
+Daniel Wilson,11,0,Canada,Ontario,Toronto,0,2,0,0,Logical Reasoning,48.16,1.47,85,2,0.6813144033858916,-1.232663650236655,0,Basic Concepts,Easy
+Robert Tucker,4,0,India,Karnataka,Bangalore,5,0,0,2,Geography,80.01,2.42,100,0,-1.77334710690852,0.43311662771544207,0,Basic Concepts,Easy
+Taylor Brown,6,1,UK,England,Manchester,0,1,1,0,Critical Thinking,90.81,1.75,103,0,-1.2347433345754604,-1.1453291936665226,1,Advanced Topics,Medium
+Stephanie Brown,12,1,Australia,Victoria,Melbourne,6,2,2,1,Astronomy,93.46,1.88,134,1,-0.28956230946524253,0.4669828900976204,2,Expert-Level Applications,Hard
+Robert Wilson,6,1,Canada,Ontario,Ottawa,1,1,0,0,Artificial Intelligence Basics,94.18,1.31,113,2,-0.5877102262663956,-1.6008218673333576,0,Basic Concepts,Easy
+William Garcia,4,1,India,Maharashtra,Mumbai,0,1,0,1,Health Education,44.22,1.96,92,2,-0.452155691087149,0.16639322983941965,0,Basic Concepts,Easy
+Taylor Tucker,10,0,UK,Scotland,Edinburgh,6,0,1,0,Artificial Intelligence Basics,61.56,2.65,139,0,0.5724946413919243,1.1633592063220124,1,Advanced Topics,Medium
+Justin Brown,13,1,India,Karnataka,Bangalore,2,1,2,2,Logical Reasoning,43.33,1.56,140,1,1.4368641828182773,2.150051982120277,2,Expert-Level Applications,Hard
+Emily Sanchez,13,0,Canada,Ontario,Ottawa,1,2,2,0,Mathematics,54.91,2.56,127,1,0.6634563531287624,1.1608186084152723,2,Expert-Level Applications,Hard
+William Tapia,13,0,Canada,Quebec,Montreal,0,0,0,2,Reading & Writing,45.83,1.48,105,2,1.0827523755225534,0.46249286148816043,0,Basic Concepts,Easy
+Jacqueline Garcia,5,0,USA,California,San Francisco,2,1,1,1,Storytelling & Creative Writing,59.67,1.97,103,0,-0.7771081334276809,0.37686729903382443,1,Advanced Topics,Medium
+Sophia Miller,12,1,UK,Scotland,Edinburgh,1,2,2,0,Environmental Science,58.72,2.24,101,1,-0.04980625085693667,0.13032271462480968,2,Expert-Level Applications,Hard
+Robert Garcia,12,1,India,Maharashtra,Pune,3,2,1,1,Coding for Kids,76.27,2.48,108,0,-0.4709814004577065,0.3411567700363616,1,Advanced Topics,Medium
+Daniel Wilson,6,0,UK,England,Manchester,3,1,0,2,Programming,72.02,1.76,127,2,-0.2522047720385064,0.8055439417888342,0,Basic Concepts,Easy
+Stephanie Wilson,6,0,Australia,New South Wales,Newcastle,6,2,1,0,Astronomy,59.82,2.86,80,0,-1.4737368796638723,-0.15025623661686585,1,Advanced Topics,Medium
+William Davis,10,0,UK,England,London,4,1,0,0,Computer Science,82.1,1.64,91,2,-0.4031289031936156,-1.7431991835622396,0,Basic Concepts,Easy
+Jacqueline Tapia,16,1,India,Karnataka,Mysore,1,2,0,0,Mathematics,99.85,2.11,135,2,0.7091911712880539,-0.7481729475974838,0,Basic Concepts,Easy
+Emily Miller,6,1,USA,New York,Buffalo,1,0,1,1,Astronomy,79.03,1.32,106,0,-0.7937744369911155,-0.545247522852362,1,Advanced Topics,Medium
+Emily Sanchez,11,0,Canada,Quebec,Quebec City,3,0,2,0,Chemistry,92.94,0.79,128,1,0.23786048649437277,-1.07614399993916,2,Expert-Level Applications,Hard
+Karen Davis,18,1,Australia,New South Wales,Sydney,5,2,2,1,Chemistry,41.16,1.47,115,1,1.8259555727245225,0.7670263796896774,2,Expert-Level Applications,Hard
+Stephanie Andrews,17,1,Australia,New South Wales,Sydney,6,2,2,1,Storytelling & Creative Writing,55.98,2.12,125,1,1.148728383349299,1.2081802176014373,2,Expert-Level Applications,Hard
+Robert Wilson,8,0,UK,Scotland,Edinburgh,2,2,2,1,Chemistry,69.95,1.03,80,0,-1.0018869467484837,-1.0037780389241786,2,Expert-Level Applications,Hard
+Sophia Sanchez,6,0,India,Maharashtra,Mumbai,4,1,0,2,Cyber Safety,77.04,0.61,80,2,-0.9357237022424691,-1.4996535306057073,0,Basic Concepts,Easy
+William Miller,18,1,USA,New York,New York City,1,1,0,0,Civics,93.79,0.73,136,2,1.922136343902395,-1.6956100094370832,0,Basic Concepts,Easy
+Daniel Fox,8,1,USA,New York,Buffalo,1,2,2,1,English,54.28,1.19,102,0,-0.08520673929109272,0.10621315439213048,2,Expert-Level Applications,Hard
+Justin Garcia,11,0,USA,Texas,Dallas,5,0,0,2,Reading & Writing,95.3,2.52,135,0,-0.4750560304745551,0.9302144735855477,0,Basic Concepts,Easy
+Stephanie Sanchez,17,0,Canada,Quebec,Quebec City,2,1,2,0,Physics,92.69,2.58,121,1,-0.07087458983207838,-0.005985686684772368,2,Expert-Level Applications,Hard
+Taylor Garcia,16,0,USA,California,San Francisco,5,1,0,1,Artificial Intelligence Basics,94.25,0.92,83,2,0.02793060265721487,-2.396320114936693,0,Basic Concepts,Easy
+Taylor Andrews,16,1,India,Karnataka,Bangalore,2,1,1,2,Reading & Writing,93.04,0.78,138,1,1.006440747033754,-0.10318359846465347,1,Advanced Topics,Medium
+Emily Wilson,10,1,Australia,New South Wales,Sydney,4,0,1,2,Geography,59.46,2.34,125,0,0.03547554003384978,1.7202550785816109,1,Advanced Topics,Medium
+Karen Tucker,12,0,India,Karnataka,Bangalore,3,1,0,1,English,53.71,2.67,120,2,0.6557214960661201,1.0663039173602136,0,Basic Concepts,Easy
+Sophia Tucker,12,0,Canada,Ontario,Ottawa,5,0,0,2,Coding for Kids,78.83,0.95,89,2,-0.1377370761173527,-1.1726687105676639,0,Basic Concepts,Easy
+Jacqueline Brown,17,1,UK,Scotland,Edinburgh,3,0,0,1,Economics,82.49,2.77,103,2,0.011348103150129598,-0.1421173040991824,0,Basic Concepts,Easy
+Sophia Fox,8,0,Canada,Quebec,Montreal,3,1,0,0,Coding for Kids,74.15,1.91,98,2,-0.41177028351562633,-1.0997683143683543,0,Basic Concepts,Easy
+Jacqueline Miller,17,0,UK,Scotland,Glasgow,2,0,0,1,English,67.22,1.08,113,2,1.6121431004312765,-0.8129261334302084,0,Basic Concepts,Easy
+William Tapia,8,0,Australia,New South Wales,Sydney,6,2,2,2,Programming,78.54,0.77,99,0,-0.8634585502729953,-0.3320417414677201,2,Expert-Level Applications,Hard
+Jacqueline Sanchez,10,0,Canada,Quebec,Quebec City,1,1,1,2,Reading & Writing,65.63,2.15,111,0,-0.38813427198763367,1.038169163943951,1,Advanced Topics,Medium
+Taylor Fox,10,0,India,Maharashtra,Pune,3,2,0,0,Storytelling & Creative Writing,84.24,0.92,96,2,0.040990346871467395,-2.2203475924558367,0,Basic Concepts,Easy
+Jacqueline Fox,14,0,India,Karnataka,Mysore,0,2,1,0,Artificial Intelligence Basics,98.85,0.63,108,1,0.3321673021443125,-2.2661960722237495,1,Advanced Topics,Medium
+Karen Davis,11,1,USA,Texas,Houston,3,2,0,2,Chemistry,98.44,2.82,139,0,-0.6306216621533027,1.1967364874858757,0,Basic Concepts,Easy
+William Sanchez,11,1,Canada,Quebec,Quebec City,2,1,1,2,Chemistry,73.7,2.22,138,0,0.1315862179190513,1.6102928021437453,1,Advanced Topics,Medium
+Taylor Andrews,7,1,Australia,New South Wales,Sydney,1,1,0,1,Coding for Kids,53.7,0.54,100,2,0.6288044031270155,-1.024531343893496,0,Basic Concepts,Easy
+Justin Davis,11,0,Canada,Quebec,Montreal,1,2,1,2,Computer Science,76.06,2.0,90,0,-0.9951117904418176,0.06814905170615282,1,Advanced Topics,Medium
+Justin Garcia,16,1,Australia,New South Wales,Sydney,3,2,2,0,Chemistry,44.26,1.93,130,1,1.795494539215483,0.9419182184268234,2,Expert-Level Applications,Hard
+Sophia Sanchez,14,1,UK,Scotland,Edinburgh,0,0,2,1,Cyber Safety,53.16,1.81,134,1,1.2119464946121719,1.351841680186309,2,Expert-Level Applications,Hard
+Justin Tapia,7,0,USA,California,San Francisco,2,2,2,0,Mathematics,84.43,0.86,123,0,-0.21172271477222265,-0.8563480509244418,2,Expert-Level Applications,Hard
+Stephanie Tapia,6,1,UK,Scotland,Glasgow,5,0,0,0,Astronomy,71.69,2.85,115,0,-0.6966589457311005,0.20533395915942995,0,Basic Concepts,Easy
+Stephanie Miller,5,1,Canada,Quebec,Quebec City,6,1,0,1,Reading & Writing,67.67,2.68,125,0,-0.5886789823354384,1.0331441079843195,0,Basic Concepts,Easy
+Jacqueline Andrews,18,1,Canada,Ontario,Ottawa,4,1,2,1,Artificial Intelligence Basics,88.78,0.84,91,1,0.16578207835921965,-1.5461532677105179,2,Expert-Level Applications,Hard
+Emily Miller,15,1,India,Karnataka,Bangalore,2,1,2,1,Environmental Science,77.97,2.5,83,1,-1.0041783359450662,-0.13550344278341345,2,Expert-Level Applications,Hard
+Sophia Wilson,9,1,UK,England,London,3,2,0,0,Cyber Safety,87.08,2.03,91,2,-0.894628860163121,-1.5374983359205323,0,Basic Concepts,Easy
+Stephanie Davis,4,0,USA,New York,New York City,3,2,1,2,English,40.11,1.67,114,0,-0.11501861044068257,1.510963388648278,1,Advanced Topics,Medium
+Taylor Miller,6,1,UK,England,Manchester,2,2,2,0,Biology,64.51,2.09,93,0,-1.1493827280667477,-0.20664274212672434,2,Expert-Level Applications,Hard
+Taylor Brown,5,1,Canada,Quebec,Quebec City,1,2,1,0,Reading & Writing,64.36,1.16,112,0,-0.05124427395540397,-0.6885648474849824,1,Advanced Topics,Medium
+Jacqueline Garcia,18,1,Australia,New South Wales,Sydney,4,0,1,2,Physics,65.2,2.39,108,1,0.5063242820187349,0.9664528140021819,1,Advanced Topics,Medium
+Karen Davis,18,0,India,Karnataka,Bangalore,0,1,1,0,Economics,78.72,2.38,101,1,0.3625500289216912,-0.6938540056995605,1,Advanced Topics,Medium
+Daniel Brown,17,1,India,Karnataka,Bangalore,2,2,2,1,Logical Reasoning,48.61,0.78,114,1,1.8145589961827209,0.04263870333248622,2,Expert-Level Applications,Hard
+Sophia Sanchez,11,1,USA,Texas,Dallas,5,1,2,2,Logical Reasoning,88.6,2.17,88,0,-1.773025637377987,0.14249350227034413,2,Expert-Level Applications,Hard
+Emily Miller,17,1,UK,Scotland,Edinburgh,4,2,1,0,Health Education,73.91,0.53,95,1,1.2122945148873863,-2.159624073077927,1,Advanced Topics,Medium
+Justin Fox,11,1,India,Karnataka,Mysore,4,2,0,2,Logical Reasoning,84.31,2.43,116,2,-0.5664343260461434,0.6093371220015341,0,Basic Concepts,Easy
+Emily Andrews,9,0,USA,California,Los Angeles,3,1,1,0,Logical Reasoning,56.45,0.65,130,2,1.437951428562891,-0.4941037250476503,1,Advanced Topics,Medium
+Emily Fox,16,1,India,Karnataka,Bangalore,5,2,2,1,Artificial Intelligence Basics,78.16,2.81,83,1,-1.0401869205676255,0.0781938511003799,2,Expert-Level Applications,Hard
+Taylor Garcia,6,1,Canada,Quebec,Montreal,1,0,0,2,Astronomy,90.36,2.53,92,0,-2.0634987336500084,-4.080728179907268e-05,0,Basic Concepts,Easy
+Robert Sanchez,16,0,UK,Scotland,Glasgow,4,2,0,0,Computer Science,66.79,2.02,117,2,1.2957218557320116,-0.5015641393076504,0,Basic Concepts,Easy
+Emily Wilson,12,1,Australia,New South Wales,Sydney,1,2,1,2,Artificial Intelligence Basics,55.75,1.83,130,1,0.811346274367314,1.5032152724287797,1,Advanced Topics,Medium
+Sophia Davis,7,0,India,Maharashtra,Mumbai,1,0,0,0,English,91.97,2.76,85,0,-1.8475856718011137,-1.2051105323623306,0,Basic Concepts,Easy
+Justin Andrews,14,0,Canada,Ontario,Toronto,5,0,1,2,Programming,98.89,2.85,118,0,-1.0342828202634957,0.8678681489157443,1,Advanced Topics,Medium
+Karen Garcia,11,0,UK,England,Manchester,1,1,1,2,Computer Science,47.7,1.16,124,2,1.1258253850964375,1.0370179951800662,1,Advanced Topics,Medium
+Emily Garcia,16,1,USA,California,San Francisco,2,1,0,2,Environmental Science,40.31,1.68,129,2,2.1327736173706153,1.339709797188046,0,Basic Concepts,Easy
+Karen Fox,12,1,UK,England,Manchester,5,1,0,2,Astronomy,66.05,2.22,115,2,0.19750212632176561,0.8416790499037764,0,Basic Concepts,Easy
+Emily Fox,6,1,Australia,New South Wales,Sydney,6,1,2,2,English,56.1,1.49,84,0,-1.2221095972772322,0.41526349869030654,2,Expert-Level Applications,Hard
+Emily Brown,17,0,Canada,Quebec,Quebec City,4,2,2,0,Computer Science,77.83,2.64,119,1,0.28806233010304166,0.34978788864676735,2,Expert-Level Applications,Hard
+Jacqueline Andrews,13,1,USA,Texas,Houston,0,0,2,2,Geography,97.67,1.19,105,1,-0.830506395321144,-0.4256702266531398,2,Expert-Level Applications,Hard
+Daniel Andrews,11,0,Canada,Quebec,Montreal,2,2,1,1,History,50.45,1.23,97,2,0.557528823431548,-0.2792325233802582,1,Advanced Topics,Medium
+Taylor Miller,4,0,Australia,New South Wales,Sydney,4,0,0,1,Astronomy,41.46,2.38,119,2,0.06555769956570084,1.2999520759745085,0,Basic Concepts,Easy
+Sophia Miller,5,1,USA,New York,New York City,1,2,1,2,Coding for Kids,45.75,2.25,116,0,-0.4078767971572275,1.8565510551574702,1,Advanced Topics,Medium
+Karen Tapia,14,0,UK,England,Manchester,2,1,1,0,Computer Science,45.1,1.55,116,1,1.6272101087101638,-0.014425098823252668,1,Advanced Topics,Medium
+Jacqueline Andrews,10,1,Canada,Quebec,Quebec City,6,2,2,1,History,92.22,2.62,91,0,-1.971720568557287,-0.05476267913081815,2,Expert-Level Applications,Hard
+Daniel Wilson,16,2,India,Maharashtra,Mumbai,5,2,2,0,Coding for Kids,64.3,0.67,121,1,1.655925188827453,-0.7773571155330642,2,Expert-Level Applications,Hard
+Karen Brown,15,0,Australia,New South Wales,Sydney,2,0,0,1,English,74.42,1.32,98,2,0.632679145723082,-1.1653735634695326,0,Basic Concepts,Easy
+Jacqueline Miller,16,0,USA,Texas,Houston,4,1,1,2,Geography,46.72,2.73,85,1,0.0379422363078021,1.1016798929088458,1,Advanced Topics,Medium
+Emily Wilson,16,1,India,Maharashtra,Pune,3,0,2,1,Computer Science,49.5,1.8,90,1,0.5199086220838393,0.1833677766680206,2,Expert-Level Applications,Hard
+Stephanie Wilson,6,0,Canada,Ontario,Toronto,4,1,2,0,Computer Science,82.72,1.35,135,0,-0.2650126565182975,-0.08072596229987479,2,Expert-Level Applications,Hard
+Jacqueline Sanchez,7,1,UK,Scotland,Glasgow,0,2,0,2,History,78.7,1.92,123,2,-0.49800562436420315,0.6340213342730545,0,Basic Concepts,Easy
+Karen Sanchez,17,1,Canada,Quebec,Montreal,0,1,1,0,History,99.36,1.64,127,1,0.6480331307792939,-1.0415907049555753,1,Advanced Topics,Medium
+Robert Fox,13,0,Canada,Ontario,Ottawa,2,0,1,1,Environmental Science,93.39,1.66,80,1,-1.0889259133781037,-1.5065746707145868,1,Advanced Topics,Medium
+Robert Brown,14,1,Canada,Ontario,Toronto,3,0,2,0,Science,73.92,1.5,107,1,0.3136826067516389,-0.7015419832761269,2,Expert-Level Applications,Hard
+Karen Garcia,4,0,Australia,New South Wales,Newcastle,2,2,1,0,Reading & Writing,69.57,2.52,87,0,-1.6801378739027393,-0.41574782529498655,1,Advanced Topics,Medium
+Emily Brown,16,0,Canada,Ontario,Toronto,3,0,1,1,Civics,83.67,1.48,119,1,0.6557457963341858,-0.4126759282925471,1,Advanced Topics,Medium
+Karen Brown,16,1,Australia,New South Wales,Newcastle,4,1,0,2,Reading & Writing,64.61,1.94,139,2,1.5189202210506818,1.221272151931125,0,Basic Concepts,Easy
+Emily Sanchez,16,0,UK,England,Manchester,5,2,0,0,Artificial Intelligence Basics,72.69,1.86,103,2,0.8640587941215383,-1.153645244473013,0,Basic Concepts,Easy
+Jacqueline Tapia,8,0,Canada,Ontario,Ottawa,1,1,0,1,Science,85.1,1.33,139,2,0.3662698638228426,-0.13365308725986857,0,Basic Concepts,Easy
+Sophia Brown,11,0,Canada,Quebec,Montreal,2,0,0,1,Biology,90.2,0.84,82,2,-0.511029718882271,-2.26984033124931,0,Basic Concepts,Easy
+William Davis,7,0,Australia,Victoria,Melbourne,2,0,1,2,Economics,90.57,1.93,132,0,-0.9013395015921672,0.9008317140978999,1,Advanced Topics,Medium
+Emily Tapia,8,0,USA,New York,Buffalo,1,2,2,2,Artificial Intelligence Basics,58.05,1.43,81,0,-1.0502782955138572,0.1918541723445454,2,Expert-Level Applications,Hard
+Sophia Wilson,7,0,UK,Scotland,Glasgow,1,2,2,1,Critical Thinking,66.78,1.66,98,0,-0.940024161582649,0.08086230312149004,2,Expert-Level Applications,Hard
+Daniel Davis,16,0,UK,Scotland,Edinburgh,5,0,2,1,Geography,59.53,0.73,115,1,1.407019120936653,-0.2128388657293134,2,Expert-Level Applications,Hard
+Justin Fox,4,1,Canada,Quebec,Quebec City,2,1,1,2,Reading & Writing,60.39,1.19,100,0,-0.8012679561734015,0.25738269001352815,1,Advanced Topics,Medium
+Stephanie Garcia,15,0,Australia,Victoria,Melbourne,2,1,1,1,History,67.48,2.02,106,1,0.392707682296969,0.07256669161402662,1,Advanced Topics,Medium
+Sophia Wilson,16,0,India,Maharashtra,Mumbai,2,0,0,0,Computer Science,70.73,0.93,110,2,1.590838104499197,-1.6395291178609623,0,Basic Concepts,Easy
+Robert Tucker,14,0,UK,England,London,1,2,1,2,Coding for Kids,61.47,0.77,90,1,0.5011200271649897,-0.6043130948973042,1,Advanced Topics,Medium
+Jacqueline Wilson,14,1,Australia,New South Wales,Newcastle,4,2,0,2,Health Education,54.55,0.55,86,2,0.9925715343383484,-1.0192959803252533,0,Basic Concepts,Easy
+Daniel Sanchez,10,0,Canada,Quebec,Montreal,4,0,1,0,Computer Science,50.7,1.8,95,2,0.2720781448072988,-0.437175426305843,1,Advanced Topics,Medium
+Karen Garcia,4,1,USA,Texas,Dallas,4,2,1,1,Chemistry,52.63,2.1,84,0,-1.2385558015329359,0.15431637868688547,1,Advanced Topics,Medium
+Jacqueline Wilson,9,0,Canada,Quebec,Montreal,0,1,0,0,Health Education,79.11,0.91,81,2,-0.30424508544726797,-2.4894281997668894,0,Basic Concepts,Easy
+Stephanie Tapia,13,1,USA,Texas,Dallas,2,1,0,0,Health Education,74.6,1.18,88,2,0.39789751255639844,-2.070710594316892,0,Basic Concepts,Easy
+Daniel Garcia,12,0,UK,Scotland,Glasgow,5,1,1,1,Civics,74.72,0.91,139,2,1.1732534654293783,0.0025091601855825848,1,Advanced Topics,Medium
+Stephanie Sanchez,5,0,Canada,Quebec,Quebec City,4,0,1,2,Computer Science,62.91,1.38,124,0,-0.2548209271135237,0.9768727655298296,1,Advanced Topics,Medium
+Karen Andrews,7,1,Australia,Victoria,Melbourne,3,1,2,2,Cyber Safety,91.18,2.88,120,0,-1.9879528219058291,1.601965634419156,2,Expert-Level Applications,Hard
+Daniel Wilson,6,1,USA,Texas,Houston,0,1,0,1,Reading & Writing,83.79,2.72,97,0,-1.6370386656852904,-0.11940263435688445,0,Basic Concepts,Easy
+Emily Fox,5,0,UK,Scotland,Glasgow,4,2,2,1,Computer Science,64.02,1.72,123,0,-0.5495588320591632,0.9257992518793036,2,Expert-Level Applications,Hard
+Sophia Andrews,5,0,Australia,Victoria,Melbourne,0,1,1,0,Civics,94.51,2.31,112,0,-1.5590607252488236,-0.5295679490304874,1,Advanced Topics,Medium
+Robert Davis,6,0,Canada,Ontario,Ottawa,4,0,2,1,Science,76.86,1.64,90,0,-1.55896049578918,-0.376811995127023,2,Expert-Level Applications,Hard
+Emily Garcia,5,1,India,Karnataka,Bangalore,4,0,2,0,Physics,84.72,0.66,100,0,-0.9469882416051775,-1.6016376075385077,2,Expert-Level Applications,Hard
+Stephanie Brown,7,1,Canada,Ontario,Toronto,1,0,2,2,Physics,58.05,2.66,122,0,-0.8404344935295688,2.2959045907331723,2,Expert-Level Applications,Hard
+Jacqueline Garcia,18,0,Australia,Victoria,Melbourne,5,0,2,2,Biology,80.83,1.65,80,1,-0.5124986229191285,-0.45563700083023834,2,Expert-Level Applications,Hard
+Jacqueline Fox,9,1,India,Karnataka,Bangalore,0,1,2,1,Biology,43.82,1.13,117,1,0.7590551812587004,0.7022470007524362,2,Expert-Level Applications,Hard
+Sophia Davis,18,1,USA,Texas,Dallas,6,1,2,2,Science,50.25,2.98,116,1,0.5623499671705048,2.3146393153873697,2,Expert-Level Applications,Hard
+Sophia Fox,11,0,India,Karnataka,Mysore,4,1,0,0,Cyber Safety,74.31,2.36,137,2,0.7033847167181895,0.24366438807535737,0,Basic Concepts,Easy
+Taylor Miller,8,2,USA,New York,Buffalo,0,1,1,1,History,41.42,0.75,107,2,0.920013822208662,-0.08882120073216056,1,Advanced Topics,Medium
+Daniel Fox,14,0,USA,New York,New York City,3,1,1,0,Programming,87.79,1.19,110,1,0.4090155182286515,-1.5040738806590248,1,Advanced Topics,Medium
+Sophia Wilson,5,1,UK,Scotland,Glasgow,2,2,2,1,Programming,70.9,2.14,86,0,-1.883268586646243,0.07301974040766636,2,Expert-Level Applications,Hard
+Stephanie Tucker,13,1,USA,New York,Buffalo,6,0,2,0,Health Education,52.03,2.51,107,1,0.2860950234031495,0.6453047075931468,2,Expert-Level Applications,Hard
+Jacqueline Wilson,7,0,India,Karnataka,Bangalore,1,0,0,0,Environmental Science,92.96,1.73,134,2,-0.1269665717578929,-0.6924742605347342,0,Basic Concepts,Easy
+Emily Sanchez,17,1,USA,New York,New York City,0,0,2,2,Artificial Intelligence Basics,90.66,2.12,95,1,-0.8233557607726321,0.10401044423880924,2,Expert-Level Applications,Hard
+Robert Sanchez,6,1,India,Karnataka,Bangalore,5,0,2,1,Civics,96.98,1.67,100,0,-1.9260246961271446,-0.5723254845094836,2,Expert-Level Applications,Hard
+Sophia Sanchez,8,0,Australia,Victoria,Geelong,0,2,0,0,Economics,50.73,1.53,112,2,0.8274697733522774,-0.44005092886799035,0,Basic Concepts,Easy
+William Wilson,15,0,Australia,Victoria,Melbourne,3,1,2,0,Reading & Writing,58.14,2.12,112,1,0.707029717425955,0.2815201056335156,2,Expert-Level Applications,Hard
+Jacqueline Miller,7,0,India,Maharashtra,Pune,0,0,2,1,Physics,63.7,2.46,87,0,-1.5459181024304935,0.4793067091723904,2,Expert-Level Applications,Hard
+Stephanie Sanchez,13,1,USA,Texas,Houston,6,1,1,2,Civics,61.35,1.98,133,1,0.7741526259741927,1.5417765986459686,1,Advanced Topics,Medium
+Sophia Brown,4,0,USA,New York,Buffalo,4,0,2,2,History,51.41,2.65,125,0,-0.9714013800268917,2.602923708042199,2,Expert-Level Applications,Hard
+Taylor Miller,9,1,Canada,Ontario,Ottawa,0,2,0,0,Health Education,91.49,2.22,89,2,-1.1757690778250043,-1.551947667133749,0,Basic Concepts,Easy
+Justin Brown,6,1,Canada,Quebec,Montreal,0,1,1,1,Biology,48.01,0.55,134,2,1.2216622538296382,0.3792133284736922,1,Advanced Topics,Medium
+Taylor Andrews,12,1,Canada,Quebec,Quebec City,2,0,0,0,Chemistry,65.63,2.71,132,2,0.786255104131862,0.5688889507338979,0,Basic Concepts,Easy
+Jacqueline Fox,5,0,USA,California,San Francisco,3,1,2,0,Coding for Kids,74.7,0.87,138,0,0.16716483584099048,-0.15332554543270113,2,Expert-Level Applications,Hard
+Robert Brown,11,0,Canada,Quebec,Montreal,6,0,2,1,Artificial Intelligence Basics,79.23,0.71,106,1,-0.06296746665362282,-0.8396186126488117,2,Expert-Level Applications,Hard
+Robert Miller,11,0,Australia,New South Wales,Sydney,4,0,1,1,Geography,67.51,2.22,137,0,0.5016152979679463,1.1693495656360708,1,Advanced Topics,Medium
+Daniel Davis,16,0,India,Maharashtra,Mumbai,4,2,2,1,English,58.3,1.33,115,1,1.1224903598952858,0.28520172550449846,2,Expert-Level Applications,Hard
+Daniel Andrews,11,0,Canada,Quebec,Montreal,2,1,2,0,Science,46.78,2.58,139,1,0.9162160945892671,1.7504315268066895,2,Expert-Level Applications,Hard
+Karen Fox,8,1,Canada,Quebec,Montreal,1,0,1,1,Economics,69.54,2.33,87,0,-1.2470873400237314,-0.09179061431443372,1,Advanced Topics,Medium
+Taylor Davis,11,0,UK,England,London,0,2,0,1,Programming,71.33,1.77,120,2,0.4800154243393895,-0.043410019802908144,0,Basic Concepts,Easy
+Stephanie Miller,15,0,UK,Scotland,Edinburgh,1,2,2,2,Computer Science,64.86,0.95,102,1,0.4667695660231384,0.06124714483337952,2,Expert-Level Applications,Hard
+Emily Wilson,17,1,UK,Scotland,Edinburgh,4,1,0,1,Physics,73.14,0.71,119,2,1.7815958146630233,-1.0822714441585113,0,Basic Concepts,Easy
+Justin Brown,6,0,UK,Scotland,Edinburgh,1,2,1,0,Physics,63.41,2.81,139,0,-0.10962121208088307,1.3365485138809607,1,Advanced Topics,Medium
+Daniel Brown,11,1,USA,California,San Francisco,2,2,0,2,Science,65.19,0.91,98,2,0.37228777031475785,-0.600470249299887,0,Basic Concepts,Easy
+William Fox,5,2,Canada,Ontario,Ottawa,0,1,2,0,Chemistry,57.58,1.99,120,0,-0.365491284909319,0.6468461417813762,2,Expert-Level Applications,Hard
+William Miller,11,1,Canada,Quebec,Montreal,5,1,2,2,Biology,44.93,2.63,88,1,-0.7261196373324765,1.5700151605399868,2,Expert-Level Applications,Hard
+Karen Wilson,7,0,USA,Texas,Houston,2,2,0,1,Civics,91.98,0.57,125,2,0.09109843687541817,-1.2542357569092246,0,Basic Concepts,Easy
+Emily Miller,16,1,USA,California,San Francisco,2,2,2,2,Computer Science,85.17,0.98,82,1,-0.5045462239328556,-0.9828422269513176,2,Expert-Level Applications,Hard
+Emily Wilson,11,0,UK,England,Manchester,4,1,1,2,Health Education,76.99,1.6,97,0,-0.637400914060442,-0.07511889086184681,1,Advanced Topics,Medium
+Emily Davis,8,0,India,Maharashtra,Pune,2,1,1,2,Chemistry,58.7,1.66,112,0,-0.16725669084414488,0.8998144466026985,1,Advanced Topics,Medium
+Emily Brown,4,0,USA,New York,New York City,1,0,0,1,Reading & Writing,54.36,2.83,86,0,-1.364561868736796,0.43263809910085427,0,Basic Concepts,Easy
+Sophia Miller,14,0,Canada,Ontario,Ottawa,4,1,2,2,Storytelling & Creative Writing,68.69,2.91,133,1,-0.07195666238472516,2.3673856817895604,2,Expert-Level Applications,Hard
+Jacqueline Andrews,12,0,India,Maharashtra,Pune,4,0,1,0,Programming,54.89,2.92,123,1,0.5049283340125397,1.052727265270115,1,Advanced Topics,Medium
+Justin Wilson,16,1,USA,Texas,Dallas,0,2,1,0,Storytelling & Creative Writing,73.3,2.35,126,1,0.8799135435041472,0.14599247766201093,1,Advanced Topics,Medium
+William Andrews,16,0,Australia,Victoria,Geelong,4,2,2,0,Logical Reasoning,60.01,1.84,84,1,0.2517498684091815,-0.7718423508453155,2,Expert-Level Applications,Hard
+Daniel Wilson,5,1,Canada,Ontario,Toronto,5,0,1,1,English,98.62,2.95,89,0,-2.7971006378654613,-0.19498978924601057,1,Advanced Topics,Medium
+Sophia Tucker,10,0,Canada,Ontario,Toronto,6,0,2,0,Science,82.08,0.65,87,1,-0.504374779789478,-2.0174810501604155,2,Expert-Level Applications,Hard
+Sophia Brown,9,1,UK,Scotland,Glasgow,1,1,1,2,Artificial Intelligence Basics,45.75,1.17,93,2,0.1487990647965304,0.29152651406089813,1,Advanced Topics,Medium
+Taylor Brown,13,1,UK,England,London,5,2,2,2,Reading & Writing,61.05,1.08,84,1,-0.20128090183411365,-0.18958327337911712,2,Expert-Level Applications,Hard
+Jacqueline Wilson,12,1,India,Karnataka,Mysore,0,1,1,0,Logical Reasoning,67.64,2.23,97,1,-0.13967056730713237,-0.5085463501328285,1,Advanced Topics,Medium
+Stephanie Garcia,4,0,UK,Scotland,Edinburgh,4,2,0,2,Logical Reasoning,68.36,1.35,123,2,-0.29328111657686484,0.5128008488612446,0,Basic Concepts,Easy
+Taylor Wilson,18,1,India,Maharashtra,Pune,6,1,2,0,Biology,98.14,2.26,136,1,0.4414067770646244,-0.002102507486938516,2,Expert-Level Applications,Hard
+Justin Sanchez,7,0,Canada,Ontario,Ottawa,0,0,0,2,Logical Reasoning,41.81,1.84,121,2,0.5880745625022528,1.4197664419858242,0,Basic Concepts,Easy
+Stephanie Sanchez,13,0,Canada,Quebec,Quebec City,4,2,2,1,Health Education,45.38,1.08,117,1,1.2813689313822134,0.5313907638644787,2,Expert-Level Applications,Hard
+Emily Tucker,10,1,USA,Texas,Houston,1,0,0,1,Chemistry,66.25,2.9,109,2,-0.3786226829697663,0.6847683244307786,0,Basic Concepts,Easy
+Robert Tapia,13,0,UK,Scotland,Edinburgh,3,0,2,0,Cyber Safety,88.04,2.78,90,1,-1.340471343873527,-0.4903765096790465,2,Expert-Level Applications,Hard
+Emily Fox,15,0,Australia,New South Wales,Newcastle,6,1,0,2,Science,78.13,0.93,136,2,1.4500389921467314,0.0440615134903083,0,Basic Concepts,Easy
+Justin Andrews,18,1,Canada,Ontario,Toronto,3,2,1,2,Coding for Kids,76.15,2.61,111,1,0.13784712811049896,0.952092835866995,1,Advanced Topics,Medium
+Justin Miller,16,0,India,Maharashtra,Pune,1,2,1,0,Cyber Safety,48.09,1.13,96,1,1.5448469015417032,-1.0090028496709178,1,Advanced Topics,Medium
+Robert Davis,10,1,Australia,New South Wales,Sydney,4,1,2,1,Environmental Science,74.04,1.65,93,1,-0.865653472385501,-0.3116288290102106,2,Expert-Level Applications,Hard
+Stephanie Davis,9,0,Canada,Quebec,Montreal,2,2,1,2,Astronomy,91.12,1.69,134,0,-0.46942949882242757,0.7080551801416636,1,Advanced Topics,Medium
+Taylor Wilson,10,1,USA,New York,New York City,3,1,2,2,Astronomy,81.6,2.48,112,0,-1.2797813683187498,1.2354025597760379,2,Expert-Level Applications,Hard
+Karen Miller,15,1,USA,New York,New York City,0,0,2,2,Cyber Safety,88.85,0.66,106,1,0.009482117670120598,-0.6426477288057862,2,Expert-Level Applications,Hard
+William Brown,8,1,India,Maharashtra,Pune,6,1,2,1,Chemistry,61.89,0.65,131,0,0.6879271363632764,0.29197883682790676,2,Expert-Level Applications,Hard
+Robert Tapia,10,1,Australia,New South Wales,Newcastle,0,0,1,2,Coding for Kids,72.8,2.64,126,0,-0.49549431794083154,1.6550941658248381,1,Advanced Topics,Medium
+Stephanie Tapia,6,0,Canada,Quebec,Montreal,0,1,1,1,Health Education,44.84,0.54,92,2,0.293176264409197,-0.699711196356899,1,Advanced Topics,Medium
+Justin Davis,14,0,UK,Scotland,Edinburgh,5,0,2,0,Geography,90.23,1.29,96,1,-0.3260437354381378,-1.5653392710863352,2,Expert-Level Applications,Hard
+Karen Tapia,9,1,Canada,Ontario,Ottawa,4,2,1,0,Mathematics,59.1,2.51,115,0,-0.002474355765526333,0.4813955266676484,1,Advanced Topics,Medium
+William Brown,4,1,India,Karnataka,Bangalore,6,1,0,0,Biology,69.62,2.99,80,0,-1.837546036785386,-0.545234837903808,0,Basic Concepts,Easy
+Daniel Fox,8,0,USA,New York,Buffalo,1,2,1,1,Critical Thinking,43.35,0.77,122,2,1.219205500609365,0.2897950031256417,1,Advanced Topics,Medium
+Robert Fox,4,0,Canada,Quebec,Quebec City,4,1,2,1,Health Education,96.5,2.51,104,0,-2.534140329402987,0.250776803058714,2,Expert-Level Applications,Hard
+Robert Tapia,18,1,USA,California,Los Angeles,2,2,1,2,Storytelling & Creative Writing,92.89,1.35,133,1,0.8545169310763426,0.16143638252952178,1,Advanced Topics,Medium
+William Davis,14,1,UK,England,London,0,1,2,1,Cyber Safety,70.91,1.17,138,1,1.1266291627748584,0.5276993452485064,2,Expert-Level Applications,Hard
+Robert Sanchez,6,1,Australia,New South Wales,Sydney,5,2,0,2,Computer Science,71.58,0.62,102,2,-0.2411007469978012,-0.7565239386459733,0,Basic Concepts,Easy
+Taylor Miller,13,0,USA,New York,New York City,5,1,0,1,Science,93.06,2.65,92,2,-1.0483285525050292,-0.7015621617753105,0,Basic Concepts,Easy
+Emily Garcia,15,1,USA,California,San Francisco,6,2,2,2,Critical Thinking,55.3,2.25,88,1,-0.2881286339333255,0.9261792344306502,2,Expert-Level Applications,Hard
+Robert Tapia,5,0,USA,Texas,Dallas,4,2,1,0,Critical Thinking,87.53,1.17,114,0,-0.6936642192380766,-1.1931226558743249,1,Advanced Topics,Medium
+Jacqueline Brown,16,1,Canada,Ontario,Ottawa,3,1,2,2,Artificial Intelligence Basics,92.74,2.6,92,1,-1.3505420610964858,0.36882536007367567,2,Expert-Level Applications,Hard
+Sophia Tapia,6,1,Canada,Ontario,Ottawa,3,0,1,1,Economics,52.03,2.67,82,0,-1.303749671841965,0.5120000818853271,1,Advanced Topics,Medium
+Justin Andrews,4,0,Canada,Quebec,Quebec City,0,0,2,1,English,43.81,2.53,109,0,-0.8624689180414435,1.6926482666349192,2,Expert-Level Applications,Hard
+Daniel Sanchez,6,1,Canada,Ontario,Toronto,6,2,1,2,Storytelling & Creative Writing,94.55,0.97,131,0,-0.6655718825181308,0.05079596338969666,1,Advanced Topics,Medium
+Karen Sanchez,12,0,UK,Scotland,Glasgow,0,1,2,0,Civics,40.11,1.7,80,1,0.2761974274203462,-0.40971829873877214,2,Expert-Level Applications,Hard
+Daniel Davis,7,0,UK,Scotland,Glasgow,1,1,1,1,Environmental Science,45.16,2.69,103,0,-0.46175888476335547,1.2466658845598546,1,Advanced Topics,Medium
+Daniel Brown,16,1,Canada,Ontario,Toronto,1,0,1,0,Physics,73.24,0.57,108,1,1.3933910878489033,-1.733057919163567,1,Advanced Topics,Medium
+Jacqueline Miller,15,0,Australia,New South Wales,Newcastle,5,1,1,1,Critical Thinking,67.56,1.39,92,1,0.3847687637866094,-0.803628428130047,1,Advanced Topics,Medium
+William Fox,13,1,UK,England,Manchester,5,0,1,2,Civics,61.33,2.16,111,1,0.14014647851630857,1.0809435590658816,1,Advanced Topics,Medium
+Taylor Andrews,12,1,India,Karnataka,Bangalore,4,0,1,0,Civics,55.29,0.84,112,2,1.3365413134750177,-0.8800987613096218,1,Advanced Topics,Medium
+Robert Miller,12,1,USA,New York,Buffalo,0,0,1,2,Environmental Science,90.19,1.56,138,0,0.13183636441722155,0.6685681920429536,1,Advanced Topics,Medium
+William Fox,10,0,UK,England,London,0,1,0,2,English,69.6,0.93,113,2,0.4626135237558282,-0.25912839593905945,0,Basic Concepts,Easy
+Stephanie Brown,17,1,USA,Texas,Houston,1,0,0,1,Science,82.43,1.63,82,2,0.10907658956461547,-1.604084510863048,0,Basic Concepts,Easy
+Daniel Tucker,14,1,UK,England,Manchester,0,1,2,1,Artificial Intelligence Basics,89.28,2.73,80,1,-1.6709154003524562,-0.2915554825080291,2,Expert-Level Applications,Hard
+Jacqueline Andrews,13,0,Canada,Ontario,Toronto,0,0,1,2,Geography,77.57,2.6,127,0,-0.1845403173959354,1.4642468707096068,1,Advanced Topics,Medium
+William Brown,9,1,UK,Scotland,Glasgow,2,0,2,1,Health Education,71.37,0.88,138,0,0.5909384669186633,0.4073743755353988,2,Expert-Level Applications,Hard
+Stephanie Fox,16,1,India,Maharashtra,Pune,2,0,0,2,Biology,74.77,1.68,97,2,0.329492231582093,-0.3788617631519348,0,Basic Concepts,Easy
+Sophia Miller,10,1,Canada,Quebec,Montreal,2,1,0,0,Coding for Kids,53.47,2.32,130,2,1.0350829908939563,0.5544711373559904,0,Basic Concepts,Easy
+William Sanchez,7,0,USA,Texas,Houston,6,1,0,2,Storytelling & Creative Writing,82.38,1.03,109,2,-0.47345531244853867,-0.5330524109089366,0,Basic Concepts,Easy
+Justin Sanchez,5,1,India,Karnataka,Bangalore,3,2,1,0,Astronomy,75.32,2.97,132,0,-0.8545544886391947,1.0018187607876332,1,Advanced Topics,Medium
+Stephanie Brown,8,1,India,Maharashtra,Pune,1,2,1,0,Biology,99.52,2.68,137,0,-0.887273604748563,0.24987281581187867,1,Advanced Topics,Medium
+Karen Sanchez,12,0,India,Karnataka,Bangalore,5,2,2,0,Cyber Safety,69.65,1.95,81,1,-0.7076703397212946,-0.9103490190911332,2,Expert-Level Applications,Hard
+William Andrews,15,0,Australia,Victoria,Melbourne,4,0,1,2,Environmental Science,69.61,1.5,111,1,0.5189142041392878,0.3167279703866536,1,Advanced Topics,Medium
+Emily Tapia,12,0,USA,California,Los Angeles,2,0,0,2,Cyber Safety,95.78,2.56,81,2,-1.6965423767408274,-0.5506671683712603,0,Basic Concepts,Easy
+Justin Davis,11,0,Australia,New South Wales,Newcastle,1,1,0,1,Storytelling & Creative Writing,74.95,0.58,91,2,0.299782672728094,-1.8532369102872883,0,Basic Concepts,Easy
+William Brown,6,1,Australia,Victoria,Melbourne,0,2,1,2,Critical Thinking,80.39,1.24,90,0,-1.3939761667337731,-0.5134407111649444,1,Advanced Topics,Medium
+Karen Andrews,17,0,UK,England,London,1,2,0,2,Astronomy,62.72,1.07,88,2,0.9277787479497677,-0.8292618954535991,0,Basic Concepts,Easy
+Sophia Fox,12,0,India,Maharashtra,Mumbai,1,1,1,1,Reading & Writing,87.62,1.69,136,0,0.30067869772799294,0.2130662882921554,1,Advanced Topics,Medium
+Karen Garcia,16,0,Australia,New South Wales,Newcastle,2,2,0,0,Programming,64.05,0.7,119,2,2.1318658987334587,-1.4092689661305466,0,Basic Concepts,Easy
+Daniel Wilson,11,1,UK,Scotland,Glasgow,5,0,0,2,Economics,83.78,1.78,126,2,0.041637745626326994,0.38887729516519387,0,Basic Concepts,Easy
+Stephanie Garcia,13,1,USA,New York,Buffalo,1,0,0,1,English,62.13,0.88,112,2,1.3036029595373195,-0.7780017923763757,0,Basic Concepts,Easy
+Daniel Fox,9,1,UK,Scotland,Glasgow,1,1,1,0,Cyber Safety,42.77,1.13,93,2,0.6808796977274713,-0.7969088510982051,1,Advanced Topics,Medium
+William Wilson,12,1,Canada,Quebec,Quebec City,4,1,1,0,Coding for Kids,49.87,0.99,100,2,1.1231520036956313,-0.9586686048023154,1,Advanced Topics,Medium
+Jacqueline Garcia,15,1,USA,Texas,Dallas,2,2,0,0,Environmental Science,46.25,2.41,83,2,0.7278677940734654,-0.6011988058429334,0,Basic Concepts,Easy
+Jacqueline Garcia,5,1,UK,Scotland,Edinburgh,0,0,1,2,Physics,77.95,0.74,86,0,-1.2875928550913163,-0.9296530615887276,1,Advanced Topics,Medium
+Emily Miller,4,1,Australia,New South Wales,Sydney,0,2,2,1,History,96.01,1.75,89,0,-2.4801334158926847,-0.7402049834497259,2,Expert-Level Applications,Hard
+Taylor Miller,8,1,Canada,Ontario,Toronto,6,0,0,2,Economics,52.28,0.59,134,2,1.4002545105190882,0.5207872867142469,0,Basic Concepts,Easy
+Sophia Brown,18,1,Australia,New South Wales,Newcastle,5,0,2,2,Economics,41.2,1.29,80,1,0.8534189784421399,0.23349557215788871,2,Expert-Level Applications,Hard
+Emily Fox,5,1,UK,Scotland,Edinburgh,3,1,2,2,English,58.33,1.25,134,0,-0.07175320969253514,1.5644412475460712,2,Expert-Level Applications,Hard
+Stephanie Miller,14,1,India,Karnataka,Mysore,5,2,1,0,Economics,54.14,1.05,95,1,1.113166725900801,-1.1999698448621203,1,Advanced Topics,Medium
+Stephanie Garcia,5,1,Australia,Victoria,Geelong,5,2,2,2,Computer Science,99.85,2.7,80,0,-3.397998661158611,0.2022308666279274,2,Expert-Level Applications,Hard
+Robert Tapia,5,0,USA,California,San Francisco,4,1,0,1,Science,51.42,0.94,98,2,0.1625299452557692,-0.6646317676961537,0,Basic Concepts,Easy
+Emily Fox,17,1,Canada,Ontario,Toronto,5,0,1,0,Physics,96.81,2.12,119,1,0.2710249397321695,-0.8236337250756429,1,Advanced Topics,Medium
+Daniel Tapia,10,1,India,Maharashtra,Pune,2,0,2,2,Storytelling & Creative Writing,81.07,2.02,92,0,-1.5074074115007086,0.34261777400859766,2,Expert-Level Applications,Hard
+Robert Fox,16,1,Australia,New South Wales,Sydney,5,0,2,0,Logical Reasoning,43.8,1.77,98,1,1.1116968275779822,-0.04681291305719712,2,Expert-Level Applications,Hard
+Stephanie Andrews,7,0,India,Karnataka,Mysore,2,1,2,2,Programming,63.08,2.35,106,0,-1.2150400722702361,1.4934308434261596,2,Expert-Level Applications,Hard
+Taylor Wilson,5,1,Australia,Victoria,Geelong,0,0,1,1,Health Education,78.68,1.93,93,0,-1.5632409438913784,-0.3930765831348577,1,Advanced Topics,Medium
+William Andrews,4,1,USA,Texas,Houston,5,0,2,2,Astronomy,98.23,0.51,117,0,-1.4086729221381624,-0.43071772730861846,2,Expert-Level Applications,Hard
+Justin Miller,12,1,USA,California,Los Angeles,6,0,2,1,Chemistry,60.1,1.87,134,1,0.7034969468244827,1.275628711447606,2,Expert-Level Applications,Hard
+Stephanie Miller,5,0,India,Karnataka,Mysore,2,1,2,2,Astronomy,82.81,2.86,100,0,-2.4896936945251253,1.2910507652886976,2,Expert-Level Applications,Hard
+Sophia Andrews,8,1,Canada,Quebec,Quebec City,3,0,1,2,Physics,57.66,2.15,114,0,-0.34963309702965056,1.362116766853897,1,Advanced Topics,Medium
+Stephanie Davis,8,1,Canada,Quebec,Quebec City,2,1,2,0,Astronomy,41.89,2.73,136,0,0.501037205891553,1.9753039293853856,2,Expert-Level Applications,Hard
+Stephanie Brown,4,0,Australia,New South Wales,Newcastle,3,2,1,2,Reading & Writing,65.6,0.82,106,0,-0.6107938327868073,0.005413752122303851,1,Advanced Topics,Medium
+Jacqueline Tucker,9,0,UK,England,Manchester,4,0,2,1,Storytelling & Creative Writing,66.17,2.94,119,0,-0.8219249123233016,1.6215712617794376,2,Expert-Level Applications,Hard
+Daniel Sanchez,16,0,Australia,Victoria,Melbourne,5,2,0,1,Astronomy,49.6,0.51,130,2,2.719259397883947,-0.3378657912058559,0,Basic Concepts,Easy
+Stephanie Brown,14,1,Australia,Victoria,Melbourne,1,0,1,1,Astronomy,86.94,1.51,136,1,0.6879737798968397,0.04248591872467567,1,Advanced Topics,Medium
+Daniel Sanchez,11,0,India,Maharashtra,Mumbai,4,2,1,0,Science,62.95,1.17,82,2,0.06372237892564586,-1.6072866702953101,1,Advanced Topics,Medium
+Sophia Wilson,12,1,India,Karnataka,Bangalore,6,0,2,1,Chemistry,71.34,1.88,131,1,0.29195169506229784,0.9262920339959672,2,Expert-Level Applications,Hard
+Stephanie Brown,10,0,Canada,Quebec,Montreal,5,1,2,1,Biology,51.6,0.76,89,1,0.1769362265163309,-0.5659460833955391,2,Expert-Level Applications,Hard
+Stephanie Andrews,10,1,UK,England,London,5,2,2,1,Logical Reasoning,70.66,1.2,124,1,0.23366388932367219,0.2679945571575084,2,Expert-Level Applications,Hard
+Taylor Tucker,10,1,USA,Texas,Houston,5,1,2,2,English,59.55,2.31,107,0,-0.6583428379433216,1.5057157941528285,2,Expert-Level Applications,Hard
+Emily Tapia,13,0,India,Karnataka,Mysore,3,2,2,0,History,89.94,1.27,84,1,-0.735824421924189,-1.8786213350587322,2,Expert-Level Applications,Hard
+Justin Tucker,8,1,UK,Scotland,Glasgow,0,0,2,0,Civics,90.32,2.03,113,0,-1.121205904997537,-0.3849420416866382,2,Expert-Level Applications,Hard
+Jacqueline Miller,9,0,USA,New York,Buffalo,3,1,0,1,Artificial Intelligence Basics,52.3,2.93,102,2,-0.28836461583185735,0.8815435863277654,0,Basic Concepts,Easy
+Daniel Fox,6,1,USA,California,San Francisco,5,0,1,2,English,51.86,2.53,91,0,-1.2148361544637574,1.2182123685374735,1,Advanced Topics,Medium
+Justin Davis,11,0,Canada,Ontario,Ottawa,6,2,0,1,Storytelling & Creative Writing,73.01,0.64,82,2,0.10490728755684225,-2.0051156054175143,0,Basic Concepts,Easy
+Karen Tucker,7,0,UK,England,Manchester,3,2,2,1,Reading & Writing,81.93,1.22,126,0,-0.46809159070444595,0.13273526820052736,2,Expert-Level Applications,Hard
+Robert Tucker,5,0,Canada,Ontario,Toronto,1,1,0,2,Artificial Intelligence Basics,97.6,0.81,114,2,-0.9549368846086659,-0.8935282716627861,0,Basic Concepts,Easy
+Daniel Garcia,18,1,Canada,Ontario,Ottawa,2,0,0,1,Logical Reasoning,41.39,2.91,89,2,0.9462090774484265,0.5666168698238705,0,Basic Concepts,Easy
+Stephanie Miller,15,0,UK,Scotland,Glasgow,5,1,0,0,Programming,64.69,2.08,80,2,0.2850171636141034,-1.3919113759226334,0,Basic Concepts,Easy
+Daniel Andrews,7,1,Australia,New South Wales,Sydney,1,2,0,0,History,67.38,1.3,82,2,-0.411971928721367,-1.823999984678993,0,Basic Concepts,Easy
+William Wilson,5,1,Australia,New South Wales,Sydney,0,0,2,0,Chemistry,54.41,1.4,121,0,0.06843073456146763,0.29163925500629534,2,Expert-Level Applications,Hard
+Robert Wilson,11,0,USA,New York,New York City,3,1,2,1,Biology,41.6,1.29,103,1,0.6675127738060928,0.45161855169545584,2,Expert-Level Applications,Hard
+William Fox,11,0,UK,Scotland,Edinburgh,5,0,2,0,Geography,58.57,1.91,137,1,0.8765944411484924,0.8846548792956166,2,Expert-Level Applications,Hard
+Sophia Tapia,12,1,Australia,Victoria,Melbourne,0,0,2,0,Reading & Writing,83.89,2.16,109,1,-0.5564864787992997,-0.32927224570175584,2,Expert-Level Applications,Hard
+Justin Tucker,18,0,Canada,Quebec,Montreal,3,2,0,1,Geography,92.04,1.06,96,2,0.607448979210908,-1.9243364769600872,0,Basic Concepts,Easy
+William Sanchez,12,0,Australia,New South Wales,Newcastle,5,2,0,1,Science,69.96,2.91,109,2,-0.222937987885042,0.5549284510429985,0,Basic Concepts,Easy
+Karen Miller,16,0,India,Maharashtra,Mumbai,6,2,2,2,Economics,66.41,1.27,90,1,0.09151944876217266,-0.0787430293467184,2,Expert-Level Applications,Hard
+Jacqueline Miller,4,1,UK,England,London,2,1,1,2,Computer Science,83.47,1.67,121,0,-1.2275230760875635,0.6412321897146032,1,Advanced Topics,Medium
+Daniel Wilson,13,1,Canada,Quebec,Quebec City,3,1,1,1,Reading & Writing,70.78,2.74,128,1,0.17730358121642517,1.2018737458986033,1,Advanced Topics,Medium
+William Miller,12,0,Canada,Quebec,Montreal,1,2,0,1,Mathematics,93.17,1.49,82,2,-0.8112169577166344,-1.8590153150389217,0,Basic Concepts,Easy
+Emily Tapia,17,1,Australia,New South Wales,Newcastle,4,2,2,2,Economics,71.48,2.3,134,1,0.602519248084733,1.7804554727170538,2,Expert-Level Applications,Hard
+Emily Tapia,9,1,UK,Scotland,Glasgow,0,0,2,2,Programming,77.76,2.82,118,0,-1.3365835842641998,1.7820682454001653,2,Expert-Level Applications,Hard
+William Garcia,7,1,USA,Texas,Houston,4,2,2,2,Physics,78.65,1.13,92,0,-1.3660039721450326,-0.2220017858197477,2,Expert-Level Applications,Hard
+Taylor Tucker,11,1,USA,New York,Buffalo,1,1,1,1,Civics,63.11,3.0,109,0,-0.47046864678985434,1.1195484193462857,1,Advanced Topics,Medium
+Sophia Andrews,18,0,Australia,New South Wales,Sydney,6,2,1,1,Geography,93.85,0.89,125,1,1.0876283659954031,-1.0046978628994938,1,Advanced Topics,Medium
+Robert Miller,7,1,UK,England,Manchester,0,0,0,0,Logical Reasoning,60.2,1.63,90,2,-0.1801588873687634,-1.17211112328229,0,Basic Concepts,Easy
+Stephanie Davis,4,1,UK,Scotland,Glasgow,0,1,0,2,Critical Thinking,74.8,2.58,97,0,-1.7780835668435484,0.6033578424701938,0,Basic Concepts,Easy
+Justin Davis,7,0,Canada,Ontario,Ottawa,6,0,2,0,Storytelling & Creative Writing,77.53,2.2,114,0,-0.9444293932837569,0.11143056258790734,2,Expert-Level Applications,Hard
+Sophia Tapia,6,0,USA,Texas,Dallas,4,1,1,2,Science,53.57,2.08,119,0,-0.3396280883726731,1.5912137649459355,1,Advanced Topics,Medium
+Sophia Tucker,6,1,USA,California,San Francisco,1,2,0,2,Geography,40.4,1.64,105,2,0.2098628919023322,0.8841129318685664,0,Basic Concepts,Easy
+Robert Fox,5,0,UK,Scotland,Glasgow,4,0,0,0,Programming,58.27,1.96,135,2,0.530683141524699,0.4100881592803112,0,Basic Concepts,Easy
+Stephanie Wilson,6,1,USA,California,San Francisco,4,2,2,1,Artificial Intelligence Basics,99.15,2.64,112,0,-2.215510072215975,0.45926810067586415,2,Expert-Level Applications,Hard
+Emily Miller,17,1,India,Karnataka,Mysore,2,2,2,1,Geography,82.56,1.89,123,1,0.4358495552042001,0.3235910235311712,2,Expert-Level Applications,Hard
+William Andrews,11,0,Canada,Quebec,Quebec City,1,1,1,2,Coding for Kids,40.47,0.55,131,2,1.8374655748066806,0.9296777201265994,1,Advanced Topics,Medium
+William Tucker,4,0,UK,England,London,1,0,1,1,Cyber Safety,80.52,2.41,93,0,-2.0099148984577204,-0.040337435653169926,1,Advanced Topics,Medium
+Jacqueline Brown,11,0,India,Maharashtra,Mumbai,4,1,1,1,Logical Reasoning,90.29,2.91,87,0,-1.7653762588842505,-0.2175430536174747,1,Advanced Topics,Medium
+Sophia Brown,15,1,USA,New York,Buffalo,4,2,2,0,Reading & Writing,60.06,0.96,91,1,0.7568333235494507,-1.2445030836518918,2,Expert-Level Applications,Hard
+Karen Sanchez,15,0,UK,Scotland,Glasgow,0,1,1,2,History,43.54,2.46,119,1,0.9730217210626549,1.9222609981750862,1,Advanced Topics,Medium
+Robert Wilson,6,1,USA,California,Los Angeles,3,2,1,0,Chemistry,65.0,1.46,129,0,0.3207430800428505,-0.028726719135238717,1,Advanced Topics,Medium
+Robert Miller,8,1,India,Maharashtra,Mumbai,0,1,1,0,Science,48.15,0.63,134,2,1.6568291921433647,-0.17374811808648122,1,Advanced Topics,Medium
+William Garcia,17,0,India,Karnataka,Mysore,1,2,0,0,Health Education,63.9,2.36,115,2,1.285919751376812,-0.24379110964175651,0,Basic Concepts,Easy
+Stephanie Brown,7,0,Canada,Quebec,Quebec City,5,0,0,2,History,81.04,1.92,80,2,-1.619447533174451,-0.5993048449828546,0,Basic Concepts,Easy
+Stephanie Andrews,7,1,India,Karnataka,Bangalore,5,0,0,0,Artificial Intelligence Basics,42.58,1.34,108,2,0.9370904186767974,-0.47475018889831333,0,Basic Concepts,Easy
+Daniel Fox,4,0,UK,England,London,0,2,2,2,Science,79.26,0.56,113,0,-0.9716372660631738,-0.03685629608732936,2,Expert-Level Applications,Hard
+William Andrews,7,1,India,Maharashtra,Mumbai,5,1,2,1,Physics,53.99,1.83,103,0,-0.529933262444159,0.663215025989496,2,Expert-Level Applications,Hard
+Robert Fox,8,1,India,Karnataka,Bangalore,5,2,0,1,Science,67.71,0.68,81,2,-0.19035467516823795,-1.8012972150858721,0,Basic Concepts,Easy
+William Brown,4,1,USA,New York,Buffalo,3,2,2,1,Cyber Safety,75.3,2.25,126,0,-1.2290676992044847,1.1685514118096183,2,Expert-Level Applications,Hard
+Robert Wilson,11,1,India,Karnataka,Bangalore,6,2,1,1,Astronomy,99.98,1.36,114,0,-0.5625045860601307,-0.9250785526236593,1,Advanced Topics,Medium
+Justin Davis,9,1,India,Karnataka,Mysore,2,0,1,0,Science,91.17,1.37,89,0,-0.9783828481722076,-1.9036646156397334,1,Advanced Topics,Medium
+Jacqueline Wilson,15,1,UK,England,London,0,2,0,2,English,66.4,1.4,84,2,0.2735489208249679,-0.724519058560899,0,Basic Concepts,Easy
+Stephanie Miller,18,0,Canada,Quebec,Montreal,2,1,0,0,Geography,69.32,0.79,129,2,2.4432582823731495,-1.241394436945334,0,Basic Concepts,Easy
+Emily Garcia,10,1,Australia,Victoria,Melbourne,4,2,1,0,Astronomy,82.14,0.53,132,2,0.9258976441634098,-1.1851425422486255,1,Advanced Topics,Medium
+Emily Tapia,15,1,Canada,Ontario,Ottawa,2,0,0,2,Chemistry,90.82,2.44,83,2,-1.0302445912379041,-0.538426273050765,0,Basic Concepts,Easy
+Jacqueline Miller,4,0,USA,New York,Buffalo,3,1,0,1,Astronomy,49.86,0.5,103,2,0.4309834913429589,-0.8094356603917064,0,Basic Concepts,Easy
+Taylor Sanchez,18,0,Canada,Quebec,Montreal,0,1,2,1,Economics,73.68,1.79,109,1,0.5451315132641182,0.05660535902433572,2,Expert-Level Applications,Hard
+Taylor Miller,17,2,USA,California,San Francisco,4,1,1,0,English,95.43,0.83,80,1,0.04763291169642775,-2.862583196743342,1,Advanced Topics,Medium
+Sophia Miller,15,0,USA,Texas,Houston,1,1,1,0,Biology,76.59,1.66,110,1,0.6246520734846219,-0.8868369788916242,1,Advanced Topics,Medium
+Stephanie Brown,15,2,Canada,Ontario,Toronto,5,2,1,2,Cyber Safety,73.8,1.89,117,1,0.3330563314387775,0.6824435627253725,1,Advanced Topics,Medium
+Stephanie Tapia,4,1,Canada,Ontario,Toronto,4,1,1,0,Critical Thinking,70.36,2.45,135,0,-0.49157990018672965,0.8231336007150614,1,Advanced Topics,Medium
+Justin Wilson,12,1,UK,Scotland,Edinburgh,0,1,0,0,English,42.86,1.81,114,2,1.5014006718946864,-0.06805339040609276,0,Basic Concepts,Easy
+Sophia Sanchez,9,1,USA,California,San Francisco,3,1,0,1,Chemistry,81.43,0.84,86,2,-0.4243736099983238,-1.8989635406410863,0,Basic Concepts,Easy
+Robert Brown,15,1,USA,California,Los Angeles,2,2,1,1,Coding for Kids,44.83,2.16,101,1,0.8660886156766153,0.5993320794864332,1,Advanced Topics,Medium
+Justin Wilson,9,1,UK,Scotland,Edinburgh,6,2,1,0,Critical Thinking,93.27,1.42,112,0,-0.5045210586839878,-1.2870106503087846,1,Advanced Topics,Medium
+Stephanie Brown,4,1,Canada,Ontario,Toronto,4,0,2,1,English,58.53,2.36,88,0,-1.721203946596498,0.6254583613536792,2,Expert-Level Applications,Hard
+Robert Wilson,18,0,India,Maharashtra,Mumbai,5,2,1,1,Artificial Intelligence Basics,43.31,2.36,118,1,1.6263975096876553,1.1872027245931978,1,Advanced Topics,Medium
+Taylor Garcia,16,0,UK,Scotland,Edinburgh,3,2,2,0,Science,65.52,2.02,106,1,0.5306425110501478,-0.16460756220004436,2,Expert-Level Applications,Hard
+Robert Tapia,16,1,Australia,New South Wales,Sydney,0,2,2,0,History,65.67,2.4,84,1,-0.21537897550107218,-0.47362185481323504,2,Expert-Level Applications,Hard
+Sophia Garcia,8,0,USA,California,San Francisco,6,0,2,2,Geography,87.23,2.86,100,0,-2.2142422753877624,1.1126149691067375,2,Expert-Level Applications,Hard
+Jacqueline Fox,18,0,India,Maharashtra,Pune,0,2,2,1,Artificial Intelligence Basics,71.87,0.78,94,1,0.7719480381607996,-1.097045166943339,2,Expert-Level Applications,Hard
+Karen Davis,8,1,UK,Scotland,Glasgow,5,1,0,0,Reading & Writing,51.02,0.63,104,2,1.1045520488964902,-1.3678565202359771,0,Basic Concepts,Easy
+Taylor Wilson,16,0,USA,Texas,Dallas,1,2,1,2,History,89.11,0.98,91,1,-0.13421879396420866,-1.1364806911954615,1,Advanced Topics,Medium
+Stephanie Fox,14,0,Australia,Victoria,Melbourne,1,2,1,1,Artificial Intelligence Basics,98.16,0.59,101,1,-0.008515666472348875,-1.906870601343652,1,Advanced Topics,Medium
+Daniel Sanchez,10,1,UK,England,London,2,1,1,0,Environmental Science,74.54,2.78,132,0,-0.05263244938945407,0.7556250464989723,1,Advanced Topics,Medium
+Justin Tapia,18,1,UK,Scotland,Edinburgh,0,1,2,1,Economics,72.33,0.98,100,1,0.7981595243159625,-0.7882227553934342,2,Expert-Level Applications,Hard
+Daniel Fox,18,1,Australia,New South Wales,Newcastle,0,1,2,2,Chemistry,58.05,1.1,115,1,1.3125729166185478,0.6301884785197011,2,Expert-Level Applications,Hard
+Justin Tucker,12,1,Australia,New South Wales,Newcastle,0,1,2,2,Critical Thinking,51.39,1.23,88,1,-0.03307151440766865,0.2966390472833286,2,Expert-Level Applications,Hard
+Jacqueline Davis,14,1,Australia,Victoria,Geelong,5,0,1,1,English,54.84,2.12,97,1,0.35779837557580213,0.23717372026633438,1,Advanced Topics,Medium
+Jacqueline Andrews,10,0,Canada,Ontario,Ottawa,5,2,1,2,Physics,59.11,2.22,118,0,-0.06125444084042216,1.4437820916561104,1,Advanced Topics,Medium
+Stephanie Miller,5,0,India,Karnataka,Mysore,5,1,1,0,Biology,88.92,1.87,106,0,-1.3050066756232817,-0.9000150927217281,1,Advanced Topics,Medium
+Taylor Tapia,18,2,UK,Scotland,Edinburgh,0,1,2,0,Economics,95.83,0.59,110,1,0.7669106260994993,-1.9590997346430115,2,Expert-Level Applications,Hard
+Karen Garcia,5,1,Australia,Victoria,Geelong,4,0,1,2,Cyber Safety,94.93,1.98,83,0,-2.527025407456996,-0.4601965329174212,1,Advanced Topics,Medium
+Taylor Davis,9,1,India,Karnataka,Mysore,4,0,2,0,Artificial Intelligence Basics,82.67,2.8,94,0,-1.6360574043995944,-0.1402714186581213,2,Expert-Level Applications,Hard
+Stephanie Tapia,5,0,Canada,Ontario,Ottawa,6,0,0,1,Biology,93.42,0.95,87,2,-1.3554963652550882,-1.9855828513977136,0,Basic Concepts,Easy
+Justin Davis,9,0,UK,England,Manchester,1,0,2,0,Environmental Science,43.94,1.51,116,1,0.738994304903397,0.4032349550655458,2,Expert-Level Applications,Hard
+Justin Tucker,8,1,Canada,Ontario,Toronto,3,0,0,2,Civics,46.25,2.56,92,2,-0.5026759249528813,1.0560526692486754,0,Basic Concepts,Easy
+Stephanie Davis,15,0,USA,New York,New York City,0,1,2,0,Artificial Intelligence Basics,53.84,1.15,98,1,1.010641642772126,-0.7526447131423291,2,Expert-Level Applications,Hard
+William Garcia,15,1,Canada,Ontario,Ottawa,6,2,0,0,Artificial Intelligence Basics,61.67,1.85,124,2,1.5740904426620816,-0.29396904069882573,0,Basic Concepts,Easy
+Daniel Andrews,12,2,India,Maharashtra,Pune,2,1,1,2,Economics,46.15,2.33,126,1,0.7302489459623107,2.0187109253491915,1,Advanced Topics,Medium
+Karen Tucker,6,1,USA,California,Los Angeles,2,2,0,2,Chemistry,66.74,2.86,121,0,-0.8310908225222233,1.6285504405374043,0,Basic Concepts,Easy
+Taylor Andrews,5,0,USA,Texas,Houston,4,2,1,1,History,61.07,1.85,93,0,-0.9990579640366746,-0.02448530402298748,1,Advanced Topics,Medium
+Justin Tucker,15,1,USA,New York,New York City,0,2,0,1,Economics,71.5,2.76,110,2,0.2424887446741165,0.35734280763610843,0,Basic Concepts,Easy
+Emily Garcia,11,1,India,Karnataka,Bangalore,2,0,0,2,Economics,53.34,1.69,95,2,0.23250156118023477,0.21581255164849733,0,Basic Concepts,Easy
+Karen Tucker,14,1,India,Maharashtra,Pune,0,1,0,2,Logical Reasoning,79.51,0.74,136,2,1.3753743893142525,-0.11447201858634826,0,Basic Concepts,Easy
+Justin Miller,15,1,India,Karnataka,Mysore,6,2,0,2,Storytelling & Creative Writing,43.55,0.78,140,2,2.6519823302154726,0.8827805309466803,0,Basic Concepts,Easy
+Jacqueline Tapia,17,1,Australia,New South Wales,Newcastle,2,2,2,1,Critical Thinking,46.23,1.3,90,1,1.0196196755395144,-0.1499718161881147,2,Expert-Level Applications,Hard
+Jacqueline Tapia,15,0,India,Karnataka,Bangalore,0,1,0,0,Reading & Writing,82.1,2.4,126,2,0.7239438534983279,-0.3103246594524578,0,Basic Concepts,Easy
+William Garcia,8,0,UK,Scotland,Edinburgh,0,2,1,1,English,54.54,2.61,125,0,-0.02293203768860653,1.5329935457262032,1,Advanced Topics,Medium
+William Andrews,14,0,India,Maharashtra,Mumbai,0,1,1,0,Coding for Kids,72.59,2.37,90,1,-0.26151952148560653,-0.7587983874178764,1,Advanced Topics,Medium
+Karen Tapia,12,0,Canada,Quebec,Montreal,2,2,2,1,Economics,80.76,2.87,107,0,-1.1037653274781871,0.8114424169896718,2,Expert-Level Applications,Hard
+Emily Tucker,10,0,UK,Scotland,Glasgow,3,1,1,1,Artificial Intelligence Basics,59.95,2.42,116,0,-0.030817802090228115,0.9594174011879083,1,Advanced Topics,Medium
+Taylor Garcia,7,1,Australia,Victoria,Melbourne,0,1,0,2,Computer Science,86.56,2.93,121,0,-1.3199185061162202,1.174652591792457,0,Basic Concepts,Easy
+Sophia Andrews,6,1,India,Karnataka,Bangalore,4,0,1,2,Storytelling & Creative Writing,48.64,1.43,139,0,0.6434058958588031,1.7519402626790195,1,Advanced Topics,Medium
+Daniel Davis,16,1,USA,California,San Francisco,5,1,2,1,Environmental Science,88.49,1.5,105,1,-0.1069867718517005,-0.5945805931476972,2,Expert-Level Applications,Hard
+Daniel Davis,14,0,Canada,Quebec,Quebec City,0,0,1,1,Chemistry,96.43,0.62,133,1,0.8096610583046998,-0.9659284619871226,1,Advanced Topics,Medium
+Justin Davis,4,0,Canada,Ontario,Ottawa,4,2,2,2,Programming,83.04,2.22,136,0,-1.4087217294477645,1.7943150046669278,2,Expert-Level Applications,Hard
+Karen Wilson,8,0,Australia,Victoria,Geelong,5,0,0,1,Storytelling & Creative Writing,49.22,1.39,108,2,0.6379625912111326,-0.05659608636768426,0,Basic Concepts,Easy
+Robert Tapia,12,0,UK,Scotland,Edinburgh,3,2,2,0,Geography,70.2,1.22,118,1,0.5718769773156409,-0.4811774730548922,2,Expert-Level Applications,Hard
+Sophia Fox,18,1,Australia,New South Wales,Newcastle,6,1,2,2,Artificial Intelligence Basics,56.21,0.59,137,1,2.178169607045339,0.8791768967257675,2,Expert-Level Applications,Hard
+Daniel Brown,8,1,India,Maharashtra,Mumbai,6,2,1,2,Biology,48.44,0.65,120,2,0.8725275099965668,0.5820212803307272,1,Advanced Topics,Medium
+Karen Brown,11,0,UK,Scotland,Edinburgh,4,0,2,0,Geography,41.37,2.06,128,1,1.0853893949392068,1.1764365104636636,2,Expert-Level Applications,Hard
+Robert Miller,8,0,UK,Scotland,Glasgow,0,2,0,1,Artificial Intelligence Basics,73.35,1.83,118,2,-0.06714134950827355,-0.030491833401755312,0,Basic Concepts,Easy
+Taylor Sanchez,6,0,India,Maharashtra,Pune,0,1,2,0,Geography,87.73,2.03,110,0,-1.3888067523415517,-0.3567643484107337,2,Expert-Level Applications,Hard
+Taylor Wilson,7,1,UK,England,London,2,2,2,2,Mathematics,72.04,2.26,134,0,-0.7470549196052688,1.9697601632754986,2,Expert-Level Applications,Hard
+Karen Wilson,15,1,India,Karnataka,Bangalore,5,1,1,0,Storytelling & Creative Writing,60.71,2.95,124,1,0.7473506197228297,0.8907752677973455,1,Advanced Topics,Medium
+Karen Andrews,16,1,USA,California,San Francisco,6,1,2,2,Reading & Writing,49.27,3.0,104,1,0.016163097669718577,2.0728605919592633,2,Expert-Level Applications,Hard
+Karen Tapia,11,0,UK,England,Manchester,4,0,2,0,Mathematics,75.69,1.54,113,1,-0.019623345240870723,-0.4793018760224288,2,Expert-Level Applications,Hard
+William Fox,13,1,India,Karnataka,Bangalore,4,0,1,0,Health Education,98.67,2.97,108,0,-1.0496322716708897,-0.4134125517720083,1,Advanced Topics,Medium
+Jacqueline Brown,12,1,Canada,Quebec,Montreal,2,1,0,1,Economics,77.61,0.51,95,2,0.49178451024870035,-1.8869497558511632,0,Basic Concepts,Easy
+Daniel Brown,5,0,Australia,New South Wales,Newcastle,3,2,1,2,Civics,59.81,2.68,132,0,-0.6626698824813528,2.2854082091932946,1,Advanced Topics,Medium
+Emily Tapia,8,0,Australia,New South Wales,Newcastle,4,0,0,2,Artificial Intelligence Basics,60.6,1.03,107,2,0.25789997189340463,-0.07813475651987685,0,Basic Concepts,Easy
+Justin Andrews,13,0,India,Karnataka,Mysore,0,0,2,1,Environmental Science,43.89,2.56,94,1,-0.0289661415764719,1.0930493472584621,2,Expert-Level Applications,Hard
+Daniel Wilson,16,0,Canada,Quebec,Quebec City,2,0,2,0,Coding for Kids,86.58,1.89,118,1,0.270270462657975,-0.4532094677200601,2,Expert-Level Applications,Hard
+Robert Wilson,7,0,Australia,Victoria,Geelong,1,1,0,1,Coding for Kids,50.54,1.08,138,2,1.3633288449645062,0.513256516790006,0,Basic Concepts,Easy
+Emily Garcia,14,1,Canada,Ontario,Toronto,2,2,2,1,Logical Reasoning,41.6,0.63,130,1,2.08752926764806,0.6050799013303164,2,Expert-Level Applications,Hard
+William Tapia,15,1,Australia,New South Wales,Sydney,4,0,0,0,Reading & Writing,78.82,2.43,129,2,0.8784160529892819,-0.12460329050417507,0,Basic Concepts,Easy
+Sophia Davis,4,0,India,Karnataka,Bangalore,5,0,2,1,Programming,89.98,1.02,95,0,-1.764301981153437,-0.9978515241903597,2,Expert-Level Applications,Hard
+Karen Andrews,6,0,Canada,Quebec,Montreal,2,2,1,1,Environmental Science,65.77,2.32,95,0,-1.2052448651679712,0.25831909335382897,1,Advanced Topics,Medium
+Jacqueline Tapia,8,1,Canada,Quebec,Montreal,2,0,0,1,Mathematics,44.65,1.63,116,2,0.840641667980389,0.4612255704054499,0,Basic Concepts,Easy
+Emily Tucker,14,1,USA,Texas,Houston,1,1,0,2,Chemistry,42.97,1.44,132,2,1.9849242601087476,1.2163261385026376,0,Basic Concepts,Easy
+Robert Wilson,10,2,USA,Texas,Houston,3,1,1,2,Critical Thinking,74.64,0.8,83,2,-0.6178976132061339,-1.0010045710175797,1,Advanced Topics,Medium
+Justin Miller,9,1,USA,California,San Francisco,4,1,1,1,Reading & Writing,83.05,2.38,81,0,-1.6852057809335843,-0.5709579936898098,1,Advanced Topics,Medium
+Emily Brown,12,0,Australia,New South Wales,Newcastle,2,0,1,1,Cyber Safety,84.16,1.85,112,0,-0.2697167158065725,-0.2338752819999884,1,Advanced Topics,Medium
+Sophia Miller,5,0,USA,California,Los Angeles,4,1,1,2,Geography,94.45,1.34,119,0,-1.2895930022144813,0.03702349368788436,1,Advanced Topics,Medium
+Emily Tapia,12,0,Australia,New South Wales,Newcastle,6,1,2,2,Computer Science,63.62,2.38,96,1,-0.8145687288513449,1.1130072150467807,2,Expert-Level Applications,Hard
+Sophia Garcia,14,0,UK,England,London,6,0,0,1,Science,80.83,2.39,110,2,0.028727414093628317,-0.13613851093448004,0,Basic Concepts,Easy
+William Miller,15,1,Australia,New South Wales,Newcastle,2,1,0,2,Cyber Safety,87.19,2.8,129,2,0.010229983685756085,1.0892843071347424,0,Basic Concepts,Easy
+Daniel Garcia,7,0,Australia,Victoria,Melbourne,4,0,1,1,Economics,85.83,0.94,85,0,-1.1702469496537047,-1.6058040497232957,1,Advanced Topics,Medium
+Karen Sanchez,8,1,Australia,Victoria,Geelong,5,0,2,0,Coding for Kids,91.05,2.45,107,0,-1.5142947934260738,-0.2393524435419554,2,Expert-Level Applications,Hard
+Taylor Wilson,9,1,UK,Scotland,Glasgow,5,0,1,2,Science,44.99,1.63,91,0,-0.1236955243996683,0.6141785829907432,1,Advanced Topics,Medium
+Daniel Wilson,15,1,Australia,New South Wales,Sydney,3,2,2,1,Critical Thinking,89.44,2.87,89,1,-1.3948814671347234,0.03644521486965838,2,Expert-Level Applications,Hard
+William Wilson,5,0,USA,New York,New York City,5,0,1,2,English,90.65,0.73,101,0,-1.291227921645141,-0.8380161950755065,1,Advanced Topics,Medium
+Justin Sanchez,15,0,UK,England,Manchester,2,0,0,2,English,53.81,2.93,135,2,1.075806996207137,2.1717061609404884,0,Basic Concepts,Easy
+Robert Fox,10,1,Canada,Quebec,Montreal,2,1,1,0,Astronomy,42.64,1.43,110,2,1.0756649179922504,-0.11822592403782733,1,Advanced Topics,Medium
+Justin Wilson,4,0,Canada,Quebec,Quebec City,0,1,0,2,Coding for Kids,68.53,1.92,104,0,-1.0681211799342454,0.4335279317043391,0,Basic Concepts,Easy
+Justin Garcia,6,1,Canada,Quebec,Montreal,3,0,1,0,Storytelling & Creative Writing,67.99,1.04,109,0,-0.03249818914622287,-0.9764632987628977,1,Advanced Topics,Medium
+William Tapia,7,0,UK,England,London,6,2,0,1,Health Education,59.28,2.4,121,2,-0.017493495758677344,0.8638661154943246,0,Basic Concepts,Easy
+Stephanie Sanchez,11,0,Canada,Ontario,Ottawa,0,2,0,0,Computer Science,87.73,1.9,115,2,0.013794716864070411,-1.0452297653955633,0,Basic Concepts,Easy
+Emily Fox,11,0,USA,Texas,Dallas,2,2,1,0,Mathematics,94.53,1.2,89,2,-0.7160516470534742,-2.1653200296795463,1,Advanced Topics,Medium
+Sophia Andrews,16,0,Canada,Ontario,Ottawa,6,0,2,2,Storytelling & Creative Writing,80.83,0.91,136,1,0.9827118674531635,0.5456906675529554,2,Expert-Level Applications,Hard
+Taylor Sanchez,13,1,Canada,Ontario,Ottawa,6,0,0,0,Mathematics,43.07,1.11,80,2,1.1731187272942365,-1.5724469565998795,0,Basic Concepts,Easy
+Taylor Garcia,15,0,India,Karnataka,Mysore,6,0,1,2,Critical Thinking,51.11,1.62,128,1,1.418436185301501,1.3280331797629596,1,Advanced Topics,Medium
+Jacqueline Garcia,7,1,Australia,Victoria,Melbourne,5,1,0,0,Science,73.76,0.9,113,2,0.37162956516907847,-1.444245718874209,0,Basic Concepts,Easy
+Taylor Fox,4,1,Canada,Ontario,Toronto,0,2,1,0,Health Education,99.81,0.73,120,0,-0.8105112744741699,-1.6492932740192414,1,Advanced Topics,Medium
+Sophia Sanchez,16,0,Canada,Quebec,Montreal,3,2,1,2,Astronomy,84.63,2.34,84,1,-0.9003364355005482,-0.1576303071206056,1,Advanced Topics,Medium
+Justin Davis,5,0,India,Karnataka,Bangalore,5,0,1,2,Astronomy,93.98,1.86,138,0,-1.0889227927912446,0.9737256540463158,1,Advanced Topics,Medium
+Karen Wilson,9,1,India,Maharashtra,Mumbai,5,2,2,1,Chemistry,49.14,1.72,123,0,0.43275865567801847,1.1962865260811573,2,Expert-Level Applications,Hard
+Robert Wilson,8,1,Canada,Ontario,Toronto,5,1,1,1,Physics,95.4,1.87,135,0,-0.5921773771135416,0.22937392465799264,1,Advanced Topics,Medium
+Robert Andrews,16,0,Australia,New South Wales,Newcastle,6,0,1,0,Programming,61.7,1.9,106,1,0.9746947352294604,-0.46806877008726633,1,Advanced Topics,Medium
+Robert Andrews,14,0,USA,New York,New York City,1,2,0,2,Economics,79.9,0.75,136,2,1.358478315891171,-0.116217822417363,0,Basic Concepts,Easy
+William Andrews,16,0,Canada,Ontario,Toronto,0,1,2,1,English,52.85,2.11,134,1,1.3315298524610752,1.546556306392633,2,Expert-Level Applications,Hard
+William Miller,10,0,Canada,Ontario,Ottawa,1,2,0,1,Health Education,90.76,1.75,80,2,-1.1987549944187383,-1.6051196503082554,0,Basic Concepts,Easy
+Emily Garcia,14,0,USA,New York,New York City,2,2,1,1,Economics,58.0,0.75,113,1,1.388566727698628,-0.471018674479598,1,Advanced Topics,Medium
+Taylor Andrews,9,0,USA,New York,New York City,4,2,0,0,Cyber Safety,79.96,0.87,129,2,0.8664891245655273,-1.2286183065891014,0,Basic Concepts,Easy
+Stephanie Garcia,14,0,India,Maharashtra,Mumbai,5,1,2,0,Economics,89.42,1.23,128,1,0.5130359000678063,-0.717103674248217,2,Expert-Level Applications,Hard
+Stephanie Tucker,6,2,Canada,Ontario,Ottawa,1,2,1,2,Computer Science,82.29,2.23,82,0,-2.175542472286431,-0.0066448018717138796,1,Advanced Topics,Medium
+Daniel Miller,10,1,Australia,New South Wales,Sydney,5,0,0,1,Environmental Science,58.77,1.39,84,2,0.038835757803364866,-0.9935659343494505,0,Basic Concepts,Easy
+Sophia Davis,15,1,Canada,Quebec,Quebec City,1,0,2,1,Science,41.96,2.01,120,1,1.2294450617415684,1.375604079869926,2,Expert-Level Applications,Hard
+Daniel Tapia,11,1,UK,England,Manchester,0,1,0,1,Astronomy,82.5,1.24,99,2,-0.08104487934297794,-1.3044807773943066,0,Basic Concepts,Easy
+Taylor Miller,12,0,India,Karnataka,Bangalore,2,2,2,2,Geography,82.31,2.01,133,0,-0.2646712910099461,1.3789873884735013,2,Expert-Level Applications,Hard
+Karen Andrews,13,1,Australia,Victoria,Melbourne,1,1,0,1,Cyber Safety,94.02,1.91,139,2,0.46911713416863254,-0.016722063046808986,0,Basic Concepts,Easy
+Stephanie Wilson,7,1,India,Karnataka,Bangalore,1,2,1,2,Cyber Safety,57.28,1.95,87,0,-1.027497844852973,0.5004033426810723,1,Advanced Topics,Medium
+Karen Sanchez,11,0,Australia,New South Wales,Sydney,2,1,2,1,Storytelling & Creative Writing,87.44,2.87,117,0,-1.1922948592192184,0.9448800158524416,2,Expert-Level Applications,Hard
+Justin Andrews,8,0,India,Karnataka,Bangalore,5,1,0,0,Geography,45.46,1.38,122,2,1.3084268469882911,-0.15455689433848444,0,Basic Concepts,Easy
+Sophia Brown,10,1,USA,California,Los Angeles,0,0,1,0,Physics,65.38,2.88,137,0,0.2874265098728174,1.194545253587156,1,Advanced Topics,Medium
+Justin Davis,17,0,Canada,Ontario,Ottawa,5,1,1,1,Coding for Kids,58.46,0.57,97,1,1.4860467300983007,-1.1305225380684958,1,Advanced Topics,Medium
+Sophia Tucker,10,1,Australia,Victoria,Geelong,1,2,1,1,Coding for Kids,81.37,1.06,121,2,0.18480910337536852,-0.4887189066226302,1,Advanced Topics,Medium
